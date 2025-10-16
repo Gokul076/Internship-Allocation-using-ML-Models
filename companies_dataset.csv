@@ -1,0 +1,51 @@
+company_id,company_name,domain,requirements,slots,min_gpa,location,stipend
+1,Company_1,Systems,"Web Dev, Python, Cybersecurity",2,7.73,Delhi,35100
+2,Company_2,Frontend,"Python, Web Dev, ML, Java",5,7.29,Coimbatore,5200
+3,Company_3,Frontend,"Cybersecurity, Data Analysis",5,7.41,Delhi,28400
+4,Company_4,Systems,"ML, Web Dev, Data Analysis, Python",4,9.22,Bangalore,28900
+5,Company_5,Cloud,"Web Dev, Cybersecurity, ML, Data Analysis",3,8.97,Hyderabad,6000
+6,Company_6,Data Science,"Python, Web Dev, Java",4,8.3,Delhi,21800
+7,Company_7,Cloud,"Cybersecurity, ML, Data Analysis",4,9.76,Mumbai,9700
+8,Company_8,Data Science,"Web Dev, Python, Java, ML, Data Analysis",3,9.91,Coimbatore,38100
+9,Company_9,Backend,"Cybersecurity, Data Analysis, ML",3,7.29,Bangalore,32300
+10,Company_10,Frontend,"Cybersecurity, Java",3,5.88,Hyderabad,40700
+11,Company_11,Cloud,"Data Analysis, Java, Cybersecurity, ML",2,9.91,Delhi,30900
+12,Company_12,Backend,"Java, Python, Cybersecurity, Web Dev, Data Analysis",4,8.96,Coimbatore,10800
+13,Company_13,Systems,"ML, Cybersecurity, Web Dev, Java",5,9.72,Mumbai,15600
+14,Company_14,AI/ML,"Java, Data Analysis, Cybersecurity",3,7.61,Chennai,49900
+15,Company_15,Frontend,"Cybersecurity, Web Dev, Java, Data Analysis",2,8.79,Hyderabad,19000
+16,Company_16,AI/ML,"Python, Cybersecurity, Web Dev, Java, Data Analysis",2,7.38,Hyderabad,40100
+17,Company_17,AI/ML,"Data Analysis, Python, ML, Cybersecurity, Web Dev",4,6.24,Coimbatore,37000
+18,Company_18,AI/ML,"Web Dev, Cybersecurity",3,8.33,Hyderabad,23600
+19,Company_19,Data Science,"ML, Python, Java, Data Analysis",4,7.83,Chennai,39100
+20,Company_20,Systems,"Data Analysis, Web Dev, ML, Cybersecurity",5,7.49,Mumbai,18600
+21,Company_21,Backend,"Java, Cybersecurity, Python, ML, Data Analysis",5,5.05,Madurai,15000
+22,Company_22,Cloud,"Data Analysis, Web Dev, Python, Java, Cybersecurity",4,9.63,Mumbai,47500
+23,Company_23,AI/ML,"Web Dev, ML, Cybersecurity, Data Analysis",3,5.23,Coimbatore,21900
+24,Company_24,Frontend,"Data Analysis, ML, Cybersecurity",4,5.89,Hyderabad,10400
+25,Company_25,Frontend,"Cybersecurity, Web Dev",3,6.27,Chennai,20400
+26,Company_26,Systems,"Cybersecurity, Java",1,7.01,Madurai,41300
+27,Company_27,Data Science,"Data Analysis, Cybersecurity, Python, Web Dev, ML",5,5.0,Hyderabad,27700
+28,Company_28,Cloud,"Python, ML, Data Analysis, Java, Cybersecurity",1,5.77,Hyderabad,29600
+29,Company_29,Systems,"Data Analysis, Java, Web Dev",3,9.77,Bangalore,17800
+30,Company_30,Mobile,"Cybersecurity, ML, Python, Java",1,8.81,Hyderabad,29000
+31,Company_31,AI/ML,"ML, Cybersecurity, Data Analysis, Web Dev, Java",3,6.96,Hyderabad,16600
+32,Company_32,AI/ML,"Cybersecurity, Data Analysis, Python",3,5.29,Madurai,40800
+33,Company_33,Cloud,"ML, Python, Web Dev, Data Analysis",3,6.38,Mumbai,6600
+34,Company_34,Backend,"Cybersecurity, Java, Python, Web Dev, ML",2,9.96,Mumbai,39800
+35,Company_35,Frontend,"Web Dev, Python, Cybersecurity, ML",4,7.87,Coimbatore,13100
+36,Company_36,Data Science,"Web Dev, ML, Data Analysis",4,9.24,Bangalore,30600
+37,Company_37,Cloud,"Data Analysis, Java, Cybersecurity",2,9.39,Hyderabad,45300
+38,Company_38,Frontend,"Python, ML, Data Analysis",4,5.14,Coimbatore,36400
+39,Company_39,Cloud,"Web Dev, Java, Python, ML, Data Analysis",3,8.76,Chennai,43800
+40,Company_40,Cloud,"Data Analysis, Java, Python",2,9.78,Bangalore,32700
+41,Company_41,Data Science,"Web Dev, Data Analysis, Java, Python, ML",2,8.4,Coimbatore,47400
+42,Company_42,Data Science,"Python, Web Dev",5,7.16,Bangalore,30500
+43,Company_43,Systems,"Cybersecurity, ML, Python, Web Dev, Data Analysis",3,7.82,Coimbatore,19800
+44,Company_44,Systems,"Data Analysis, ML, Web Dev, Python",3,6.63,Bangalore,42000
+45,Company_45,Systems,"Web Dev, Java, Data Analysis",3,5.72,Mumbai,24800
+46,Company_46,Mobile,"ML, Java, Cybersecurity",2,9.46,Hyderabad,45400
+47,Company_47,Backend,"Data Analysis, Cybersecurity",4,9.12,Coimbatore,13300
+48,Company_48,Data Science,"Java, Data Analysis, ML, Python, Web Dev",2,6.02,Bangalore,27000
+49,Company_49,Backend,"Cybersecurity, ML, Java, Data Analysis",1,6.48,Bangalore,16100
+50,Company_50,Mobile,"Cybersecurity, Web Dev, Data Analysis, Python, ML",4,8.18,Delhi,37300

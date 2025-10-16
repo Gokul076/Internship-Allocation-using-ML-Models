@@ -1,0 +1,1001 @@
+intern_id,name,age,gpa,skills,interest,location,preferred_duration_months,prior_experience_years
+1,Arjun Sharma,24,8.98,"Java, Cybersecurity, Web Dev",AI,Mumbai,3,3
+2,Aditya Nair,22,7.98,"Python, Cybersecurity, Web Dev, ML",Web Dev,Delhi,2,2
+3,Aarav Iyer,24,5.29,"Cybersecurity, Web Dev",Cybersecurity,Coimbatore,5,3
+4,Riya Nair,25,8.54,"Python, Java, ML",Data Science,Madurai,6,0
+5,Reyansh Kumar,19,8.61,"Python, Cybersecurity, ML",AI,Madurai,6,1
+6,Saanvi Nair,19,5.91,"Python, ML, Cybersecurity",Cybersecurity,Chennai,5,0
+7,Diya Joshi,21,8.06,"Web Dev, Java, Python",AI,Mumbai,5,3
+8,Krishna Bhat,18,6.46,"Python, Java, Cybersecurity",Cybersecurity,Madurai,3,2
+9,Riya Das,19,5.23,"Java, Data Analysis, Web Dev",Web Dev,Mumbai,4,3
+10,Ananya Chopra,24,7.28,Web Dev,Web Dev,Delhi,6,2
+11,Krishna Reddy,21,7.57,"ML, Data Analysis, Java, Web Dev",Data Science,Hyderabad,1,2
+12,Vivaan Kumar,22,8.04,Data Analysis,Cybersecurity,Madurai,5,0
+13,Aditya Kumar,24,5.07,"Java, ML, Web Dev",Cybersecurity,Coimbatore,1,3
+14,Ananya Reddy,23,9.04,"Cybersecurity, Web Dev",Data Science,Mumbai,1,1
+15,Aarohi Nair,22,6.15,"Data Analysis, Java, Web Dev, Cybersecurity",Cybersecurity,Chennai,4,2
+16,Vivaan Joshi,21,5.61,Java,Web Dev,Hyderabad,5,3
+17,Aarohi Nair,24,5.87,ML,Cybersecurity,Delhi,1,3
+18,Riya Iyer,19,8.31,"Web Dev, Python, Cybersecurity",Data Science,Hyderabad,2,1
+19,Aadhya Verma,23,6.04,"ML, Java, Cybersecurity",AI,Mumbai,4,1
+20,Ananya Iyer,22,9.85,"Web Dev, Python",Data Science,Hyderabad,2,3
+21,Ira Nair,19,6.98,"Java, Data Analysis",Web Dev,Delhi,4,1
+22,Ira Sharma,24,9.61,"ML, Python, Web Dev",Data Science,Hyderabad,6,2
+23,Diya Kumar,21,5.23,Java,AI,Chennai,5,3
+24,Kavya Joshi,22,6.36,Web Dev,Web Dev,Coimbatore,5,3
+25,Kavya Iyer,19,9.83,"Data Analysis, Web Dev",Cybersecurity,Coimbatore,4,3
+26,Ishaan Chopra,22,5.7,"ML, Data Analysis, Cybersecurity",Cybersecurity,Chennai,5,0
+27,Krishna Kumar,18,9.93,Data Analysis,AI,Delhi,1,3
+28,Krishna Nair,25,5.03,"Python, Cybersecurity",AI,Coimbatore,3,2
+29,Aditya Sharma,18,8.56,"Python, Web Dev, Java",Data Science,Mumbai,3,0
+30,Kavya Kumar,20,5.37,"Cybersecurity, Web Dev",Cybersecurity,Coimbatore,2,0
+31,Kavya Bhat,21,9.32,"Java, Python, Web Dev, Data Analysis",Cybersecurity,Madurai,4,1
+32,Aarohi Mehta,18,5.32,"Cybersecurity, Python, Web Dev, ML",Cybersecurity,Mumbai,6,3
+33,Aadhya Bhat,22,8.65,Java,Web Dev,Coimbatore,6,2
+34,Riya Reddy,20,7.36,"Java, Data Analysis, ML, Python",AI,Bangalore,5,2
+35,Arjun Sharma,23,9.24,Python,Web Dev,Coimbatore,5,1
+36,Aarohi Gupta,24,8.85,"Java, ML, Python, Web Dev",Cybersecurity,Chennai,3,0
+37,Meera Patel,24,7.14,"Data Analysis, ML, Web Dev, Python",Web Dev,Madurai,2,3
+38,Ishaan Sharma,22,6.01,Cybersecurity,Data Science,Chennai,1,3
+39,Vivaan Nair,22,7.54,"Web Dev, Cybersecurity, Java, Python",AI,Hyderabad,6,0
+40,Sai Verma,24,8.02,Cybersecurity,Web Dev,Bangalore,3,0
+41,Arjun Nair,21,9.71,"Web Dev, Cybersecurity",AI,Delhi,3,2
+42,Aditya Mehta,23,9.4,"Data Analysis, Java, Cybersecurity",Web Dev,Madurai,2,0
+43,Meera Reddy,23,8.17,"ML, Data Analysis, Python",AI,Bangalore,6,3
+44,Arjun Verma,21,6.09,"Web Dev, Data Analysis",Web Dev,Madurai,4,1
+45,Aditya Kumar,23,7.7,"Data Analysis, Java, ML",Data Science,Delhi,2,2
+46,Ira Sharma,21,6.78,"Cybersecurity, Python, Java",Data Science,Chennai,6,0
+47,Arjun Chopra,18,6.14,"Data Analysis, Cybersecurity",Web Dev,Mumbai,6,0
+48,Aadhya Kumar,21,6.76,"Web Dev, ML, Data Analysis",AI,Chennai,3,2
+49,Aarohi Joshi,23,7.55,"Python, Cybersecurity, Data Analysis",Web Dev,Mumbai,1,1
+50,Ananya Reddy,22,8.46,"Web Dev, ML, Python, Cybersecurity",AI,Mumbai,2,3
+51,Reyansh Iyer,25,9.71,Data Analysis,Web Dev,Bangalore,6,3
+52,Reyansh Sharma,25,7.79,"Data Analysis, Python, Cybersecurity",Web Dev,Mumbai,4,0
+53,Krishna Das,23,9.86,Data Analysis,Cybersecurity,Delhi,4,3
+54,Reyansh Kumar,23,8.48,"Java, ML",AI,Coimbatore,3,0
+55,Aadhya Bhat,22,6.42,"Cybersecurity, Java, Data Analysis, Python",AI,Bangalore,1,2
+56,Vivaan Joshi,18,9.88,"Java, Cybersecurity, ML, Web Dev",Data Science,Hyderabad,4,1
+57,Krishna Kumar,24,6.39,Cybersecurity,Web Dev,Bangalore,1,0
+58,Aadhya Patel,20,8.4,Data Analysis,Data Science,Mumbai,5,3
+59,Ira Mehta,19,9.93,"Python, Cybersecurity, Data Analysis",Web Dev,Delhi,4,2
+60,Ananya Sharma,20,6.85,Web Dev,Cybersecurity,Madurai,1,2
+61,Aadhya Mehta,23,6.84,ML,Web Dev,Madurai,4,1
+62,Vivaan Chopra,23,6.99,"Python, Web Dev, Java, ML",Cybersecurity,Chennai,1,0
+63,Aadhya Nair,21,7.54,"Cybersecurity, Python, Data Analysis",Data Science,Mumbai,5,2
+64,Aarohi Singh,21,6.63,"Cybersecurity, Data Analysis, Java, Python",Cybersecurity,Mumbai,4,2
+65,Meera Das,19,7.56,"Web Dev, Cybersecurity",Data Science,Bangalore,3,3
+66,Aarav Patel,25,5.48,"Java, ML, Data Analysis",Cybersecurity,Bangalore,1,0
+67,Riya Das,25,6.93,"Web Dev, ML",Web Dev,Mumbai,2,3
+68,Aditya Patel,18,8.38,"Python, Java, Data Analysis",Web Dev,Hyderabad,1,0
+69,Ishaan Reddy,19,9.62,Python,Web Dev,Bangalore,6,1
+70,Aditya Gupta,20,6.14,"Cybersecurity, Web Dev, Java, Data Analysis",Cybersecurity,Bangalore,2,3
+71,Meera Kumar,18,7.58,"Cybersecurity, Python",AI,Hyderabad,1,1
+72,Aarohi Kumar,18,5.47,"Cybersecurity, Web Dev",Cybersecurity,Chennai,4,0
+73,Krishna Joshi,22,9.41,ML,Web Dev,Hyderabad,1,0
+74,Riya Das,20,8.5,"ML, Web Dev, Cybersecurity",Cybersecurity,Coimbatore,3,3
+75,Kavya Gupta,25,7.02,"Java, Data Analysis, ML",Web Dev,Madurai,1,3
+76,Riya Verma,21,5.42,"Java, Data Analysis, Web Dev",Data Science,Delhi,4,1
+77,Aditya Reddy,25,8.03,"Java, ML",Web Dev,Mumbai,3,3
+78,Ishaan Verma,23,9.7,"ML, Data Analysis, Cybersecurity, Java",AI,Coimbatore,1,0
+79,Aarohi Mehta,19,5.8,Web Dev,Cybersecurity,Bangalore,2,1
+80,Aarav Singh,23,7.24,"ML, Cybersecurity, Java",Cybersecurity,Coimbatore,5,0
+81,Ananya Mehta,21,8.56,"Python, ML, Data Analysis, Web Dev",Cybersecurity,Mumbai,1,1
+82,Sai Joshi,22,5.89,"Java, Web Dev, Python, Cybersecurity",AI,Chennai,3,0
+83,Aarohi Reddy,25,7.84,"Java, Python, Data Analysis, Cybersecurity",Data Science,Coimbatore,4,2
+84,Riya Singh,20,8.18,"ML, Data Analysis, Cybersecurity",Data Science,Hyderabad,6,1
+85,Aditya Gupta,23,9.87,Cybersecurity,AI,Madurai,5,2
+86,Krishna Das,23,9.53,Cybersecurity,AI,Hyderabad,3,1
+87,Aarav Kumar,22,7.51,"Python, Web Dev",Web Dev,Coimbatore,4,2
+88,Reyansh Gupta,25,9.32,Web Dev,Web Dev,Bangalore,4,0
+89,Ananya Bhat,25,6.4,"Java, Web Dev, Python",Web Dev,Madurai,3,3
+90,Arjun Nair,18,5.22,Data Analysis,Cybersecurity,Bangalore,4,3
+91,Ishaan Verma,23,9.77,"Python, Data Analysis",AI,Hyderabad,5,1
+92,Vivaan Singh,20,8.74,"Cybersecurity, Data Analysis, Python, Web Dev",Data Science,Chennai,5,3
+93,Aarohi Joshi,22,7.14,"Python, ML, Data Analysis, Web Dev",Cybersecurity,Mumbai,5,2
+94,Reyansh Mehta,20,9.9,"Cybersecurity, Web Dev",Data Science,Delhi,4,2
+95,Kavya Gupta,22,6.93,"Cybersecurity, Web Dev, Data Analysis, Java",Web Dev,Hyderabad,1,3
+96,Aditya Patel,20,5.85,"Java, ML, Web Dev, Cybersecurity",AI,Bangalore,1,1
+97,Aadhya Reddy,24,9.22,"Java, Data Analysis, Web Dev, Cybersecurity",Data Science,Delhi,3,3
+98,Ananya Iyer,23,5.49,Web Dev,Web Dev,Chennai,6,2
+99,Krishna Chopra,19,6.27,"ML, Web Dev, Java, Data Analysis",Cybersecurity,Mumbai,2,1
+100,Kavya Gupta,19,8.7,Python,Data Science,Coimbatore,1,0
+101,Meera Chopra,20,8.54,"Data Analysis, Web Dev",Data Science,Bangalore,5,1
+102,Ira Singh,24,7.1,"Cybersecurity, Web Dev, Data Analysis, Java",Cybersecurity,Madurai,2,0
+103,Diya Patel,25,9.57,"Python, Java",Data Science,Chennai,2,2
+104,Sai Kumar,18,8.14,"Cybersecurity, ML",Data Science,Mumbai,4,0
+105,Ira Nair,25,8.51,"Python, Java, Data Analysis",Web Dev,Madurai,6,3
+106,Sai Patel,20,6.69,Cybersecurity,Web Dev,Madurai,4,1
+107,Vivaan Sharma,19,7.19,"Cybersecurity, Java, ML",AI,Hyderabad,6,2
+108,Aarav Nair,18,5.78,"ML, Cybersecurity, Web Dev",Data Science,Coimbatore,6,0
+109,Vivaan Patel,23,7.95,"Python, Cybersecurity, ML, Java",AI,Delhi,6,0
+110,Vivaan Reddy,21,5.19,"Web Dev, Data Analysis",AI,Coimbatore,6,2
+111,Arjun Iyer,21,6.63,"Web Dev, Cybersecurity, Java, Data Analysis",Cybersecurity,Bangalore,5,3
+112,Riya Patel,21,9.83,"Data Analysis, Web Dev, Python, Cybersecurity",AI,Hyderabad,4,1
+113,Ishaan Das,22,5.97,"Data Analysis, Python",Web Dev,Coimbatore,6,2
+114,Sai Iyer,20,8.19,Java,AI,Bangalore,4,3
+115,Riya Chopra,22,9.85,"Data Analysis, Python, Java, ML",Data Science,Mumbai,2,1
+116,Riya Verma,20,8.98,"Data Analysis, Web Dev",Web Dev,Bangalore,3,3
+117,Arjun Iyer,19,5.39,"Cybersecurity, Java",Data Science,Hyderabad,5,1
+118,Reyansh Verma,22,5.4,Java,Data Science,Delhi,1,3
+119,Diya Gupta,22,5.29,ML,Data Science,Mumbai,2,0
+120,Meera Patel,24,6.25,"ML, Python, Web Dev, Java",Data Science,Delhi,6,1
+121,Ananya Sharma,25,5.91,Java,AI,Hyderabad,5,0
+122,Ananya Nair,18,9.77,Java,Cybersecurity,Delhi,5,1
+123,Riya Patel,22,7.1,"Web Dev, ML",Cybersecurity,Chennai,4,1
+124,Kavya Singh,25,5.79,"Data Analysis, Cybersecurity, Python, ML",Data Science,Bangalore,6,0
+125,Kavya Patel,22,5.58,"Web Dev, Python, ML, Cybersecurity",Data Science,Madurai,5,2
+126,Aadhya Verma,18,6.56,"Web Dev, Python, ML, Java",AI,Coimbatore,6,3
+127,Ira Singh,22,7.37,"Cybersecurity, ML, Python, Web Dev",Data Science,Delhi,2,1
+128,Reyansh Patel,25,9.03,"Cybersecurity, ML, Python, Web Dev",Web Dev,Mumbai,4,0
+129,Sai Patel,23,7.17,Web Dev,Cybersecurity,Chennai,2,1
+130,Krishna Joshi,23,8.18,ML,AI,Mumbai,2,3
+131,Reyansh Gupta,24,5.08,"Web Dev, Data Analysis, ML",Cybersecurity,Bangalore,3,1
+132,Krishna Gupta,25,9.28,"ML, Java",Web Dev,Hyderabad,5,0
+133,Aditya Patel,21,8.08,"Data Analysis, Web Dev, Cybersecurity, Python",Data Science,Mumbai,2,0
+134,Diya Joshi,21,7.93,"Java, ML, Web Dev, Cybersecurity",Data Science,Delhi,3,3
+135,Meera Gupta,25,8.39,"Java, Cybersecurity, ML",Web Dev,Hyderabad,3,3
+136,Aarohi Sharma,18,7.29,"Cybersecurity, ML, Web Dev",Cybersecurity,Mumbai,3,2
+137,Reyansh Gupta,22,8.13,Java,Data Science,Hyderabad,1,0
+138,Arjun Joshi,25,9.53,"Python, Web Dev, ML, Cybersecurity",Web Dev,Bangalore,4,0
+139,Reyansh Verma,22,6.07,"Data Analysis, Cybersecurity, ML, Web Dev",AI,Hyderabad,6,1
+140,Aadhya Joshi,22,5.47,"Data Analysis, ML, Python, Cybersecurity",AI,Coimbatore,3,2
+141,Diya Kumar,18,8.28,ML,AI,Hyderabad,5,1
+142,Arjun Gupta,19,5.12,"Cybersecurity, Data Analysis",AI,Chennai,2,2
+143,Aadhya Bhat,18,7.48,Data Analysis,Data Science,Madurai,2,0
+144,Aarohi Reddy,19,8.14,"Web Dev, ML",Web Dev,Coimbatore,5,3
+145,Sai Verma,21,7.09,"Web Dev, Java, ML, Data Analysis",Web Dev,Coimbatore,5,0
+146,Riya Das,21,5.89,"ML, Data Analysis, Python",Cybersecurity,Madurai,1,3
+147,Sai Verma,25,7.88,"Data Analysis, Web Dev, Cybersecurity, ML",Cybersecurity,Mumbai,3,3
+148,Ananya Gupta,21,6.86,"Java, ML, Web Dev",AI,Coimbatore,6,3
+149,Meera Nair,22,6.19,"Web Dev, Data Analysis, Cybersecurity",AI,Hyderabad,5,2
+150,Meera Patel,18,6.19,Web Dev,AI,Delhi,6,0
+151,Kavya Joshi,18,7.53,"Java, Web Dev, Data Analysis",Web Dev,Mumbai,1,1
+152,Ishaan Nair,22,9.48,"Cybersecurity, Java, Python",AI,Madurai,1,3
+153,Riya Sharma,21,9.79,"Cybersecurity, Java, Python",Data Science,Madurai,3,3
+154,Aarohi Reddy,18,6.6,"Java, Web Dev",Data Science,Delhi,6,2
+155,Ira Patel,25,7.41,"Data Analysis, ML",Data Science,Mumbai,2,2
+156,Aadhya Bhat,25,7.24,ML,AI,Coimbatore,3,3
+157,Krishna Joshi,18,7.77,"Web Dev, Data Analysis, Python, Java",AI,Madurai,5,3
+158,Arjun Gupta,22,8.96,"Cybersecurity, Data Analysis, ML",Data Science,Chennai,1,2
+159,Krishna Gupta,22,9.65,Web Dev,Data Science,Delhi,2,2
+160,Krishna Das,23,7.75,Cybersecurity,Cybersecurity,Mumbai,5,2
+161,Diya Das,24,7.73,"Python, Java, Cybersecurity, ML",Data Science,Bangalore,3,1
+162,Arjun Verma,24,5.71,"Web Dev, Java",Cybersecurity,Bangalore,2,1
+163,Saanvi Das,21,9.33,"Web Dev, Java, ML, Data Analysis",AI,Hyderabad,6,2
+164,Kavya Nair,23,8.5,"Data Analysis, Python, Cybersecurity, Web Dev",Cybersecurity,Bangalore,2,0
+165,Krishna Joshi,19,9.46,"Python, Data Analysis, Web Dev",AI,Bangalore,2,0
+166,Ananya Kumar,22,5.42,ML,AI,Mumbai,3,3
+167,Ishaan Das,25,9.32,Python,Data Science,Coimbatore,6,3
+168,Reyansh Bhat,18,9.74,"Python, Web Dev",Web Dev,Delhi,1,0
+169,Ishaan Joshi,21,6.75,"Data Analysis, Java",AI,Madurai,4,2
+170,Reyansh Reddy,20,8.89,"Java, Python, Web Dev",Web Dev,Chennai,6,2
+171,Saanvi Bhat,20,6.24,"Web Dev, Data Analysis",AI,Coimbatore,3,2
+172,Ananya Sharma,23,7.46,"Cybersecurity, ML",AI,Mumbai,5,1
+173,Aditya Gupta,21,7.86,"Data Analysis, Web Dev, Python, Java",Web Dev,Delhi,4,3
+174,Vivaan Chopra,25,5.59,"ML, Python, Web Dev",Cybersecurity,Hyderabad,1,2
+175,Meera Mehta,18,8.41,ML,Cybersecurity,Chennai,4,1
+176,Aditya Singh,18,6.87,"Python, Java",Data Science,Delhi,1,0
+177,Aadhya Mehta,25,7.64,"ML, Web Dev, Cybersecurity",AI,Hyderabad,5,1
+178,Arjun Joshi,19,5.06,"ML, Cybersecurity",Web Dev,Bangalore,5,0
+179,Aadhya Joshi,24,9.46,"ML, Cybersecurity, Python, Java",Cybersecurity,Madurai,6,0
+180,Ananya Singh,20,9.6,"Cybersecurity, ML",AI,Chennai,4,2
+181,Aditya Verma,20,9.85,"Python, Data Analysis, Java, Web Dev",AI,Delhi,2,2
+182,Aadhya Das,18,6.08,ML,Data Science,Hyderabad,1,0
+183,Aarohi Joshi,23,7.92,Data Analysis,Data Science,Madurai,1,2
+184,Arjun Nair,21,9.79,"Java, ML",Web Dev,Hyderabad,6,3
+185,Arjun Singh,25,8.1,"Python, Data Analysis, Java",Cybersecurity,Hyderabad,2,3
+186,Aarav Nair,21,7.32,"Python, Java, Data Analysis",Data Science,Madurai,2,3
+187,Saanvi Sharma,19,6.33,"Java, Web Dev",Cybersecurity,Chennai,5,0
+188,Reyansh Chopra,21,9.93,Python,Web Dev,Bangalore,6,2
+189,Aarohi Gupta,18,6.4,"Java, Data Analysis, Web Dev",Data Science,Hyderabad,5,3
+190,Aditya Sharma,22,8.42,"Java, Web Dev",AI,Mumbai,5,0
+191,Aditya Patel,23,5.38,"Cybersecurity, ML, Web Dev, Data Analysis",Cybersecurity,Bangalore,6,1
+192,Ananya Kumar,20,8.63,Data Analysis,Cybersecurity,Chennai,1,1
+193,Diya Das,19,9.66,"Web Dev, Data Analysis, Python, ML",Cybersecurity,Delhi,2,2
+194,Vivaan Sharma,22,5.82,"Data Analysis, Java",Web Dev,Hyderabad,1,1
+195,Ananya Patel,18,7.4,"Python, Cybersecurity, ML",Cybersecurity,Coimbatore,1,2
+196,Reyansh Mehta,22,8.75,"Web Dev, Cybersecurity",Data Science,Chennai,1,1
+197,Meera Joshi,20,9.21,ML,AI,Bangalore,5,0
+198,Aditya Joshi,19,5.18,"Web Dev, ML, Cybersecurity",Cybersecurity,Madurai,1,0
+199,Arjun Mehta,25,5.38,Data Analysis,Web Dev,Hyderabad,4,0
+200,Riya Joshi,22,10.0,"Python, ML, Cybersecurity",Web Dev,Bangalore,6,2
+201,Meera Iyer,22,7.93,ML,Data Science,Mumbai,5,0
+202,Aadhya Kumar,19,9.25,"Java, Python, Web Dev",Web Dev,Hyderabad,1,0
+203,Saanvi Singh,23,6.03,"Java, Python",Web Dev,Madurai,1,2
+204,Ishaan Reddy,22,8.03,"Cybersecurity, Python",Web Dev,Hyderabad,6,0
+205,Kavya Gupta,18,8.78,"Cybersecurity, Web Dev, Data Analysis, ML",Data Science,Coimbatore,2,3
+206,Riya Verma,24,5.57,"ML, Data Analysis, Web Dev, Cybersecurity",AI,Madurai,2,1
+207,Ira Verma,19,7.38,"ML, Cybersecurity, Python",AI,Madurai,3,2
+208,Diya Verma,19,9.26,Web Dev,Cybersecurity,Bangalore,6,3
+209,Vivaan Gupta,22,5.44,"Data Analysis, Web Dev",Cybersecurity,Delhi,3,0
+210,Reyansh Sharma,18,5.67,"Python, Data Analysis, Cybersecurity, Web Dev",Web Dev,Chennai,5,0
+211,Krishna Chopra,23,8.52,"ML, Web Dev, Java, Cybersecurity",Data Science,Madurai,3,2
+212,Meera Mehta,23,8.09,"Cybersecurity, Web Dev, Python",Data Science,Chennai,2,1
+213,Aadhya Verma,19,7.95,"Data Analysis, Cybersecurity, Java, ML",AI,Delhi,6,2
+214,Reyansh Singh,20,5.46,"Cybersecurity, ML, Java",AI,Madurai,2,3
+215,Meera Das,18,7.57,"Java, Web Dev, Python",Cybersecurity,Delhi,4,1
+216,Saanvi Sharma,24,7.62,"Data Analysis, Java, Web Dev",Data Science,Hyderabad,1,0
+217,Kavya Kumar,22,5.74,"Java, Cybersecurity",AI,Madurai,1,1
+218,Arjun Iyer,18,6.29,Cybersecurity,Data Science,Hyderabad,5,1
+219,Reyansh Nair,23,7.46,"Java, Cybersecurity, Web Dev, Data Analysis",Web Dev,Mumbai,5,1
+220,Riya Sharma,20,7.9,"Data Analysis, Java, ML, Cybersecurity",Data Science,Hyderabad,3,2
+221,Riya Kumar,24,5.64,"Data Analysis, ML",Web Dev,Madurai,3,1
+222,Riya Gupta,25,8.2,"ML, Web Dev, Cybersecurity",Web Dev,Hyderabad,4,3
+223,Ishaan Bhat,18,9.48,"Data Analysis, Python",Cybersecurity,Hyderabad,3,2
+224,Saanvi Iyer,22,9.87,Cybersecurity,AI,Madurai,5,1
+225,Aditya Bhat,20,5.2,"Data Analysis, ML",Web Dev,Hyderabad,5,1
+226,Aarohi Verma,21,6.74,"ML, Data Analysis",AI,Bangalore,6,0
+227,Vivaan Mehta,23,5.6,"Java, ML, Python",Data Science,Coimbatore,1,3
+228,Aarav Singh,19,9.47,Cybersecurity,Data Science,Hyderabad,1,1
+229,Reyansh Reddy,19,8.45,Data Analysis,Cybersecurity,Mumbai,1,1
+230,Reyansh Bhat,18,7.41,"ML, Web Dev, Python, Cybersecurity",AI,Madurai,6,2
+231,Ishaan Joshi,25,9.37,"Web Dev, Cybersecurity",Cybersecurity,Chennai,5,0
+232,Diya Kumar,19,9.34,"Python, Cybersecurity, Java",Cybersecurity,Mumbai,1,2
+233,Riya Verma,22,9.93,ML,AI,Mumbai,6,1
+234,Ira Nair,19,8.8,"Cybersecurity, Java",Data Science,Bangalore,6,3
+235,Aarav Nair,19,8.74,"Java, Web Dev, ML",Web Dev,Mumbai,6,2
+236,Aditya Iyer,25,5.67,"Python, Web Dev, Cybersecurity",Cybersecurity,Hyderabad,3,2
+237,Kavya Sharma,24,7.56,"Data Analysis, Cybersecurity, Python, Java",AI,Madurai,4,0
+238,Krishna Chopra,19,7.24,Web Dev,Data Science,Coimbatore,3,2
+239,Vivaan Singh,24,5.52,"Cybersecurity, Java, ML",Cybersecurity,Mumbai,5,3
+240,Sai Bhat,19,7.82,"Python, ML",AI,Madurai,1,2
+241,Ishaan Sharma,23,6.64,"Python, Data Analysis",Data Science,Delhi,4,0
+242,Meera Joshi,18,6.71,"Data Analysis, Python, Java, ML",Data Science,Hyderabad,1,3
+243,Vivaan Joshi,19,8.95,"Data Analysis, Python, Cybersecurity",Cybersecurity,Bangalore,5,1
+244,Riya Mehta,24,7.92,"Java, ML, Web Dev",Data Science,Hyderabad,6,1
+245,Ira Patel,24,8.73,Cybersecurity,Cybersecurity,Chennai,1,3
+246,Aarohi Nair,20,6.89,"Web Dev, Data Analysis",Data Science,Chennai,5,1
+247,Aditya Singh,21,8.23,"Data Analysis, ML, Web Dev",Web Dev,Mumbai,2,2
+248,Riya Singh,25,7.49,"Python, Data Analysis, ML, Java",AI,Chennai,6,0
+249,Meera Singh,18,6.19,"Python, Java",Cybersecurity,Chennai,6,0
+250,Reyansh Verma,23,6.83,"Cybersecurity, Data Analysis",Data Science,Bangalore,4,1
+251,Vivaan Nair,20,5.44,"Cybersecurity, ML",Data Science,Madurai,6,2
+252,Riya Bhat,25,9.48,Web Dev,Web Dev,Delhi,3,2
+253,Saanvi Mehta,24,7.05,"Cybersecurity, Data Analysis, Java",AI,Chennai,4,3
+254,Sai Gupta,24,9.48,"Web Dev, Python, Data Analysis, Java",Cybersecurity,Coimbatore,4,3
+255,Diya Chopra,20,9.33,"Java, Python, Cybersecurity, Web Dev",Cybersecurity,Coimbatore,6,1
+256,Riya Verma,18,7.45,"Cybersecurity, Data Analysis, Python",Data Science,Madurai,6,2
+257,Sai Chopra,23,9.65,"Data Analysis, Web Dev",Web Dev,Chennai,3,3
+258,Ishaan Bhat,19,6.4,"Java, ML",AI,Madurai,4,0
+259,Saanvi Gupta,23,9.84,"Web Dev, Python",AI,Madurai,4,2
+260,Meera Chopra,21,7.54,"Web Dev, ML, Cybersecurity, Data Analysis",AI,Coimbatore,1,3
+261,Aadhya Das,24,8.54,ML,Cybersecurity,Mumbai,6,3
+262,Ira Singh,23,7.91,"Web Dev, Cybersecurity",Web Dev,Hyderabad,3,2
+263,Reyansh Mehta,21,6.6,Python,Web Dev,Madurai,3,0
+264,Sai Reddy,23,6.68,"Cybersecurity, Java, Data Analysis",Data Science,Hyderabad,2,0
+265,Aditya Patel,24,7.74,"Cybersecurity, Web Dev",Data Science,Coimbatore,2,0
+266,Diya Nair,25,9.05,Web Dev,Web Dev,Delhi,1,2
+267,Reyansh Reddy,22,5.01,"Web Dev, Python, Cybersecurity",AI,Chennai,1,2
+268,Ananya Das,24,7.36,"Web Dev, ML",AI,Bangalore,3,1
+269,Diya Das,24,9.65,"ML, Java, Cybersecurity",Data Science,Bangalore,6,3
+270,Aditya Chopra,21,7.04,Java,Cybersecurity,Bangalore,5,3
+271,Kavya Gupta,20,9.69,"Data Analysis, Web Dev",Web Dev,Madurai,4,2
+272,Aadhya Chopra,20,9.63,"ML, Java, Data Analysis",AI,Madurai,6,3
+273,Krishna Gupta,25,8.91,Data Analysis,Cybersecurity,Coimbatore,3,0
+274,Reyansh Verma,22,6.01,Data Analysis,Cybersecurity,Hyderabad,6,2
+275,Aarohi Kumar,22,5.93,"Data Analysis, Web Dev",Data Science,Coimbatore,3,2
+276,Sai Gupta,23,7.62,"ML, Data Analysis, Cybersecurity, Python",AI,Bangalore,4,0
+277,Ira Gupta,22,7.94,"Java, Web Dev",Data Science,Chennai,2,3
+278,Vivaan Patel,25,7.2,"Web Dev, ML, Data Analysis, Cybersecurity",AI,Hyderabad,6,3
+279,Arjun Mehta,20,8.12,"Data Analysis, Cybersecurity",Cybersecurity,Madurai,1,2
+280,Vivaan Mehta,24,7.51,Web Dev,Web Dev,Madurai,1,0
+281,Diya Verma,18,6.96,"Web Dev, ML, Data Analysis, Cybersecurity",AI,Coimbatore,2,1
+282,Arjun Mehta,22,9.53,"Data Analysis, Web Dev, Cybersecurity",Web Dev,Coimbatore,3,2
+283,Ira Mehta,20,7.16,Python,AI,Coimbatore,3,2
+284,Aadhya Bhat,20,6.67,"Web Dev, ML, Java, Data Analysis",Web Dev,Madurai,4,2
+285,Aadhya Reddy,24,8.1,"Web Dev, Data Analysis, Cybersecurity, ML",Cybersecurity,Mumbai,4,1
+286,Diya Gupta,24,7.87,Data Analysis,Data Science,Mumbai,5,1
+287,Arjun Mehta,18,6.56,"Cybersecurity, Python, ML",Data Science,Mumbai,5,2
+288,Krishna Chopra,24,5.72,Web Dev,Cybersecurity,Coimbatore,4,1
+289,Ira Das,19,8.81,"Java, Cybersecurity, Python, Data Analysis",AI,Coimbatore,3,1
+290,Aarav Gupta,18,5.51,"ML, Java, Cybersecurity",Web Dev,Bangalore,5,2
+291,Ira Bhat,24,9.23,"Cybersecurity, Python, Java, Data Analysis",Web Dev,Delhi,4,3
+292,Aadhya Das,24,8.99,"Web Dev, ML, Data Analysis, Python",Cybersecurity,Delhi,5,0
+293,Aadhya Iyer,24,7.04,"Cybersecurity, Data Analysis, ML",Web Dev,Coimbatore,5,1
+294,Ananya Iyer,20,8.21,"Java, Data Analysis, Web Dev",Web Dev,Mumbai,3,3
+295,Kavya Singh,21,8.58,"Data Analysis, Web Dev, Cybersecurity, Java",AI,Delhi,3,0
+296,Meera Mehta,21,5.91,"Java, Data Analysis, Python",Data Science,Mumbai,2,3
+297,Aditya Singh,23,6.14,"Cybersecurity, Data Analysis, ML, Python",Web Dev,Hyderabad,2,1
+298,Ananya Iyer,20,5.77,"Java, Python, Cybersecurity",Web Dev,Chennai,5,3
+299,Ira Kumar,23,5.5,"Python, Cybersecurity",Cybersecurity,Madurai,1,2
+300,Kavya Verma,25,9.36,"Python, Web Dev",Web Dev,Bangalore,4,3
+301,Kavya Gupta,21,9.59,"Data Analysis, Cybersecurity",Data Science,Mumbai,5,3
+302,Vivaan Bhat,22,8.54,Cybersecurity,Web Dev,Delhi,2,0
+303,Vivaan Reddy,21,6.87,"Java, Python, ML, Cybersecurity",Web Dev,Mumbai,1,1
+304,Diya Sharma,20,8.68,Data Analysis,AI,Madurai,1,1
+305,Diya Gupta,20,7.25,"Java, Web Dev, ML, Cybersecurity",Web Dev,Hyderabad,6,0
+306,Arjun Singh,22,5.83,"Cybersecurity, ML",Data Science,Mumbai,4,1
+307,Sai Sharma,24,9.6,"Data Analysis, Web Dev, Java",Web Dev,Delhi,6,2
+308,Meera Joshi,20,7.96,"Web Dev, Data Analysis, Python, Java",AI,Coimbatore,5,2
+309,Reyansh Gupta,18,8.72,"Java, Python, Data Analysis",Cybersecurity,Coimbatore,2,3
+310,Riya Bhat,18,5.02,"Data Analysis, Cybersecurity, Python",Data Science,Mumbai,1,2
+311,Saanvi Chopra,24,7.07,"Python, Cybersecurity",Cybersecurity,Madurai,2,2
+312,Sai Mehta,23,6.73,"Cybersecurity, Python, Data Analysis",Data Science,Delhi,2,2
+313,Krishna Kumar,19,9.59,"ML, Java",Cybersecurity,Mumbai,3,2
+314,Saanvi Mehta,21,9.56,"Web Dev, Java, Cybersecurity, Data Analysis",AI,Delhi,6,3
+315,Riya Iyer,18,7.49,"Python, Web Dev, Cybersecurity",AI,Hyderabad,6,0
+316,Ira Kumar,25,6.56,"Java, Data Analysis",Cybersecurity,Chennai,5,2
+317,Ishaan Chopra,20,8.16,"Python, Web Dev, ML, Cybersecurity",Cybersecurity,Coimbatore,4,1
+318,Ira Mehta,22,7.58,"Web Dev, Python, ML, Data Analysis",Data Science,Mumbai,1,3
+319,Aarav Mehta,18,5.74,"Python, Java, Cybersecurity",AI,Bangalore,6,1
+320,Saanvi Chopra,21,7.68,Web Dev,AI,Chennai,1,2
+321,Kavya Sharma,18,6.55,"ML, Java, Web Dev",Cybersecurity,Madurai,6,2
+322,Meera Gupta,20,6.05,"ML, Python, Java, Data Analysis",Data Science,Chennai,3,1
+323,Sai Iyer,25,7.34,"Web Dev, Java, Cybersecurity, Python",AI,Madurai,1,0
+324,Riya Das,22,7.36,"Web Dev, ML, Java, Python",Cybersecurity,Madurai,3,1
+325,Reyansh Patel,18,8.88,"Cybersecurity, Python",AI,Hyderabad,2,1
+326,Aarohi Nair,23,7.2,Java,Web Dev,Chennai,2,1
+327,Arjun Nair,23,8.83,ML,AI,Coimbatore,4,0
+328,Vivaan Mehta,25,9.31,"Java, Web Dev, Cybersecurity, Python",Web Dev,Delhi,3,3
+329,Diya Kumar,19,6.35,"Web Dev, Cybersecurity, Data Analysis",Web Dev,Madurai,6,1
+330,Reyansh Das,21,9.0,"ML, Data Analysis",Data Science,Chennai,4,3
+331,Sai Das,19,9.33,"Web Dev, ML, Python, Java",Cybersecurity,Hyderabad,1,0
+332,Ira Singh,24,6.27,"ML, Java, Data Analysis, Web Dev",Web Dev,Hyderabad,3,2
+333,Kavya Kumar,22,7.98,"Data Analysis, Java",Cybersecurity,Chennai,1,2
+334,Aarohi Mehta,22,5.89,"ML, Java",Data Science,Coimbatore,1,3
+335,Aadhya Das,24,8.6,ML,Data Science,Chennai,3,3
+336,Ishaan Sharma,25,8.61,"ML, Web Dev, Python",AI,Coimbatore,6,2
+337,Ishaan Gupta,25,6.99,"Data Analysis, Cybersecurity",AI,Coimbatore,5,1
+338,Ishaan Chopra,22,7.03,Cybersecurity,Cybersecurity,Coimbatore,2,2
+339,Ishaan Mehta,19,5.43,"Web Dev, Data Analysis",Data Science,Bangalore,5,2
+340,Riya Iyer,25,5.91,"Data Analysis, Cybersecurity, Web Dev",Cybersecurity,Bangalore,4,0
+341,Arjun Bhat,21,8.52,"Data Analysis, Java, Cybersecurity, Web Dev",Cybersecurity,Chennai,1,2
+342,Krishna Chopra,22,6.71,"Python, Data Analysis",Cybersecurity,Madurai,2,2
+343,Reyansh Kumar,19,6.82,"Java, ML, Cybersecurity",Cybersecurity,Delhi,4,3
+344,Aadhya Patel,22,6.73,"Cybersecurity, ML, Web Dev, Python",Data Science,Coimbatore,6,0
+345,Reyansh Chopra,19,9.31,"Java, Web Dev, Python, Data Analysis",AI,Hyderabad,3,3
+346,Aditya Joshi,19,8.82,Python,Cybersecurity,Coimbatore,1,1
+347,Krishna Verma,23,7.44,"Python, Java",Cybersecurity,Madurai,6,2
+348,Vivaan Nair,25,5.91,"Cybersecurity, ML, Python, Web Dev",Cybersecurity,Chennai,2,2
+349,Aarav Iyer,18,6.34,"Web Dev, Data Analysis, Python",Cybersecurity,Hyderabad,2,0
+350,Sai Verma,18,6.29,Web Dev,Web Dev,Coimbatore,6,1
+351,Ishaan Nair,20,7.11,"Data Analysis, Cybersecurity, ML",AI,Madurai,2,1
+352,Meera Gupta,22,5.86,"Cybersecurity, Java",Data Science,Mumbai,5,2
+353,Aditya Das,23,9.57,Python,Cybersecurity,Bangalore,5,1
+354,Meera Iyer,21,7.49,"Python, Cybersecurity, Java, Web Dev",Cybersecurity,Hyderabad,2,0
+355,Aarohi Das,22,8.26,"Web Dev, Python, Cybersecurity",Web Dev,Coimbatore,2,3
+356,Kavya Patel,24,5.53,Python,Data Science,Delhi,6,0
+357,Vivaan Reddy,20,9.5,"Python, Java, Web Dev",Cybersecurity,Chennai,6,2
+358,Diya Reddy,25,6.25,"Web Dev, ML",Data Science,Bangalore,5,0
+359,Reyansh Bhat,22,5.88,Web Dev,Data Science,Chennai,5,0
+360,Arjun Mehta,19,7.02,"Python, Data Analysis",Cybersecurity,Hyderabad,6,1
+361,Aadhya Sharma,23,5.23,"ML, Cybersecurity, Java",Data Science,Delhi,4,1
+362,Meera Mehta,20,5.92,"Cybersecurity, Web Dev",Cybersecurity,Chennai,5,3
+363,Diya Bhat,20,6.23,"Cybersecurity, Python",AI,Madurai,5,2
+364,Reyansh Mehta,25,7.19,"Cybersecurity, ML",Data Science,Madurai,4,0
+365,Arjun Verma,20,6.49,Data Analysis,Cybersecurity,Madurai,3,1
+366,Ananya Verma,19,6.98,"Python, Java",Cybersecurity,Bangalore,6,1
+367,Ira Mehta,22,7.42,Python,AI,Madurai,2,3
+368,Aditya Nair,24,6.31,"ML, Python, Data Analysis",Cybersecurity,Bangalore,3,3
+369,Aditya Chopra,20,9.23,"Web Dev, Cybersecurity",Web Dev,Mumbai,3,0
+370,Meera Reddy,20,6.67,"Data Analysis, Cybersecurity",Data Science,Bangalore,2,1
+371,Reyansh Verma,22,6.72,"ML, Data Analysis",Cybersecurity,Madurai,1,0
+372,Kavya Bhat,18,8.52,Data Analysis,Data Science,Coimbatore,2,0
+373,Kavya Nair,24,5.38,"ML, Python",Web Dev,Madurai,2,0
+374,Aarav Mehta,21,8.47,"Web Dev, ML, Data Analysis",Cybersecurity,Madurai,6,1
+375,Aarohi Joshi,19,5.52,"Data Analysis, Cybersecurity",Web Dev,Bangalore,5,3
+376,Aadhya Reddy,20,9.59,"Data Analysis, Cybersecurity, ML, Web Dev",Web Dev,Madurai,5,0
+377,Meera Patel,19,8.45,"Data Analysis, Python, Java, Cybersecurity",Web Dev,Mumbai,1,2
+378,Aarav Chopra,21,7.71,"Cybersecurity, Java, ML, Web Dev",AI,Hyderabad,3,3
+379,Aarohi Das,24,9.03,"Java, Data Analysis, Cybersecurity, ML",Web Dev,Mumbai,5,1
+380,Aarohi Bhat,25,9.25,"Python, ML, Web Dev, Data Analysis",Cybersecurity,Delhi,1,1
+381,Ira Joshi,18,8.23,"Web Dev, Python, Data Analysis, ML",AI,Chennai,3,1
+382,Krishna Das,18,9.72,"Java, Web Dev, Python",Cybersecurity,Hyderabad,2,3
+383,Aadhya Bhat,24,10.0,"Python, Cybersecurity, Web Dev, Java",Web Dev,Delhi,2,0
+384,Ira Iyer,23,9.58,"ML, Data Analysis",Cybersecurity,Bangalore,6,2
+385,Ira Reddy,22,8.66,"Python, ML, Cybersecurity",Data Science,Bangalore,3,3
+386,Aditya Verma,25,9.86,"Data Analysis, Cybersecurity",Data Science,Bangalore,5,1
+387,Ishaan Iyer,24,9.31,"Data Analysis, ML, Python, Java",Cybersecurity,Madurai,3,1
+388,Aditya Patel,20,9.14,Cybersecurity,AI,Chennai,1,1
+389,Aadhya Das,24,6.82,Cybersecurity,Web Dev,Mumbai,4,3
+390,Krishna Iyer,22,5.38,"Web Dev, Java",Data Science,Delhi,5,2
+391,Aarohi Gupta,25,7.21,"ML, Java",Web Dev,Mumbai,4,2
+392,Aarohi Mehta,24,9.02,Cybersecurity,Web Dev,Bangalore,4,0
+393,Aarohi Mehta,23,6.59,Cybersecurity,Web Dev,Coimbatore,2,0
+394,Ananya Bhat,25,7.13,Web Dev,AI,Hyderabad,4,1
+395,Sai Singh,19,5.12,"Java, ML, Python",Data Science,Mumbai,2,1
+396,Kavya Iyer,23,5.0,"Web Dev, ML, Cybersecurity",AI,Madurai,5,0
+397,Saanvi Joshi,19,9.7,"Web Dev, Java, Data Analysis, ML",AI,Mumbai,3,2
+398,Reyansh Singh,24,5.05,Java,Data Science,Chennai,5,1
+399,Sai Singh,18,7.01,"Web Dev, ML",Cybersecurity,Delhi,5,3
+400,Reyansh Nair,18,7.9,"ML, Java, Cybersecurity, Data Analysis",Web Dev,Delhi,4,2
+401,Sai Gupta,18,8.84,"Java, Cybersecurity, Data Analysis",Cybersecurity,Delhi,1,2
+402,Vivaan Joshi,24,7.61,"Python, ML, Java",Web Dev,Hyderabad,1,1
+403,Meera Iyer,18,5.55,"ML, Cybersecurity, Web Dev, Data Analysis",Cybersecurity,Bangalore,6,3
+404,Sai Verma,23,9.26,Java,Data Science,Chennai,2,1
+405,Ananya Kumar,22,5.21,"Java, ML, Web Dev",AI,Delhi,1,0
+406,Arjun Patel,23,5.23,"Web Dev, Python, ML",Web Dev,Bangalore,1,0
+407,Arjun Chopra,25,5.62,"Data Analysis, Python",Cybersecurity,Madurai,3,1
+408,Saanvi Joshi,22,8.93,ML,AI,Hyderabad,3,3
+409,Krishna Kumar,23,9.91,"Cybersecurity, Web Dev, ML",Web Dev,Delhi,6,3
+410,Reyansh Bhat,20,9.52,"Java, Python",Data Science,Delhi,2,0
+411,Ananya Nair,24,9.96,"Data Analysis, Cybersecurity",Data Science,Delhi,3,3
+412,Ananya Joshi,21,9.19,Java,Cybersecurity,Chennai,6,0
+413,Ananya Joshi,20,7.56,"Cybersecurity, Java",Web Dev,Coimbatore,2,2
+414,Aadhya Joshi,19,6.92,"Cybersecurity, ML",Cybersecurity,Coimbatore,1,0
+415,Ananya Das,19,8.9,"ML, Cybersecurity, Python, Data Analysis",AI,Bangalore,6,0
+416,Ira Chopra,22,8.15,"Cybersecurity, Data Analysis, ML",Cybersecurity,Madurai,1,0
+417,Aarav Joshi,20,7.99,Cybersecurity,Cybersecurity,Mumbai,1,0
+418,Saanvi Joshi,20,6.98,Web Dev,Cybersecurity,Coimbatore,2,1
+419,Aarohi Joshi,23,9.98,"ML, Data Analysis",Data Science,Hyderabad,3,3
+420,Diya Singh,20,6.12,"Web Dev, ML",Data Science,Mumbai,5,2
+421,Vivaan Sharma,18,7.96,Cybersecurity,Cybersecurity,Chennai,6,0
+422,Arjun Joshi,19,7.29,"ML, Cybersecurity",AI,Bangalore,3,2
+423,Ishaan Chopra,21,7.38,"Cybersecurity, Data Analysis",Web Dev,Hyderabad,3,0
+424,Ananya Verma,19,9.31,"Data Analysis, Python, Cybersecurity",Web Dev,Chennai,1,2
+425,Meera Das,25,9.66,"Cybersecurity, Java, ML",AI,Mumbai,3,2
+426,Arjun Sharma,19,7.04,"ML, Python",Web Dev,Delhi,6,3
+427,Krishna Iyer,20,8.62,"Python, Cybersecurity, Data Analysis, Web Dev",Cybersecurity,Mumbai,2,1
+428,Reyansh Gupta,23,9.81,Java,Cybersecurity,Chennai,5,3
+429,Arjun Verma,22,9.96,"Data Analysis, Cybersecurity, Java",Cybersecurity,Hyderabad,2,3
+430,Reyansh Das,22,7.4,"Python, Web Dev",AI,Delhi,5,2
+431,Sai Gupta,19,7.86,"Cybersecurity, Java, Web Dev",Cybersecurity,Delhi,2,3
+432,Riya Joshi,20,9.32,"Python, Cybersecurity",Web Dev,Hyderabad,1,1
+433,Arjun Nair,25,8.99,"Data Analysis, ML, Cybersecurity, Python",Web Dev,Madurai,4,0
+434,Aditya Kumar,20,9.34,"Cybersecurity, Python, Data Analysis",Web Dev,Delhi,1,0
+435,Ira Kumar,20,6.19,"Data Analysis, Python, Java, ML",Cybersecurity,Chennai,5,1
+436,Krishna Gupta,21,8.09,Web Dev,AI,Madurai,6,3
+437,Aadhya Reddy,24,9.41,"Web Dev, ML, Data Analysis, Cybersecurity",Web Dev,Hyderabad,5,1
+438,Kavya Bhat,18,5.15,Python,AI,Chennai,2,1
+439,Ananya Kumar,25,6.68,Python,Cybersecurity,Delhi,6,2
+440,Diya Das,24,5.01,"ML, Cybersecurity, Python, Data Analysis",Web Dev,Madurai,2,1
+441,Aditya Patel,22,7.54,Web Dev,Web Dev,Hyderabad,2,3
+442,Reyansh Iyer,22,8.08,"ML, Web Dev, Python",Data Science,Mumbai,1,0
+443,Aarohi Chopra,18,5.58,"Python, Java",AI,Bangalore,2,3
+444,Arjun Gupta,25,7.7,Data Analysis,Web Dev,Chennai,3,3
+445,Aarav Chopra,23,6.42,"Cybersecurity, Python",Web Dev,Bangalore,2,0
+446,Saanvi Iyer,25,9.2,"Java, Data Analysis, Cybersecurity",Data Science,Mumbai,4,3
+447,Arjun Bhat,24,9.66,Data Analysis,Cybersecurity,Madurai,5,1
+448,Ira Verma,21,5.87,"Cybersecurity, Web Dev, Python",Cybersecurity,Bangalore,4,1
+449,Ira Singh,21,6.5,ML,Web Dev,Madurai,1,3
+450,Sai Patel,23,8.54,Web Dev,AI,Coimbatore,6,0
+451,Ira Sharma,23,8.1,Python,Web Dev,Chennai,3,1
+452,Kavya Singh,19,9.95,"Java, Cybersecurity, Python, Data Analysis",Cybersecurity,Coimbatore,5,3
+453,Aadhya Kumar,21,8.24,"Cybersecurity, Data Analysis, Web Dev, Python",Data Science,Chennai,4,0
+454,Ira Das,21,5.12,Java,Web Dev,Hyderabad,3,0
+455,Ira Sharma,23,6.86,"Python, ML, Data Analysis, Java",Data Science,Chennai,3,2
+456,Riya Sharma,19,5.01,"Java, Data Analysis, Web Dev",Web Dev,Bangalore,2,1
+457,Saanvi Nair,19,9.99,"Java, Web Dev, Cybersecurity, Python",AI,Bangalore,1,2
+458,Aarav Kumar,22,9.27,"Cybersecurity, Python, Data Analysis",AI,Hyderabad,5,0
+459,Meera Joshi,20,6.1,"Python, Java, Web Dev",Cybersecurity,Bangalore,2,2
+460,Vivaan Reddy,23,6.15,"Python, Cybersecurity, Java",Cybersecurity,Mumbai,3,2
+461,Saanvi Gupta,20,9.75,Web Dev,AI,Delhi,4,3
+462,Reyansh Das,21,8.66,"Python, Web Dev, Cybersecurity, Java",Web Dev,Coimbatore,5,2
+463,Diya Patel,21,6.99,"ML, Data Analysis, Web Dev",Cybersecurity,Madurai,1,0
+464,Krishna Verma,20,6.56,"Java, Web Dev",AI,Coimbatore,2,3
+465,Arjun Reddy,23,6.15,"ML, Data Analysis, Cybersecurity, Python",Data Science,Hyderabad,5,2
+466,Ishaan Gupta,25,9.34,"ML, Data Analysis, Python",AI,Coimbatore,4,1
+467,Diya Joshi,24,7.36,Java,Data Science,Coimbatore,3,3
+468,Aditya Chopra,21,5.93,"Data Analysis, ML",AI,Mumbai,1,0
+469,Diya Patel,22,5.77,"Python, ML",Cybersecurity,Delhi,3,1
+470,Krishna Verma,19,8.81,"Python, Java, Cybersecurity, ML",AI,Hyderabad,3,0
+471,Krishna Reddy,25,6.47,"ML, Data Analysis",AI,Delhi,4,1
+472,Ananya Joshi,20,5.93,Python,AI,Coimbatore,1,1
+473,Riya Bhat,23,7.99,"Python, Data Analysis",AI,Chennai,6,3
+474,Riya Sharma,21,7.15,"Web Dev, ML",Cybersecurity,Bangalore,6,3
+475,Aarav Mehta,18,5.8,"Java, Data Analysis, Cybersecurity, Python",Data Science,Madurai,6,1
+476,Riya Reddy,22,6.34,Web Dev,Web Dev,Mumbai,3,3
+477,Diya Gupta,22,5.75,"Web Dev, ML, Python, Cybersecurity",Data Science,Bangalore,5,1
+478,Reyansh Mehta,23,6.96,"Cybersecurity, Web Dev",Web Dev,Mumbai,6,2
+479,Aarav Mehta,24,8.61,"ML, Web Dev, Cybersecurity",Data Science,Delhi,3,0
+480,Ira Singh,18,9.3,"Data Analysis, Java, Python, Web Dev",Web Dev,Chennai,6,0
+481,Ananya Sharma,25,8.62,"Web Dev, Data Analysis, Java, Python",AI,Coimbatore,3,3
+482,Krishna Patel,18,6.21,Java,Cybersecurity,Madurai,1,1
+483,Sai Reddy,25,5.09,"Web Dev, Data Analysis",Data Science,Delhi,6,1
+484,Aarav Chopra,21,8.51,"Web Dev, Cybersecurity, Java",Web Dev,Hyderabad,2,3
+485,Kavya Iyer,25,9.71,"Java, ML, Python",AI,Chennai,1,1
+486,Krishna Nair,18,5.44,"Python, Web Dev",Cybersecurity,Chennai,5,1
+487,Aadhya Nair,18,9.12,"Java, Data Analysis",Web Dev,Hyderabad,2,1
+488,Aadhya Sharma,24,5.66,Java,Web Dev,Hyderabad,2,1
+489,Arjun Joshi,19,9.0,"Python, Data Analysis, ML",AI,Madurai,2,1
+490,Diya Singh,24,8.35,"Java, ML",Cybersecurity,Mumbai,3,0
+491,Aadhya Reddy,20,9.48,"Java, Web Dev, Cybersecurity",Cybersecurity,Madurai,1,1
+492,Diya Reddy,18,5.26,"Cybersecurity, Python",Cybersecurity,Hyderabad,1,1
+493,Vivaan Reddy,21,9.35,"Web Dev, Java, Python",Cybersecurity,Coimbatore,2,3
+494,Aadhya Chopra,23,8.92,Java,Data Science,Madurai,3,2
+495,Sai Das,24,8.3,Cybersecurity,Data Science,Bangalore,4,1
+496,Aarav Patel,19,8.92,"Java, Python",Data Science,Madurai,3,2
+497,Arjun Chopra,18,5.82,Python,Cybersecurity,Bangalore,6,2
+498,Aarohi Reddy,19,5.3,"ML, Cybersecurity, Data Analysis, Web Dev",Cybersecurity,Chennai,4,0
+499,Kavya Bhat,18,9.36,"Java, ML",AI,Hyderabad,2,2
+500,Vivaan Patel,24,7.35,Data Analysis,Data Science,Chennai,5,3
+501,Aditya Singh,22,8.95,"ML, Java",AI,Delhi,3,3
+502,Aditya Singh,19,5.1,"Cybersecurity, Python, ML, Data Analysis",Web Dev,Delhi,3,1
+503,Aarohi Reddy,22,9.98,Python,Data Science,Coimbatore,1,2
+504,Ishaan Mehta,20,5.41,"Cybersecurity, Data Analysis, Web Dev",Web Dev,Chennai,3,2
+505,Vivaan Mehta,22,5.36,"Java, Python, Data Analysis, Web Dev",Cybersecurity,Chennai,1,2
+506,Diya Joshi,21,5.87,"Java, Python, Web Dev, ML",Web Dev,Mumbai,5,2
+507,Diya Verma,19,8.71,"Python, Data Analysis, ML, Java",Cybersecurity,Mumbai,4,0
+508,Ananya Verma,21,8.68,"Java, Data Analysis, ML, Cybersecurity",Web Dev,Bangalore,6,3
+509,Vivaan Patel,21,5.2,"ML, Data Analysis, Java, Cybersecurity",AI,Coimbatore,1,2
+510,Arjun Verma,25,7.94,"Web Dev, ML, Java",AI,Hyderabad,2,0
+511,Meera Joshi,19,7.43,"Web Dev, ML, Java, Cybersecurity",Data Science,Chennai,2,2
+512,Meera Joshi,19,8.96,Web Dev,Web Dev,Chennai,2,2
+513,Riya Reddy,20,6.42,"Java, Cybersecurity",Web Dev,Chennai,5,3
+514,Aarohi Verma,20,8.11,"Java, Cybersecurity, Data Analysis, Web Dev",AI,Chennai,5,2
+515,Meera Iyer,18,5.66,"Web Dev, Data Analysis, Cybersecurity, ML",Cybersecurity,Hyderabad,4,3
+516,Aarav Bhat,23,5.9,"Python, ML, Java, Cybersecurity",AI,Chennai,4,1
+517,Arjun Bhat,23,7.56,"Web Dev, Data Analysis, ML",Data Science,Bangalore,5,0
+518,Kavya Nair,23,7.46,"Python, Java, Data Analysis, Web Dev",Web Dev,Delhi,6,1
+519,Meera Sharma,21,7.03,"Data Analysis, Java, Python, Cybersecurity",Cybersecurity,Madurai,6,3
+520,Saanvi Sharma,24,6.8,"Data Analysis, Cybersecurity, Web Dev",Cybersecurity,Hyderabad,2,2
+521,Arjun Joshi,23,8.26,"Java, Data Analysis",Cybersecurity,Hyderabad,1,0
+522,Aadhya Patel,21,6.29,"Web Dev, Python, Java, ML",Web Dev,Hyderabad,5,0
+523,Aarohi Chopra,24,7.94,"Web Dev, Data Analysis, Python, Cybersecurity",Web Dev,Chennai,4,3
+524,Diya Chopra,21,9.85,"Java, Web Dev, Python, ML",Web Dev,Hyderabad,3,1
+525,Ishaan Joshi,20,7.21,Java,AI,Bangalore,2,0
+526,Vivaan Singh,19,8.35,"Data Analysis, Cybersecurity",Cybersecurity,Delhi,1,0
+527,Meera Das,22,6.24,Cybersecurity,AI,Coimbatore,3,3
+528,Saanvi Gupta,18,6.26,"Java, ML, Data Analysis, Cybersecurity",Web Dev,Hyderabad,6,3
+529,Ananya Chopra,21,5.18,Data Analysis,AI,Bangalore,5,2
+530,Vivaan Reddy,22,7.67,"Java, Cybersecurity",Web Dev,Madurai,1,0
+531,Aarohi Iyer,25,9.03,Cybersecurity,AI,Bangalore,4,2
+532,Reyansh Das,24,7.79,"Web Dev, Python",Web Dev,Madurai,3,0
+533,Diya Chopra,21,6.35,"ML, Cybersecurity, Data Analysis",Cybersecurity,Madurai,2,0
+534,Ishaan Gupta,24,6.16,"Cybersecurity, Web Dev, ML",AI,Chennai,2,0
+535,Ira Das,18,5.61,"Web Dev, Cybersecurity, Data Analysis",Data Science,Mumbai,6,0
+536,Arjun Gupta,22,5.44,Data Analysis,Data Science,Mumbai,1,0
+537,Aadhya Joshi,20,5.21,"Data Analysis, Cybersecurity, Java",Web Dev,Delhi,2,3
+538,Krishna Sharma,22,7.4,"Cybersecurity, Data Analysis, Java, Web Dev",AI,Mumbai,3,2
+539,Kavya Patel,23,9.76,"ML, Cybersecurity, Web Dev",AI,Delhi,2,0
+540,Ishaan Singh,18,7.9,"Cybersecurity, Web Dev",Cybersecurity,Mumbai,3,1
+541,Saanvi Iyer,24,8.33,"Java, Web Dev, Cybersecurity",Data Science,Chennai,4,2
+542,Kavya Reddy,25,5.66,"Cybersecurity, Web Dev, Java",Data Science,Mumbai,4,3
+543,Aditya Kumar,19,6.01,"Java, Data Analysis, ML",Data Science,Madurai,2,0
+544,Ananya Nair,18,8.65,"ML, Python, Cybersecurity",AI,Hyderabad,5,3
+545,Aditya Gupta,23,9.34,"Web Dev, Python",Cybersecurity,Delhi,6,2
+546,Diya Mehta,19,8.31,Java,Web Dev,Coimbatore,2,2
+547,Aadhya Mehta,19,5.09,"Java, Data Analysis, Cybersecurity, Python",Cybersecurity,Madurai,2,0
+548,Sai Singh,19,9.34,Python,Cybersecurity,Madurai,1,3
+549,Ishaan Bhat,20,9.65,"Web Dev, Java",Cybersecurity,Hyderabad,6,3
+550,Aditya Reddy,18,8.0,"Cybersecurity, ML, Web Dev, Java",Cybersecurity,Bangalore,6,0
+551,Aarav Sharma,25,8.26,"Cybersecurity, Data Analysis",AI,Madurai,2,1
+552,Ira Kumar,21,5.8,Cybersecurity,AI,Mumbai,6,2
+553,Krishna Kumar,18,9.33,"Data Analysis, Java, Python",Cybersecurity,Delhi,1,3
+554,Diya Reddy,22,8.91,Python,Data Science,Madurai,5,2
+555,Riya Chopra,18,5.55,"ML, Java, Data Analysis",Cybersecurity,Madurai,2,0
+556,Ishaan Reddy,23,6.64,"Python, Java, Web Dev, Data Analysis",Web Dev,Coimbatore,6,2
+557,Aarav Nair,23,9.51,"Python, Data Analysis",AI,Bangalore,5,0
+558,Ananya Bhat,24,7.18,Web Dev,AI,Mumbai,3,0
+559,Arjun Das,25,6.48,Python,AI,Bangalore,1,0
+560,Riya Mehta,24,8.15,Web Dev,Data Science,Bangalore,2,2
+561,Reyansh Kumar,24,8.48,Data Analysis,Cybersecurity,Mumbai,4,0
+562,Arjun Das,18,7.98,"Web Dev, Cybersecurity, Java",Cybersecurity,Hyderabad,1,2
+563,Arjun Iyer,21,5.07,Data Analysis,AI,Hyderabad,3,2
+564,Arjun Gupta,25,8.34,"Web Dev, Java",Data Science,Hyderabad,2,1
+565,Ira Kumar,23,7.5,"Cybersecurity, ML, Data Analysis",Web Dev,Chennai,5,1
+566,Kavya Kumar,25,7.6,"Data Analysis, Java, Python, ML",AI,Chennai,6,3
+567,Kavya Reddy,22,9.07,Web Dev,AI,Mumbai,1,3
+568,Arjun Patel,22,6.99,"ML, Data Analysis",Data Science,Bangalore,5,2
+569,Vivaan Verma,21,7.38,"Python, Data Analysis",Data Science,Hyderabad,3,3
+570,Aadhya Mehta,24,9.06,Python,AI,Chennai,2,3
+571,Reyansh Das,20,7.61,"Data Analysis, Cybersecurity",Cybersecurity,Delhi,5,2
+572,Ananya Chopra,20,5.04,Data Analysis,Data Science,Coimbatore,5,3
+573,Arjun Mehta,24,6.22,"ML, Data Analysis, Cybersecurity, Web Dev",Cybersecurity,Hyderabad,3,2
+574,Aarohi Das,24,5.99,"Python, Java",AI,Hyderabad,5,1
+575,Sai Verma,20,5.51,"Web Dev, ML, Cybersecurity, Python",Cybersecurity,Hyderabad,5,3
+576,Saanvi Nair,25,7.62,Cybersecurity,Web Dev,Bangalore,6,2
+577,Kavya Verma,22,9.02,"ML, Python, Web Dev, Java",Data Science,Chennai,3,3
+578,Ira Bhat,25,5.45,"Cybersecurity, Data Analysis",AI,Bangalore,6,1
+579,Krishna Gupta,19,6.36,"Cybersecurity, ML, Java",AI,Chennai,4,1
+580,Sai Iyer,18,7.61,"ML, Java, Python, Web Dev",Data Science,Coimbatore,4,1
+581,Aadhya Patel,24,7.63,Web Dev,Web Dev,Delhi,1,1
+582,Meera Mehta,22,6.28,"Python, ML",Cybersecurity,Hyderabad,4,3
+583,Riya Verma,21,5.44,"ML, Data Analysis, Python, Java",AI,Chennai,6,0
+584,Meera Mehta,21,5.22,Web Dev,AI,Hyderabad,2,2
+585,Aditya Bhat,20,5.01,"Web Dev, Cybersecurity, Java",Cybersecurity,Madurai,6,1
+586,Saanvi Joshi,22,9.42,Java,Cybersecurity,Madurai,1,1
+587,Kavya Chopra,18,8.23,"Cybersecurity, ML, Python",AI,Hyderabad,2,0
+588,Krishna Sharma,22,9.53,"Data Analysis, Cybersecurity, Web Dev",AI,Chennai,1,1
+589,Sai Gupta,20,8.9,"Cybersecurity, ML",AI,Madurai,2,3
+590,Ishaan Kumar,20,9.26,ML,Web Dev,Bangalore,2,0
+591,Ishaan Chopra,19,8.83,"Python, ML, Cybersecurity",AI,Hyderabad,2,0
+592,Riya Gupta,24,7.93,"ML, Python",AI,Delhi,1,2
+593,Aarohi Joshi,21,9.31,"Web Dev, Java, Cybersecurity, Data Analysis",Web Dev,Chennai,5,0
+594,Meera Das,23,5.12,"Web Dev, ML, Cybersecurity",Web Dev,Madurai,3,3
+595,Meera Singh,24,7.73,"ML, Java, Web Dev",Cybersecurity,Delhi,2,0
+596,Ira Patel,23,8.16,"Cybersecurity, Web Dev, Java",Web Dev,Coimbatore,1,1
+597,Diya Das,18,9.94,"Cybersecurity, Java, Web Dev",Data Science,Mumbai,3,2
+598,Arjun Bhat,22,8.38,"Web Dev, ML, Cybersecurity",Data Science,Hyderabad,2,1
+599,Aarohi Bhat,22,8.59,Web Dev,AI,Chennai,1,2
+600,Meera Reddy,24,6.71,Cybersecurity,AI,Coimbatore,6,2
+601,Ananya Bhat,21,8.62,"Data Analysis, Cybersecurity",Web Dev,Hyderabad,2,3
+602,Vivaan Chopra,24,8.86,"Java, Web Dev, Python",Data Science,Hyderabad,4,3
+603,Riya Verma,22,9.47,"Cybersecurity, Web Dev",Cybersecurity,Coimbatore,3,0
+604,Ira Bhat,25,6.83,"Cybersecurity, Python, ML",Cybersecurity,Bangalore,6,0
+605,Aadhya Iyer,24,5.35,Python,Data Science,Coimbatore,1,3
+606,Riya Joshi,19,8.35,"Cybersecurity, Data Analysis",Web Dev,Hyderabad,4,2
+607,Ishaan Patel,25,7.7,"Java, Python, Cybersecurity, Web Dev",AI,Bangalore,6,3
+608,Vivaan Mehta,19,8.4,"Web Dev, Data Analysis, Java",Web Dev,Delhi,4,0
+609,Ananya Sharma,19,6.67,"ML, Java, Python",Web Dev,Madurai,6,1
+610,Vivaan Bhat,24,6.89,"ML, Web Dev, Data Analysis",AI,Hyderabad,6,0
+611,Aadhya Iyer,20,8.65,"Java, Web Dev",AI,Hyderabad,6,3
+612,Ira Reddy,25,7.9,"Web Dev, Cybersecurity, ML, Python",Data Science,Coimbatore,2,3
+613,Ishaan Das,22,5.88,"Data Analysis, Cybersecurity, Web Dev",Web Dev,Hyderabad,1,2
+614,Ira Gupta,25,7.05,Python,Data Science,Bangalore,6,0
+615,Krishna Das,24,8.78,"Python, Data Analysis",Cybersecurity,Hyderabad,1,3
+616,Arjun Mehta,21,9.91,"Web Dev, Data Analysis, Python",Data Science,Delhi,3,3
+617,Ira Gupta,23,6.17,"Python, Data Analysis, Java, ML",AI,Chennai,4,2
+618,Sai Bhat,25,5.1,Cybersecurity,AI,Coimbatore,4,3
+619,Ishaan Joshi,25,7.7,"Python, Java, ML, Data Analysis",AI,Mumbai,1,1
+620,Reyansh Sharma,22,5.46,"Cybersecurity, Data Analysis, Python, ML",AI,Chennai,6,1
+621,Sai Bhat,25,8.78,"Web Dev, Python, Java",Data Science,Bangalore,1,0
+622,Meera Gupta,25,7.53,"ML, Data Analysis, Python, Java",AI,Delhi,4,1
+623,Aarav Das,22,5.18,Cybersecurity,AI,Mumbai,1,2
+624,Aditya Singh,19,6.71,Data Analysis,Data Science,Delhi,1,0
+625,Aditya Patel,19,9.68,"ML, Cybersecurity, Python, Java",Web Dev,Delhi,1,0
+626,Krishna Reddy,20,9.13,"Web Dev, Data Analysis, Java, ML",Data Science,Chennai,6,2
+627,Reyansh Verma,19,8.0,Python,Cybersecurity,Delhi,6,2
+628,Aditya Patel,23,7.48,"Cybersecurity, Data Analysis",Web Dev,Bangalore,6,3
+629,Ira Reddy,22,6.96,"Java, Cybersecurity",Data Science,Coimbatore,4,2
+630,Arjun Reddy,18,5.58,Web Dev,Cybersecurity,Mumbai,2,0
+631,Aditya Patel,20,8.37,Data Analysis,AI,Coimbatore,2,1
+632,Kavya Singh,23,9.03,"Java, Cybersecurity, Python",Data Science,Delhi,4,1
+633,Aditya Kumar,18,6.61,"ML, Cybersecurity, Data Analysis",Data Science,Mumbai,3,1
+634,Reyansh Nair,20,8.47,"Data Analysis, ML, Java",AI,Madurai,2,1
+635,Krishna Bhat,21,7.87,"Cybersecurity, ML",Data Science,Hyderabad,2,0
+636,Saanvi Reddy,19,5.66,"ML, Cybersecurity, Web Dev",Data Science,Hyderabad,6,0
+637,Diya Gupta,21,8.03,Java,AI,Hyderabad,1,1
+638,Ananya Joshi,25,8.82,"Web Dev, Java",Data Science,Mumbai,5,3
+639,Aditya Chopra,20,9.76,Python,AI,Hyderabad,6,0
+640,Meera Bhat,22,6.84,"Python, Web Dev",Data Science,Delhi,5,1
+641,Kavya Das,21,5.68,"Data Analysis, ML",Web Dev,Hyderabad,4,0
+642,Diya Reddy,21,8.88,"Web Dev, Cybersecurity, Python, Java",Data Science,Delhi,4,0
+643,Aarav Das,24,7.53,"Web Dev, Java",Web Dev,Bangalore,2,0
+644,Sai Reddy,21,9.26,"Cybersecurity, ML",Data Science,Chennai,5,2
+645,Krishna Bhat,23,8.01,"Java, Python, Data Analysis, Cybersecurity",Web Dev,Chennai,3,2
+646,Ishaan Iyer,20,7.82,"ML, Cybersecurity, Web Dev",AI,Chennai,2,1
+647,Aadhya Verma,18,5.29,"Cybersecurity, Data Analysis, Java",Cybersecurity,Mumbai,3,1
+648,Meera Singh,22,8.1,Web Dev,Data Science,Bangalore,1,2
+649,Krishna Iyer,20,5.85,"Data Analysis, Cybersecurity, ML, Java",AI,Delhi,5,0
+650,Reyansh Gupta,21,6.52,"Java, Python",Data Science,Coimbatore,3,2
+651,Reyansh Reddy,25,8.46,"Data Analysis, Web Dev",AI,Mumbai,1,3
+652,Krishna Mehta,21,9.98,"Cybersecurity, Python, ML",Cybersecurity,Bangalore,1,0
+653,Ishaan Nair,24,6.1,"Cybersecurity, ML",AI,Coimbatore,5,3
+654,Vivaan Reddy,21,7.64,"Java, Web Dev",AI,Delhi,2,2
+655,Reyansh Sharma,22,9.43,"Data Analysis, Java",Cybersecurity,Delhi,6,3
+656,Aarav Chopra,22,6.77,"Python, Java, ML",Cybersecurity,Hyderabad,3,3
+657,Kavya Reddy,23,9.14,"ML, Web Dev",Web Dev,Hyderabad,5,0
+658,Sai Nair,23,9.82,"Java, Data Analysis, ML",AI,Coimbatore,2,1
+659,Meera Mehta,20,7.09,"Python, Cybersecurity",Web Dev,Delhi,6,2
+660,Ira Das,22,8.8,"Java, Web Dev, Python, ML",Cybersecurity,Delhi,2,3
+661,Vivaan Bhat,24,8.09,Python,Cybersecurity,Mumbai,5,0
+662,Reyansh Nair,19,6.21,Cybersecurity,Cybersecurity,Delhi,5,0
+663,Aarohi Singh,19,5.32,Cybersecurity,Cybersecurity,Coimbatore,4,0
+664,Kavya Bhat,20,6.33,"Data Analysis, Web Dev, Python, Java",Web Dev,Madurai,3,2
+665,Kavya Bhat,22,9.22,"Python, Data Analysis",Cybersecurity,Madurai,5,1
+666,Ishaan Sharma,23,5.75,Web Dev,AI,Delhi,4,3
+667,Aarav Mehta,21,8.26,"Cybersecurity, Data Analysis",Cybersecurity,Madurai,3,0
+668,Arjun Reddy,22,6.97,"Cybersecurity, Web Dev, Data Analysis, Java",Cybersecurity,Delhi,6,1
+669,Saanvi Nair,22,9.78,"Cybersecurity, ML, Java",Cybersecurity,Delhi,1,0
+670,Kavya Reddy,25,8.93,"Web Dev, Cybersecurity, ML",Data Science,Madurai,1,0
+671,Saanvi Bhat,18,9.04,"Cybersecurity, Java, Python, Data Analysis",Web Dev,Bangalore,5,0
+672,Sai Verma,19,9.65,"Web Dev, ML",Data Science,Hyderabad,4,3
+673,Vivaan Reddy,22,9.13,"Cybersecurity, Python, Web Dev, ML",Cybersecurity,Delhi,2,3
+674,Aarohi Verma,20,7.25,Data Analysis,Web Dev,Madurai,1,2
+675,Aditya Nair,18,5.33,Cybersecurity,Cybersecurity,Bangalore,5,2
+676,Ira Patel,22,8.69,Java,Cybersecurity,Bangalore,1,2
+677,Aarav Kumar,22,5.24,"Java, Python, Cybersecurity",Web Dev,Mumbai,1,2
+678,Vivaan Singh,20,8.3,"Cybersecurity, Python",Web Dev,Chennai,3,3
+679,Ananya Bhat,20,5.06,"Data Analysis, ML, Web Dev, Cybersecurity",Web Dev,Delhi,5,3
+680,Aarav Chopra,22,6.94,Python,Data Science,Mumbai,6,3
+681,Saanvi Singh,20,9.85,"Java, Web Dev, Cybersecurity",Cybersecurity,Bangalore,3,2
+682,Aarav Patel,20,5.93,"ML, Web Dev",AI,Delhi,3,1
+683,Aditya Iyer,22,7.75,"Data Analysis, Python, Cybersecurity",Data Science,Mumbai,6,3
+684,Riya Mehta,25,6.33,"Java, Data Analysis, ML, Web Dev",Cybersecurity,Delhi,6,2
+685,Aarav Gupta,25,7.57,Data Analysis,AI,Bangalore,1,2
+686,Krishna Das,25,8.85,"Data Analysis, ML",Data Science,Delhi,1,0
+687,Aarav Chopra,19,8.34,"Java, Data Analysis, Python",Cybersecurity,Mumbai,3,0
+688,Aadhya Verma,21,8.08,"ML, Data Analysis",Data Science,Coimbatore,6,0
+689,Ananya Reddy,18,9.8,"ML, Java",Web Dev,Mumbai,6,2
+690,Krishna Joshi,19,6.61,"Java, Cybersecurity, Web Dev",Web Dev,Hyderabad,4,3
+691,Saanvi Reddy,20,9.9,Python,AI,Mumbai,6,0
+692,Kavya Nair,22,9.6,Web Dev,AI,Hyderabad,4,1
+693,Kavya Singh,20,5.22,"ML, Web Dev, Data Analysis",Cybersecurity,Coimbatore,1,3
+694,Ira Patel,19,6.12,"Java, Web Dev, Cybersecurity, Python",Cybersecurity,Bangalore,1,3
+695,Vivaan Iyer,20,7.75,"ML, Java, Cybersecurity",AI,Mumbai,2,0
+696,Ira Gupta,19,9.72,"Cybersecurity, Python, Web Dev",Web Dev,Bangalore,6,3
+697,Arjun Singh,22,8.38,"Web Dev, Data Analysis, Java",Data Science,Coimbatore,3,1
+698,Ananya Gupta,18,8.23,"Data Analysis, Java, ML",Cybersecurity,Coimbatore,3,1
+699,Aarohi Chopra,25,6.58,"Data Analysis, ML, Cybersecurity",Cybersecurity,Coimbatore,1,3
+700,Reyansh Nair,18,7.72,"Python, Data Analysis",Web Dev,Delhi,5,0
+701,Aarohi Joshi,23,7.3,"Java, Cybersecurity, Web Dev, ML",AI,Coimbatore,6,3
+702,Aarohi Gupta,23,8.88,"Cybersecurity, Web Dev",Data Science,Hyderabad,4,3
+703,Kavya Patel,20,6.6,"Web Dev, Cybersecurity, Python",Cybersecurity,Chennai,6,2
+704,Sai Sharma,18,9.69,"Data Analysis, ML",AI,Bangalore,5,0
+705,Aadhya Patel,19,5.54,"Data Analysis, Web Dev, Cybersecurity",Data Science,Chennai,5,2
+706,Aarohi Verma,21,9.09,"Cybersecurity, Web Dev, Java",Web Dev,Hyderabad,3,2
+707,Diya Singh,25,6.71,"Cybersecurity, Web Dev, ML",Cybersecurity,Chennai,6,2
+708,Meera Nair,22,7.95,"ML, Java, Web Dev",Data Science,Bangalore,3,2
+709,Meera Joshi,23,7.83,Python,Web Dev,Madurai,5,1
+710,Krishna Singh,24,7.89,"Cybersecurity, Data Analysis, Web Dev",Cybersecurity,Madurai,1,3
+711,Riya Bhat,22,5.8,"Cybersecurity, Web Dev, ML",Cybersecurity,Coimbatore,2,1
+712,Sai Joshi,25,9.06,Java,Web Dev,Mumbai,4,0
+713,Ananya Chopra,20,9.96,Java,Web Dev,Bangalore,3,3
+714,Arjun Verma,25,9.0,ML,AI,Chennai,3,0
+715,Meera Iyer,19,8.71,Python,Data Science,Delhi,6,2
+716,Reyansh Verma,20,5.94,"Data Analysis, Java, Web Dev, Cybersecurity",Data Science,Bangalore,1,3
+717,Reyansh Reddy,22,7.69,"Python, Cybersecurity",Data Science,Hyderabad,4,1
+718,Aadhya Joshi,19,8.8,"ML, Web Dev, Data Analysis, Cybersecurity",Cybersecurity,Coimbatore,6,3
+719,Sai Nair,18,5.06,"Cybersecurity, Web Dev, ML, Data Analysis",Data Science,Madurai,1,1
+720,Kavya Iyer,22,6.84,"Python, ML",Data Science,Madurai,3,3
+721,Aarohi Patel,20,9.21,"Data Analysis, Python",AI,Delhi,6,3
+722,Reyansh Singh,20,9.98,"ML, Web Dev, Python",Cybersecurity,Hyderabad,4,2
+723,Kavya Patel,22,8.22,ML,Data Science,Delhi,2,3
+724,Krishna Bhat,23,7.97,Web Dev,Data Science,Coimbatore,5,1
+725,Aarohi Iyer,22,5.01,"ML, Java, Web Dev, Data Analysis",Cybersecurity,Hyderabad,5,1
+726,Meera Kumar,23,5.83,"Python, ML, Java",Data Science,Madurai,4,0
+727,Ananya Mehta,22,5.46,"Python, Java",Web Dev,Madurai,4,0
+728,Arjun Das,23,8.62,"Web Dev, ML, Data Analysis, Cybersecurity",Cybersecurity,Coimbatore,5,3
+729,Aadhya Sharma,19,7.81,"Python, Web Dev",AI,Coimbatore,4,3
+730,Arjun Patel,23,7.43,"Java, ML, Python",Web Dev,Chennai,6,1
+731,Reyansh Sharma,20,6.35,"Java, Data Analysis, ML, Cybersecurity",Cybersecurity,Madurai,4,2
+732,Riya Chopra,18,8.18,Data Analysis,AI,Hyderabad,3,1
+733,Reyansh Sharma,25,6.67,"ML, Python, Cybersecurity",Web Dev,Coimbatore,6,1
+734,Ananya Joshi,23,6.05,"Python, Cybersecurity, Java, ML",Cybersecurity,Coimbatore,4,3
+735,Vivaan Kumar,20,7.2,"Cybersecurity, Python, Java, ML",Cybersecurity,Mumbai,4,1
+736,Diya Singh,24,8.68,"Cybersecurity, Python",AI,Madurai,1,1
+737,Kavya Das,24,6.1,"Java, Data Analysis, Python",Web Dev,Chennai,3,3
+738,Krishna Das,20,8.83,"Data Analysis, Python, Java, ML",AI,Bangalore,1,3
+739,Krishna Sharma,23,8.21,Web Dev,Cybersecurity,Mumbai,1,1
+740,Reyansh Singh,21,7.48,Java,Web Dev,Bangalore,3,2
+741,Aditya Das,23,9.96,"Cybersecurity, Python, Web Dev",Data Science,Mumbai,4,2
+742,Reyansh Chopra,24,7.86,Java,Cybersecurity,Coimbatore,5,0
+743,Aadhya Iyer,21,6.81,"ML, Java, Python",Cybersecurity,Madurai,2,2
+744,Reyansh Patel,22,8.5,ML,Cybersecurity,Delhi,6,1
+745,Diya Iyer,23,6.37,"Java, Web Dev, Cybersecurity, Data Analysis",Data Science,Madurai,1,2
+746,Riya Patel,22,8.91,"Python, Web Dev",Web Dev,Bangalore,3,1
+747,Diya Joshi,20,7.15,"Web Dev, Data Analysis, ML",AI,Hyderabad,3,0
+748,Ira Mehta,22,7.31,"Python, Web Dev",Data Science,Hyderabad,4,0
+749,Krishna Singh,22,7.29,Cybersecurity,Cybersecurity,Coimbatore,5,3
+750,Ira Das,23,8.16,"Web Dev, Java, Data Analysis, Cybersecurity",Cybersecurity,Mumbai,6,2
+751,Aadhya Verma,24,7.48,Web Dev,AI,Chennai,1,3
+752,Reyansh Reddy,18,5.04,Java,AI,Bangalore,1,1
+753,Ishaan Verma,23,8.05,Web Dev,Cybersecurity,Mumbai,4,0
+754,Kavya Iyer,24,9.61,"Python, Data Analysis, Java",AI,Chennai,1,3
+755,Ishaan Das,22,5.34,"Python, ML, Cybersecurity, Java",Cybersecurity,Hyderabad,4,1
+756,Saanvi Bhat,23,5.18,Web Dev,Data Science,Delhi,3,2
+757,Vivaan Chopra,21,8.94,Data Analysis,AI,Coimbatore,2,3
+758,Ira Verma,25,8.8,Cybersecurity,Web Dev,Delhi,2,0
+759,Meera Kumar,22,6.34,"Web Dev, Java",Web Dev,Delhi,1,0
+760,Aarohi Chopra,21,5.17,Cybersecurity,Data Science,Mumbai,4,1
+761,Riya Chopra,19,7.81,"Python, Java, Web Dev, Data Analysis",Cybersecurity,Delhi,5,3
+762,Aadhya Das,19,7.06,"Web Dev, Cybersecurity",Cybersecurity,Madurai,6,2
+763,Aadhya Iyer,24,5.11,"Data Analysis, ML, Web Dev",Data Science,Delhi,3,3
+764,Krishna Nair,25,7.8,"ML, Web Dev",Data Science,Madurai,5,1
+765,Riya Gupta,19,7.09,"Python, Cybersecurity, Data Analysis, ML",AI,Delhi,6,0
+766,Reyansh Patel,22,9.91,Data Analysis,Web Dev,Coimbatore,2,0
+767,Aadhya Sharma,20,8.63,"Web Dev, Cybersecurity, Java",AI,Chennai,5,3
+768,Riya Singh,18,7.32,"Java, Data Analysis",Data Science,Delhi,1,0
+769,Krishna Kumar,25,9.84,"Data Analysis, Python, ML",Web Dev,Mumbai,5,0
+770,Aditya Chopra,18,5.76,"ML, Java, Cybersecurity",AI,Delhi,4,2
+771,Diya Sharma,19,5.44,"Python, Cybersecurity, Data Analysis, Java",Cybersecurity,Bangalore,6,2
+772,Arjun Joshi,18,7.62,"Cybersecurity, Web Dev",AI,Mumbai,5,0
+773,Meera Sharma,19,7.02,"Web Dev, Python, Data Analysis",Web Dev,Madurai,3,0
+774,Ira Chopra,24,8.54,"Java, Python",Cybersecurity,Bangalore,1,1
+775,Ira Verma,23,6.13,"ML, Data Analysis",Cybersecurity,Coimbatore,2,0
+776,Reyansh Singh,19,5.83,ML,AI,Delhi,2,1
+777,Meera Patel,25,6.08,ML,Cybersecurity,Hyderabad,2,1
+778,Reyansh Bhat,25,7.06,"ML, Web Dev",Web Dev,Bangalore,5,2
+779,Meera Das,23,6.45,"Web Dev, Cybersecurity",Web Dev,Coimbatore,6,3
+780,Aditya Patel,20,7.3,"Data Analysis, Web Dev, Python, ML",Cybersecurity,Bangalore,3,2
+781,Saanvi Singh,18,6.01,"Data Analysis, Cybersecurity",AI,Hyderabad,5,3
+782,Diya Reddy,19,6.65,"Web Dev, ML, Java",Cybersecurity,Chennai,6,3
+783,Krishna Kumar,23,5.09,"Java, Python, Web Dev",AI,Coimbatore,5,2
+784,Reyansh Joshi,23,5.81,"Python, Data Analysis, Cybersecurity",Data Science,Bangalore,6,2
+785,Kavya Sharma,22,7.26,"Java, Web Dev, Cybersecurity",Web Dev,Delhi,2,3
+786,Ira Bhat,19,7.79,"Web Dev, ML, Java",AI,Bangalore,2,0
+787,Ira Sharma,25,7.32,"Java, Python, Data Analysis",Web Dev,Hyderabad,4,0
+788,Ananya Sharma,19,7.49,"Cybersecurity, Python, Web Dev, Java",Data Science,Mumbai,6,2
+789,Saanvi Joshi,21,7.26,Python,Data Science,Hyderabad,3,1
+790,Meera Kumar,20,8.88,"Web Dev, Python, Data Analysis, Java",AI,Coimbatore,3,2
+791,Ishaan Iyer,25,5.93,"Web Dev, Python, Cybersecurity, ML",Data Science,Madurai,4,3
+792,Kavya Mehta,18,7.89,"Python, Data Analysis",Data Science,Madurai,5,3
+793,Diya Kumar,24,8.21,"Python, Data Analysis, ML",AI,Delhi,6,3
+794,Ananya Kumar,19,5.79,"Data Analysis, ML",Web Dev,Chennai,4,1
+795,Meera Iyer,21,5.83,"ML, Java",Web Dev,Bangalore,3,0
+796,Diya Nair,20,9.49,"ML, Web Dev, Java",Web Dev,Mumbai,3,3
+797,Reyansh Nair,23,5.7,"Java, Data Analysis",Web Dev,Bangalore,1,2
+798,Reyansh Das,25,6.82,"Data Analysis, Python",AI,Coimbatore,4,3
+799,Aadhya Joshi,20,6.57,"Cybersecurity, Python",Data Science,Bangalore,6,1
+800,Aarohi Patel,23,5.42,"Cybersecurity, Data Analysis, Java, Python",AI,Coimbatore,1,3
+801,Sai Sharma,20,7.53,"Web Dev, Cybersecurity, Java",Web Dev,Coimbatore,1,2
+802,Aarav Singh,22,9.92,Cybersecurity,Cybersecurity,Coimbatore,5,1
+803,Ira Joshi,22,6.62,"Cybersecurity, Data Analysis, Java, ML",Cybersecurity,Bangalore,4,1
+804,Reyansh Reddy,19,7.14,"Java, Python",Cybersecurity,Hyderabad,3,0
+805,Aarav Patel,18,5.47,"Java, Cybersecurity, Web Dev, Python",Web Dev,Bangalore,4,0
+806,Kavya Chopra,21,9.45,"ML, Java, Cybersecurity",Cybersecurity,Hyderabad,6,1
+807,Vivaan Nair,22,9.87,"Cybersecurity, Data Analysis, ML, Web Dev",AI,Delhi,4,0
+808,Arjun Gupta,18,9.1,"Python, Java, ML, Data Analysis",AI,Delhi,2,1
+809,Meera Iyer,20,8.8,Java,Data Science,Bangalore,1,2
+810,Meera Patel,19,9.11,"ML, Java, Cybersecurity",Data Science,Delhi,4,0
+811,Vivaan Chopra,22,6.27,"ML, Cybersecurity",AI,Mumbai,6,2
+812,Ira Verma,21,6.68,"Web Dev, Cybersecurity",Web Dev,Bangalore,2,3
+813,Aarohi Singh,22,5.56,"Python, Java, ML, Data Analysis",Web Dev,Bangalore,2,1
+814,Aditya Patel,18,6.2,"Cybersecurity, Java, Python",AI,Chennai,4,1
+815,Riya Das,18,8.7,"Python, Web Dev, ML",Web Dev,Bangalore,2,1
+816,Meera Sharma,20,8.26,"Data Analysis, Web Dev",Web Dev,Coimbatore,6,0
+817,Reyansh Reddy,22,9.03,ML,Data Science,Madurai,6,2
+818,Riya Patel,20,8.17,"Python, Java",Web Dev,Chennai,4,0
+819,Ananya Sharma,25,5.53,"ML, Cybersecurity, Python, Data Analysis",Cybersecurity,Coimbatore,3,3
+820,Ishaan Nair,25,5.35,"ML, Cybersecurity, Web Dev, Python",AI,Coimbatore,6,0
+821,Ananya Nair,21,6.14,"Python, Java",Web Dev,Chennai,3,3
+822,Saanvi Sharma,19,7.56,"Python, Web Dev",Data Science,Madurai,6,2
+823,Aditya Sharma,24,5.34,ML,Web Dev,Coimbatore,1,0
+824,Diya Nair,22,8.27,"ML, Web Dev",Data Science,Chennai,6,3
+825,Aditya Bhat,21,6.16,"Data Analysis, Cybersecurity, ML",AI,Hyderabad,1,2
+826,Aarohi Joshi,21,8.32,Data Analysis,Cybersecurity,Coimbatore,2,2
+827,Arjun Chopra,18,9.37,"Data Analysis, Web Dev, ML",Web Dev,Mumbai,3,2
+828,Ishaan Nair,20,5.55,Python,AI,Bangalore,6,1
+829,Diya Mehta,23,9.32,"Data Analysis, Web Dev, Cybersecurity",Web Dev,Delhi,6,2
+830,Kavya Iyer,20,9.88,"ML, Java, Web Dev, Data Analysis",Data Science,Coimbatore,6,2
+831,Aarav Verma,21,5.09,ML,AI,Mumbai,6,1
+832,Ishaan Bhat,23,6.4,"ML, Python, Data Analysis, Java",Web Dev,Chennai,1,2
+833,Ishaan Chopra,23,9.55,"Data Analysis, Python, Cybersecurity",Data Science,Delhi,2,2
+834,Aadhya Bhat,18,9.2,Python,Data Science,Madurai,5,2
+835,Meera Chopra,23,8.63,Java,Web Dev,Madurai,3,3
+836,Aadhya Das,24,7.66,"ML, Python, Java, Cybersecurity",Web Dev,Mumbai,3,2
+837,Riya Joshi,21,5.56,"ML, Cybersecurity, Python",Data Science,Delhi,6,0
+838,Aadhya Iyer,22,5.34,Java,Data Science,Hyderabad,1,1
+839,Saanvi Verma,18,5.06,"Data Analysis, Python",Data Science,Bangalore,4,0
+840,Sai Nair,23,7.99,"Java, Web Dev, Python, Cybersecurity",Data Science,Mumbai,3,0
+841,Vivaan Patel,20,8.65,"Python, ML, Java, Web Dev",Cybersecurity,Hyderabad,1,3
+842,Diya Kumar,20,9.51,"Java, Python, Data Analysis",AI,Hyderabad,2,0
+843,Ishaan Verma,22,7.97,"Web Dev, Python, ML, Data Analysis",Web Dev,Coimbatore,1,3
+844,Aadhya Gupta,24,8.13,"Data Analysis, Java, Python",Web Dev,Coimbatore,5,1
+845,Vivaan Gupta,18,6.43,"Cybersecurity, Web Dev, Python, ML",Data Science,Chennai,4,2
+846,Aditya Singh,20,9.98,"Python, Cybersecurity, Data Analysis, Web Dev",Data Science,Mumbai,2,0
+847,Ishaan Singh,24,8.29,"Java, Data Analysis",Data Science,Delhi,4,0
+848,Aadhya Bhat,20,7.44,"Cybersecurity, Python, Data Analysis, Web Dev",Web Dev,Madurai,5,0
+849,Arjun Sharma,18,9.55,Java,Data Science,Delhi,4,2
+850,Aadhya Patel,18,5.32,"Cybersecurity, Data Analysis",Web Dev,Coimbatore,1,3
+851,Aditya Patel,22,8.47,"Web Dev, ML, Python",Web Dev,Chennai,4,1
+852,Kavya Das,21,7.32,Python,Cybersecurity,Chennai,1,2
+853,Aditya Mehta,19,5.82,"Java, Web Dev, ML, Data Analysis",Data Science,Madurai,6,3
+854,Aadhya Joshi,22,8.16,"Cybersecurity, Web Dev",AI,Hyderabad,4,0
+855,Riya Nair,22,8.2,"Python, ML",AI,Bangalore,4,3
+856,Diya Das,21,6.92,"ML, Java, Web Dev, Python",Data Science,Madurai,5,2
+857,Meera Reddy,23,6.31,"Data Analysis, ML, Web Dev",AI,Chennai,2,2
+858,Kavya Verma,24,9.92,"ML, Cybersecurity, Java",Data Science,Hyderabad,6,1
+859,Saanvi Nair,23,6.27,"Web Dev, Python",Cybersecurity,Hyderabad,1,0
+860,Arjun Singh,21,8.02,Data Analysis,Cybersecurity,Bangalore,3,3
+861,Aarohi Kumar,20,6.38,"Web Dev, Java",Cybersecurity,Bangalore,1,0
+862,Aditya Singh,22,7.36,"Cybersecurity, Web Dev",Cybersecurity,Hyderabad,3,3
+863,Aarohi Nair,23,8.05,"Web Dev, Java, Cybersecurity",AI,Mumbai,5,3
+864,Kavya Verma,25,7.95,"Data Analysis, Web Dev, Python, Java",Web Dev,Madurai,5,1
+865,Meera Verma,18,5.04,Cybersecurity,Cybersecurity,Madurai,6,3
+866,Kavya Das,20,9.22,Python,Web Dev,Hyderabad,1,1
+867,Reyansh Nair,24,9.01,Java,Web Dev,Bangalore,1,3
+868,Diya Mehta,23,6.98,"Java, Cybersecurity, Data Analysis, Web Dev",Data Science,Bangalore,6,1
+869,Saanvi Verma,18,6.99,Web Dev,Cybersecurity,Hyderabad,5,0
+870,Reyansh Joshi,18,9.09,"Python, Data Analysis, Cybersecurity",AI,Mumbai,5,2
+871,Saanvi Verma,20,7.54,"Python, Java, ML",Cybersecurity,Mumbai,1,2
+872,Aadhya Chopra,22,8.38,"ML, Cybersecurity, Web Dev, Data Analysis",Web Dev,Mumbai,6,2
+873,Sai Gupta,20,5.66,"Java, Web Dev",Cybersecurity,Hyderabad,6,0
+874,Saanvi Joshi,18,6.95,"Java, Data Analysis, Cybersecurity, Python",AI,Chennai,3,3
+875,Aarav Reddy,25,9.54,"Cybersecurity, ML, Java, Python",Web Dev,Mumbai,5,0
+876,Aarohi Joshi,21,8.37,"Cybersecurity, Web Dev, ML, Data Analysis",Web Dev,Bangalore,1,0
+877,Ira Mehta,19,9.78,"ML, Data Analysis, Java, Python",Cybersecurity,Delhi,2,0
+878,Aarav Nair,25,9.31,"Cybersecurity, Java, Data Analysis, Web Dev",Data Science,Chennai,6,2
+879,Vivaan Nair,23,6.29,"Cybersecurity, Data Analysis, Python, Web Dev",Cybersecurity,Mumbai,1,2
+880,Aditya Reddy,21,8.43,"ML, Web Dev, Python",AI,Coimbatore,2,3
+881,Kavya Das,23,9.0,Cybersecurity,Data Science,Delhi,4,1
+882,Vivaan Singh,22,5.61,ML,Cybersecurity,Delhi,4,3
+883,Kavya Nair,21,9.5,"ML, Data Analysis, Web Dev",Data Science,Coimbatore,4,1
+884,Vivaan Chopra,20,6.77,"Cybersecurity, Web Dev, Data Analysis",AI,Mumbai,2,2
+885,Kavya Nair,22,8.39,"Web Dev, Python",Data Science,Hyderabad,2,2
+886,Aarav Patel,20,7.99,"Python, Java, Cybersecurity, Web Dev",Data Science,Coimbatore,6,1
+887,Ananya Patel,20,9.57,"Python, Cybersecurity, Java",Web Dev,Mumbai,1,2
+888,Riya Singh,21,5.86,"Data Analysis, Java",Cybersecurity,Coimbatore,6,2
+889,Ira Joshi,22,9.51,Data Analysis,AI,Coimbatore,6,2
+890,Reyansh Joshi,25,9.96,"ML, Cybersecurity, Java, Data Analysis",Cybersecurity,Mumbai,2,0
+891,Sai Kumar,18,7.11,"Python, Data Analysis, Cybersecurity",AI,Coimbatore,3,2
+892,Riya Mehta,18,5.42,"Data Analysis, ML, Java, Web Dev",Cybersecurity,Bangalore,2,0
+893,Ananya Reddy,22,9.04,"Python, Data Analysis, ML, Java",Data Science,Delhi,1,2
+894,Vivaan Verma,25,8.26,"ML, Web Dev, Data Analysis",Data Science,Madurai,4,0
+895,Ananya Bhat,23,9.26,Data Analysis,Cybersecurity,Bangalore,4,2
+896,Krishna Chopra,22,6.38,"Web Dev, Data Analysis",Web Dev,Madurai,5,1
+897,Aarav Das,19,7.95,Python,AI,Bangalore,4,1
+898,Arjun Iyer,25,9.11,Cybersecurity,Cybersecurity,Madurai,4,3
+899,Krishna Chopra,24,8.8,"Data Analysis, Java, Python",AI,Delhi,3,3
+900,Aditya Sharma,25,6.86,"Web Dev, Python",AI,Chennai,1,1
+901,Reyansh Mehta,21,6.96,"Python, Java",Data Science,Madurai,2,3
+902,Riya Das,21,7.15,Cybersecurity,Cybersecurity,Madurai,4,0
+903,Aarohi Chopra,25,8.81,"Data Analysis, Java, Python",Data Science,Hyderabad,4,2
+904,Vivaan Mehta,22,7.59,"Data Analysis, Python, Cybersecurity, Java",Web Dev,Bangalore,2,3
+905,Aditya Gupta,20,6.7,"Web Dev, ML",Web Dev,Mumbai,3,1
+906,Kavya Verma,20,6.56,"Web Dev, ML",Web Dev,Delhi,6,3
+907,Arjun Gupta,22,7.66,"Python, Cybersecurity, Web Dev",AI,Delhi,4,3
+908,Ananya Bhat,21,7.8,"Python, ML, Java, Data Analysis",AI,Chennai,4,0
+909,Meera Patel,22,9.86,"Cybersecurity, Data Analysis",Cybersecurity,Delhi,6,3
+910,Aarav Iyer,25,7.53,"ML, Cybersecurity, Web Dev, Data Analysis",AI,Delhi,3,0
+911,Krishna Sharma,21,5.5,"Cybersecurity, ML, Python, Data Analysis",Data Science,Madurai,6,1
+912,Diya Mehta,20,6.94,Cybersecurity,AI,Madurai,2,2
+913,Aadhya Verma,19,6.57,"Data Analysis, Java, Web Dev, Cybersecurity",AI,Bangalore,5,2
+914,Ishaan Patel,22,6.45,"Python, Data Analysis, ML, Cybersecurity",Cybersecurity,Mumbai,5,1
+915,Ishaan Reddy,22,6.85,Java,AI,Mumbai,4,0
+916,Krishna Gupta,20,9.44,"Python, Web Dev, Data Analysis, Java",Cybersecurity,Chennai,4,1
+917,Vivaan Singh,21,7.73,Data Analysis,AI,Bangalore,5,0
+918,Arjun Kumar,20,9.81,"Cybersecurity, Web Dev, Java, Data Analysis",Web Dev,Chennai,4,0
+919,Vivaan Chopra,22,9.85,"ML, Python",Cybersecurity,Delhi,6,3
+920,Vivaan Kumar,22,5.77,"Python, Java",AI,Madurai,1,0
+921,Arjun Gupta,19,5.84,"Web Dev, Python",AI,Chennai,5,2
+922,Kavya Nair,24,7.2,"Python, Java",Cybersecurity,Madurai,2,1
+923,Meera Singh,25,8.55,Cybersecurity,Web Dev,Madurai,2,0
+924,Ishaan Bhat,22,6.71,Web Dev,Web Dev,Madurai,4,0
+925,Aditya Verma,21,9.15,"Java, ML, Cybersecurity",Data Science,Delhi,4,2
+926,Sai Gupta,18,7.9,"Web Dev, Python",Web Dev,Chennai,5,2
+927,Meera Bhat,22,8.13,"Python, ML",AI,Chennai,3,3
+928,Aarav Reddy,20,8.91,Cybersecurity,Data Science,Bangalore,3,3
+929,Kavya Chopra,19,8.12,"Java, Cybersecurity",Data Science,Delhi,1,3
+930,Riya Mehta,19,7.31,"Java, Web Dev",AI,Delhi,5,3
+931,Sai Chopra,21,9.26,"Web Dev, Python, Data Analysis, Java",Cybersecurity,Chennai,5,3
+932,Krishna Kumar,23,6.14,Web Dev,AI,Delhi,3,0
+933,Saanvi Joshi,19,8.61,"ML, Java",Data Science,Chennai,5,2
+934,Ishaan Verma,21,5.19,"Cybersecurity, ML",Cybersecurity,Coimbatore,6,2
+935,Sai Das,24,5.62,Python,Data Science,Madurai,1,3
+936,Ishaan Mehta,21,7.33,"Data Analysis, Web Dev, ML",AI,Chennai,2,3
+937,Vivaan Iyer,23,5.74,"Java, Python",Cybersecurity,Delhi,3,1
+938,Arjun Verma,25,5.47,"Cybersecurity, ML",Data Science,Bangalore,4,3
+939,Ishaan Chopra,23,7.94,"Java, Python, Data Analysis",Web Dev,Chennai,2,3
+940,Krishna Chopra,23,7.61,"Java, ML, Cybersecurity, Python",Cybersecurity,Delhi,6,3
+941,Kavya Sharma,24,6.93,"Java, Cybersecurity, ML, Python",Cybersecurity,Madurai,3,3
+942,Reyansh Gupta,18,6.81,"Cybersecurity, Data Analysis",Data Science,Coimbatore,1,2
+943,Aadhya Reddy,22,9.9,Cybersecurity,AI,Madurai,2,3
+944,Reyansh Verma,20,8.01,"ML, Cybersecurity, Java, Web Dev",Web Dev,Madurai,4,2
+945,Sai Bhat,22,7.38,"Web Dev, Cybersecurity",Web Dev,Chennai,1,3
+946,Aarohi Joshi,21,5.02,"Java, Web Dev, ML, Cybersecurity",Data Science,Chennai,1,0
+947,Aarohi Chopra,18,9.47,"Java, Data Analysis",Cybersecurity,Delhi,3,2
+948,Krishna Nair,23,6.28,"Web Dev, Python",Cybersecurity,Chennai,5,0
+949,Vivaan Gupta,24,8.13,ML,Cybersecurity,Bangalore,2,3
+950,Arjun Gupta,23,8.44,"Java, Python, Web Dev, Data Analysis",Cybersecurity,Coimbatore,3,2
+951,Reyansh Singh,23,7.64,"Java, Python, Web Dev",Cybersecurity,Mumbai,6,0
+952,Diya Reddy,25,9.1,"Web Dev, Cybersecurity, Python, Java",Cybersecurity,Hyderabad,1,3
+953,Reyansh Joshi,20,6.05,"Java, Data Analysis, ML, Web Dev",AI,Hyderabad,1,1
+954,Aditya Mehta,24,9.95,"Web Dev, Python, Data Analysis",Cybersecurity,Hyderabad,2,3
+955,Ananya Chopra,19,9.14,"Cybersecurity, Python",Data Science,Mumbai,6,2
+956,Vivaan Iyer,20,8.69,"Python, Cybersecurity, ML",Data Science,Bangalore,1,0
+957,Vivaan Singh,18,5.35,"Java, Web Dev, Python",Web Dev,Coimbatore,5,3
+958,Aadhya Kumar,25,8.84,Cybersecurity,Cybersecurity,Mumbai,1,2
+959,Ishaan Bhat,18,9.23,"Data Analysis, Cybersecurity",Data Science,Delhi,2,2
+960,Aarohi Patel,25,7.0,Python,Data Science,Madurai,2,1
+961,Riya Gupta,23,7.04,ML,Data Science,Bangalore,6,2
+962,Saanvi Bhat,23,6.53,Java,Cybersecurity,Chennai,3,1
+963,Aditya Mehta,21,7.89,"Data Analysis, Python",AI,Coimbatore,2,0
+964,Ananya Verma,22,5.5,"ML, Java",Web Dev,Delhi,6,3
+965,Aarav Patel,19,5.38,"Cybersecurity, Web Dev, Java, ML",Data Science,Bangalore,2,1
+966,Riya Chopra,21,8.54,Data Analysis,Web Dev,Chennai,4,1
+967,Aarav Joshi,19,8.55,"Web Dev, Data Analysis",Cybersecurity,Delhi,4,1
+968,Aadhya Das,24,7.01,"ML, Web Dev, Cybersecurity",Cybersecurity,Madurai,6,3
+969,Reyansh Bhat,23,6.33,"Java, Data Analysis, Cybersecurity",Cybersecurity,Madurai,6,0
+970,Diya Bhat,24,7.38,Java,Data Science,Madurai,1,0
+971,Riya Reddy,18,6.1,"Cybersecurity, Web Dev",Data Science,Coimbatore,5,0
+972,Sai Joshi,20,6.79,"Java, Cybersecurity",AI,Chennai,1,0
+973,Aadhya Nair,23,5.94,"ML, Data Analysis",Data Science,Coimbatore,6,1
+974,Ishaan Iyer,19,9.11,Cybersecurity,Data Science,Madurai,6,3
+975,Reyansh Singh,21,8.41,"Web Dev, Java, Data Analysis, Python",AI,Bangalore,6,1
+976,Kavya Bhat,21,6.17,"ML, Data Analysis",Web Dev,Chennai,5,3
+977,Ira Singh,24,7.76,"ML, Data Analysis, Java",Cybersecurity,Madurai,4,0
+978,Arjun Chopra,20,8.88,"Python, Java, Cybersecurity, Web Dev",AI,Bangalore,2,3
+979,Krishna Gupta,24,5.79,"Python, Data Analysis, Cybersecurity",Web Dev,Delhi,2,1
+980,Ira Kumar,25,8.15,"Java, Python, Web Dev",Cybersecurity,Mumbai,3,0
+981,Aditya Iyer,21,7.01,"Java, ML, Data Analysis, Web Dev",AI,Mumbai,1,2
+982,Saanvi Mehta,18,7.56,"Cybersecurity, ML",Data Science,Bangalore,2,1
+983,Saanvi Sharma,25,7.97,"Data Analysis, Cybersecurity, Web Dev",Cybersecurity,Hyderabad,1,2
+984,Aditya Kumar,25,9.2,"Cybersecurity, ML, Web Dev, Java",Web Dev,Hyderabad,1,1
+985,Aarohi Chopra,22,9.7,"Java, Web Dev, Python, ML",Web Dev,Madurai,5,3
+986,Kavya Joshi,20,9.13,"Python, Web Dev, ML",AI,Chennai,3,2
+987,Aarohi Das,18,9.21,"ML, Java, Cybersecurity",Web Dev,Coimbatore,4,3
+988,Sai Joshi,21,9.54,"Data Analysis, Web Dev, ML, Python",Data Science,Hyderabad,3,0
+989,Diya Gupta,20,9.55,"Java, Python, Web Dev, ML",Data Science,Madurai,4,2
+990,Kavya Verma,22,5.58,"ML, Java, Cybersecurity",Web Dev,Chennai,2,0
+991,Arjun Bhat,18,9.65,"ML, Python, Data Analysis",Cybersecurity,Delhi,1,3
+992,Aarohi Joshi,24,5.02,"Cybersecurity, ML, Python",Data Science,Delhi,5,0
+993,Aarav Joshi,20,8.33,"Java, Web Dev, Python",Web Dev,Madurai,1,3
+994,Riya Chopra,21,5.65,"Data Analysis, Java",AI,Madurai,4,2
+995,Saanvi Mehta,18,6.49,"Python, Data Analysis, Web Dev",AI,Delhi,5,3
+996,Ishaan Bhat,20,8.17,"Python, Web Dev",Web Dev,Delhi,5,1
+997,Aadhya Joshi,18,6.8,"Cybersecurity, Data Analysis, Web Dev",Data Science,Chennai,4,3
+998,Saanvi Joshi,18,7.38,"Python, Java",Data Science,Madurai,2,3
+999,Kavya Mehta,23,8.85,"Java, Python, Cybersecurity",Web Dev,Delhi,1,3
+1000,Krishna Joshi,24,8.84,"Web Dev, Cybersecurity",AI,Bangalore,2,0
