@@ -1,0 +1,842 @@
+intern_id,name,age,gpa,skills,interest,location,preferred_duration_months,prior_experience_years,skills_processed,gpa_scaled,age_scaled,experience_scaled,duration_scaled
+1,Arjun Sharma,24,8.98,"Java, Cybersecurity, Web Dev",ai,Mumbai,3,3,java  cybersecurity  web dev,0.9789990130247295,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+2,Aditya Nair,22,7.98,"Python, Cybersecurity, Web Dev, ML",web dev,Delhi,2,2,python  cybersecurity  web dev  ml,0.28775221646986093,0.24105619309574222,0.415246845885335,-0.8456226208190508
+4,Riya Nair,25,8.54,"Python, Java, ML",data science,Madurai,6,0,python  java  ml,0.6748504225405865,1.587738836088718,-1.3517610089458778,1.4336836347579056
+5,Reyansh Kumar,19,8.61,"Python, Cybersecurity, ML",ai,Madurai,6,1,python  cybersecurity  ml,0.7232376982994274,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+6,Saanvi Nair,19,5.91,"Python, ML, Cybersecurity",cybersecurity,Chennai,5,0,python  ml  cybersecurity,-1.143128652398717,-1.1056264498972335,-1.3517610089458778,0.8638570708636665
+8,Krishna Bhat,18,6.46,"Python, Java, Cybersecurity",cybersecurity,Madurai,3,2,python  java  cybersecurity,-0.7629429142935394,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+10,Ananya Chopra,24,7.28,Web Dev,web dev,Delhi,6,2,web dev,-0.19612054111854713,1.1388446217577262,0.415246845885335,1.4336836347579056
+11,Krishna Reddy,21,7.57,"ML, Data Analysis, Java, Web Dev",data science,Hyderabad,1,2,ml  data analysis  java  web dev,0.004341029882364771,-0.2078380212352497,0.415246845885335,-1.41544918471329
+12,Vivaan Kumar,22,8.04,Data Analysis,cybersecurity,Madurai,5,0,data analysis,0.3292270242631522,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+13,Aditya Kumar,24,5.07,"Java, ML, Web Dev",cybersecurity,Coimbatore,1,3,java  ml  web dev,-1.7237759615048065,1.1388446217577262,1.2987507733009414,-1.41544918471329
+14,Ananya Reddy,23,9.04,"Cybersecurity, Web Dev",data science,Mumbai,1,1,cybersecurity  web dev,1.0204738208180206,0.6899504074267342,-0.4682570815302714,-1.41544918471329
+15,Aarohi Nair,22,6.15,"Data Analysis, Java, Web Dev, Cybersecurity",cybersecurity,Chennai,4,2,data analysis  java  web dev  cybersecurity,-0.9772294212255485,0.24105619309574222,0.415246845885335,0.2940305069694274
+16,Vivaan Joshi,21,5.61,Java,web dev,Hyderabad,5,3,java,-1.3505026913651774,-0.2078380212352497,1.2987507733009414,0.8638570708636665
+17,Aarohi Nair,24,5.87,ML,cybersecurity,Delhi,1,3,ml,-1.170778524260912,1.1388446217577262,1.2987507733009414,-1.41544918471329
+18,Riya Iyer,19,8.31,"Web Dev, Python, Cybersecurity",data science,Hyderabad,2,1,web dev  python  cybersecurity,0.5158636593329676,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+19,Aadhya Verma,23,6.04,"ML, Java, Cybersecurity",ai,Mumbai,4,1,ml  java  cybersecurity,-1.053266568846584,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+20,Ananya Iyer,22,9.85,"Web Dev, Python",data science,Hyderabad,2,3,web dev  python,1.5803837260274645,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+21,Ira Nair,19,6.98,"Java, Data Analysis",web dev,Delhi,4,1,java  data analysis,-0.40349458008500755,-1.1056264498972335,-0.4682570815302714,0.2940305069694274
+23,Diya Kumar,21,5.23,Java,ai,Chennai,5,3,java,-1.6131764740560275,-0.2078380212352497,1.2987507733009414,0.8638570708636665
+26,Ishaan Chopra,22,5.7,"ML, Data Analysis, Cybersecurity",cybersecurity,Chennai,5,0,ml  data analysis  cybersecurity,-1.2882904796752395,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+27,Krishna Kumar,18,9.93,Data Analysis,ai,Delhi,1,3,data analysis,1.635683469751854,-1.5545206642282254,1.2987507733009414,-1.41544918471329
+28,Krishna Nair,25,5.03,"Python, Cybersecurity",ai,Coimbatore,3,2,python  cybersecurity,-1.7514258333670012,1.587738836088718,0.415246845885335,-0.27579605692481174
+29,Aditya Sharma,18,8.56,"Python, Web Dev, Java",data science,Mumbai,3,0,python  web dev  java,0.6886753584716847,-1.5545206642282254,-1.3517610089458778,-0.27579605692481174
+30,Kavya Kumar,20,5.37,"Cybersecurity, Web Dev",cybersecurity,Coimbatore,2,0,cybersecurity  web dev,-1.516401922538346,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+31,Kavya Bhat,21,9.32,"Java, Python, Web Dev, Data Analysis",cybersecurity,Madurai,4,1,java  python  web dev  data analysis,1.2140229238533846,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+33,Aadhya Bhat,22,8.65,Java,web dev,Coimbatore,6,2,java,0.7508875701616228,0.24105619309574222,0.415246845885335,1.4336836347579056
+34,Riya Reddy,20,7.36,"Java, Data Analysis, ML, Python",ai,Bangalore,5,2,java  data analysis  ml  python,-0.1408207973941576,-0.6567322355662416,0.415246845885335,0.8638570708636665
+35,Arjun Sharma,23,9.24,Python,web dev,Coimbatore,5,1,python,1.158723180128995,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+36,Aarohi Gupta,24,8.85,"Java, ML, Python, Web Dev",cybersecurity,Chennai,3,0,java  ml  python  web dev,0.889136929472596,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+37,Meera Patel,24,7.14,"Data Analysis, ML, Web Dev, Python",web dev,Madurai,2,3,data analysis  ml  web dev  python,-0.2928950926362291,1.1388446217577262,1.2987507733009414,-0.8456226208190508
+38,Ishaan Sharma,22,6.01,Cybersecurity,data science,Chennai,1,3,cybersecurity,-1.0740039727432305,0.24105619309574222,1.2987507733009414,-1.41544918471329
+39,Vivaan Nair,22,7.54,"Web Dev, Cybersecurity, Java, Python",ai,Hyderabad,6,0,web dev  cybersecurity  java  python,-0.016396374014281456,0.24105619309574222,-1.3517610089458778,1.4336836347579056
+40,Sai Verma,24,8.02,Cybersecurity,web dev,Bangalore,3,0,cybersecurity,0.3154020883320551,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+41,Arjun Nair,21,9.71,"Web Dev, Cybersecurity",ai,Delhi,3,2,web dev  cybersecurity,1.4836091745097837,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+42,Aditya Mehta,23,9.4,"Data Analysis, Java, Cybersecurity",web dev,Madurai,2,0,data analysis  java  cybersecurity,1.2693226675777742,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+44,Arjun Verma,21,6.09,"Web Dev, Data Analysis",web dev,Madurai,4,1,web dev  data analysis,-1.0187042290188408,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+45,Aditya Kumar,23,7.7,"Data Analysis, Java, ML",data science,Delhi,2,2,data analysis  java  ml,0.0942031134344976,0.6899504074267342,0.415246845885335,-0.8456226208190508
+46,Ira Sharma,21,6.78,"Cybersecurity, Python, Java",data science,Chennai,6,0,cybersecurity  python  java,-0.5417439393959813,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+47,Arjun Chopra,18,6.14,"Data Analysis, Cybersecurity",web dev,Mumbai,6,0,data analysis  cybersecurity,-0.9841418891910976,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+48,Aadhya Kumar,21,6.76,"Web Dev, ML, Data Analysis",ai,Chennai,3,2,web dev  ml  data analysis,-0.5555688753270791,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+49,Aarohi Joshi,23,7.55,"Python, Cybersecurity, Data Analysis",web dev,Mumbai,1,1,python  cybersecurity  data analysis,-0.009483906048732917,0.6899504074267342,-0.4682570815302714,-1.41544918471329
+50,Ananya Reddy,22,8.46,"Web Dev, ML, Python, Cybersecurity",ai,Mumbai,2,3,web dev  ml  python  cybersecurity,0.6195506788161981,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+52,Reyansh Sharma,25,7.79,"Data Analysis, Python, Cybersecurity",web dev,Mumbai,4,0,data analysis  python  cybersecurity,0.15641532512443568,1.587738836088718,-1.3517610089458778,0.2940305069694274
+54,Reyansh Kumar,23,8.48,"Java, ML",ai,Coimbatore,3,0,java  ml,0.6333756147472952,0.6899504074267342,-1.3517610089458778,-0.27579605692481174
+55,Aadhya Bhat,22,6.42,"Cybersecurity, Java, Data Analysis, Python",ai,Bangalore,1,2,cybersecurity  java  data analysis  python,-0.7905927861557343,0.24105619309574222,0.415246845885335,-1.41544918471329
+56,Vivaan Joshi,18,9.88,"Java, Cybersecurity, ML, Web Dev",data science,Hyderabad,4,1,java  cybersecurity  ml  web dev,1.6011211299241113,-1.5545206642282254,-0.4682570815302714,0.2940305069694274
+57,Krishna Kumar,24,6.39,Cybersecurity,web dev,Bangalore,1,0,cybersecurity,-0.8113301900523805,1.1388446217577262,-1.3517610089458778,-1.41544918471329
+59,Ira Mehta,19,9.93,"Python, Cybersecurity, Data Analysis",web dev,Delhi,4,2,python  cybersecurity  data analysis,1.635683469751854,-1.1056264498972335,0.415246845885335,0.2940305069694274
+60,Ananya Sharma,20,6.85,Web Dev,cybersecurity,Madurai,1,2,web dev,-0.493356663637141,-0.6567322355662416,0.415246845885335,-1.41544918471329
+61,Aadhya Mehta,23,6.84,ML,web dev,Madurai,4,1,ml,-0.5002691316026895,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+62,Vivaan Chopra,23,6.99,"Python, Web Dev, Java, ML",cybersecurity,Chennai,1,0,python  web dev  java  ml,-0.396582112119459,0.6899504074267342,-1.3517610089458778,-1.41544918471329
+63,Aadhya Nair,21,7.54,"Cybersecurity, Python, Data Analysis",data science,Mumbai,5,2,cybersecurity  python  data analysis,-0.016396374014281456,-0.2078380212352497,0.415246845885335,0.8638570708636665
+64,Aarohi Singh,21,6.63,"Cybersecurity, Data Analysis, Java, Python",cybersecurity,Mumbai,4,2,cybersecurity  data analysis  java  python,-0.6454309588792119,-0.2078380212352497,0.415246845885335,0.2940305069694274
+65,Meera Das,19,7.56,"Web Dev, Cybersecurity",data science,Bangalore,3,3,web dev  cybersecurity,-0.00257143808318438,-1.1056264498972335,1.2987507733009414,-0.27579605692481174
+66,Aarav Patel,25,5.48,"Java, ML, Data Analysis",cybersecurity,Bangalore,1,0,java  ml  data analysis,-1.4403647749173103,1.587738836088718,-1.3517610089458778,-1.41544918471329
+67,Riya Das,25,6.93,"Web Dev, ML",web dev,Mumbai,2,3,web dev  ml,-0.4380569199127515,1.587738836088718,1.2987507733009414,-0.8456226208190508
+68,Aditya Patel,18,8.38,"Python, Java, Data Analysis",web dev,Hyderabad,1,0,python  java  data analysis,0.5642509350918086,-1.5545206642282254,-1.3517610089458778,-1.41544918471329
+69,Ishaan Reddy,19,9.62,Python,web dev,Bangalore,6,1,python,1.4213969628198444,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+70,Aditya Gupta,20,6.14,"Cybersecurity, Web Dev, Java, Data Analysis",cybersecurity,Bangalore,2,3,cybersecurity  web dev  java  data analysis,-0.9841418891910976,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+71,Meera Kumar,18,7.58,"Cybersecurity, Python",ai,Hyderabad,1,1,cybersecurity  python,0.011253497847913308,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+72,Aarohi Kumar,18,5.47,"Cybersecurity, Web Dev",cybersecurity,Chennai,4,0,cybersecurity  web dev,-1.4472772428828595,-1.5545206642282254,-1.3517610089458778,0.2940305069694274
+73,Krishna Joshi,22,9.41,ML,web dev,Hyderabad,1,0,ml,1.2762351355433228,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+74,Riya Das,20,8.5,"ML, Web Dev, Cybersecurity",cybersecurity,Coimbatore,3,3,ml  web dev  cybersecurity,0.6472005506783922,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+75,Kavya Gupta,25,7.02,"Java, Data Analysis, ML",web dev,Madurai,1,3,java  data analysis  ml,-0.3758447082228134,1.587738836088718,1.2987507733009414,-1.41544918471329
+76,Riya Verma,21,5.42,"Java, Data Analysis, Web Dev",data science,Delhi,4,1,java  data analysis  web dev,-1.4818395827106028,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+77,Aditya Reddy,25,8.03,"Java, ML",web dev,Mumbai,3,3,java  ml,0.32231455629760364,1.587738836088718,1.2987507733009414,-0.27579605692481174
+78,Ishaan Verma,23,9.7,"ML, Data Analysis, Cybersecurity, Java",ai,Coimbatore,1,0,ml  data analysis  cybersecurity  java,1.476696706544234,0.6899504074267342,-1.3517610089458778,-1.41544918471329
+79,Aarohi Mehta,19,5.8,Web Dev,cybersecurity,Bangalore,2,1,web dev,-1.2191658000197527,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+80,Aarav Singh,23,7.24,"ML, Cybersecurity, Java",cybersecurity,Coimbatore,5,0,ml  cybersecurity  java,-0.22377041298074188,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+81,Ananya Mehta,21,8.56,"Python, ML, Data Analysis, Web Dev",cybersecurity,Mumbai,1,1,python  ml  data analysis  web dev,0.6886753584716847,-0.2078380212352497,-0.4682570815302714,-1.41544918471329
+82,Sai Joshi,22,5.89,"Java, Web Dev, Python, Cybersecurity",ai,Chennai,3,0,java  web dev  python  cybersecurity,-1.1569535883298148,0.24105619309574222,-1.3517610089458778,-0.27579605692481174
+83,Aarohi Reddy,25,7.84,"Java, Python, Data Analysis, Cybersecurity",data science,Coimbatore,4,2,java  python  data analysis  cybersecurity,0.19097766495217897,1.587738836088718,0.415246845885335,0.2940305069694274
+85,Aditya Gupta,23,9.87,Cybersecurity,ai,Madurai,5,2,cybersecurity,1.5942086619585616,0.6899504074267342,0.415246845885335,0.8638570708636665
+86,Krishna Das,23,9.53,Cybersecurity,ai,Hyderabad,3,1,cybersecurity,1.3591847511299064,0.6899504074267342,-0.4682570815302714,-0.27579605692481174
+87,Aarav Kumar,22,7.51,"Python, Web Dev",web dev,Coimbatore,4,2,python  web dev,-0.03713377791092768,0.24105619309574222,0.415246845885335,0.2940305069694274
+88,Reyansh Gupta,25,9.32,Web Dev,web dev,Bangalore,4,0,web dev,1.2140229238533846,1.587738836088718,-1.3517610089458778,0.2940305069694274
+89,Ananya Bhat,25,6.4,"Java, Web Dev, Python",web dev,Madurai,3,3,java  web dev  python,-0.8044177220868313,1.587738836088718,1.2987507733009414,-0.27579605692481174
+90,Arjun Nair,18,5.22,Data Analysis,cybersecurity,Bangalore,4,3,data analysis,-1.6200889420215765,-1.5545206642282254,1.2987507733009414,0.2940305069694274
+91,Ishaan Verma,23,9.77,"Python, Data Analysis",ai,Hyderabad,5,1,python  data analysis,1.5250839823030748,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+93,Aarohi Joshi,22,7.14,"Python, ML, Data Analysis, Web Dev",cybersecurity,Mumbai,5,2,python  ml  data analysis  web dev,-0.2928950926362291,0.24105619309574222,0.415246845885335,0.8638570708636665
+94,Reyansh Mehta,20,9.9,"Cybersecurity, Web Dev",data science,Delhi,4,2,cybersecurity  web dev,1.6149460658552084,-0.6567322355662416,0.415246845885335,0.2940305069694274
+95,Kavya Gupta,22,6.93,"Cybersecurity, Web Dev, Data Analysis, Java",web dev,Hyderabad,1,3,cybersecurity  web dev  data analysis  java,-0.4380569199127515,0.24105619309574222,1.2987507733009414,-1.41544918471329
+96,Aditya Patel,20,5.85,"Java, ML, Web Dev, Cybersecurity",ai,Bangalore,1,1,java  ml  web dev  cybersecurity,-1.1846034601920095,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+97,Aadhya Reddy,24,9.22,"Java, Data Analysis, Web Dev, Cybersecurity",data science,Delhi,3,3,java  data analysis  web dev  cybersecurity,1.144898244197898,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+98,Ananya Iyer,23,5.49,Web Dev,web dev,Chennai,6,2,web dev,-1.4334523069517617,0.6899504074267342,0.415246845885335,1.4336836347579056
+99,Krishna Chopra,19,6.27,"ML, Web Dev, Java, Data Analysis",cybersecurity,Mumbai,2,1,ml  web dev  java  data analysis,-0.8942798056389648,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+100,Kavya Gupta,19,8.7,Python,data science,Coimbatore,1,0,python,0.7854499099893655,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+101,Meera Chopra,20,8.54,"Data Analysis, Web Dev",data science,Bangalore,5,1,data analysis  web dev,0.6748504225405865,-0.6567322355662416,-0.4682570815302714,0.8638570708636665
+102,Ira Singh,24,7.1,"Cybersecurity, Web Dev, Data Analysis, Java",cybersecurity,Madurai,2,0,cybersecurity  web dev  data analysis  java,-0.32054496449842385,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+103,Diya Patel,25,9.57,"Python, Java",data science,Chennai,2,2,python  java,1.3868346229921018,1.587738836088718,0.415246845885335,-0.8456226208190508
+104,Sai Kumar,18,8.14,"Cybersecurity, ML",data science,Mumbai,4,0,cybersecurity  ml,0.39835170391864,-1.5545206642282254,-1.3517610089458778,0.2940305069694274
+106,Sai Patel,20,6.69,Cybersecurity,web dev,Madurai,4,1,cybersecurity,-0.6039561510859194,-0.6567322355662416,-0.4682570815302714,0.2940305069694274
+108,Aarav Nair,18,5.78,"ML, Cybersecurity, Web Dev",data science,Coimbatore,6,0,ml  cybersecurity  web dev,-1.2329907359508498,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+109,Vivaan Patel,23,7.95,"Python, Cybersecurity, ML, Java",ai,Delhi,6,0,python  cybersecurity  ml  java,0.26701481257321474,0.6899504074267342,-1.3517610089458778,1.4336836347579056
+112,Riya Patel,21,9.83,"Data Analysis, Web Dev, Python, Cybersecurity",ai,Hyderabad,4,1,data analysis  web dev  python  cybersecurity,1.5665587900963673,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+114,Sai Iyer,20,8.19,Java,ai,Bangalore,4,3,java,0.4329140437463827,-0.6567322355662416,1.2987507733009414,0.2940305069694274
+115,Riya Chopra,22,9.85,"Data Analysis, Python, Java, ML",data science,Mumbai,2,1,data analysis  python  java  ml,1.5803837260274645,0.24105619309574222,-0.4682570815302714,-0.8456226208190508
+116,Riya Verma,20,8.98,"Data Analysis, Web Dev",web dev,Bangalore,3,3,data analysis  web dev,0.9789990130247295,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+117,Arjun Iyer,19,5.39,"Cybersecurity, Java",data science,Hyderabad,5,1,cybersecurity  java,-1.502576986607249,-1.1056264498972335,-0.4682570815302714,0.8638570708636665
+118,Reyansh Verma,22,5.4,Java,data science,Delhi,1,3,java,-1.4956645186416997,0.24105619309574222,1.2987507733009414,-1.41544918471329
+119,Diya Gupta,22,5.29,ML,data science,Mumbai,2,0,ml,-1.5717016662627357,0.24105619309574222,-1.3517610089458778,-0.8456226208190508
+120,Meera Patel,24,6.25,"ML, Python, Web Dev, Java",data science,Delhi,6,1,ml  python  web dev  java,-0.9081047415700618,1.1388446217577262,-0.4682570815302714,1.4336836347579056
+121,Ananya Sharma,25,5.91,Java,ai,Hyderabad,5,0,java,-1.143128652398717,1.587738836088718,-1.3517610089458778,0.8638570708636665
+122,Ananya Nair,18,9.77,Java,cybersecurity,Delhi,5,1,java,1.5250839823030748,-1.5545206642282254,-0.4682570815302714,0.8638570708636665
+123,Riya Patel,22,7.1,"Web Dev, ML",cybersecurity,Chennai,4,1,web dev  ml,-0.32054496449842385,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+124,Kavya Singh,25,5.79,"Data Analysis, Cybersecurity, Python, ML",data science,Bangalore,6,0,data analysis  cybersecurity  python  ml,-1.2260782679853013,1.587738836088718,-1.3517610089458778,1.4336836347579056
+125,Kavya Patel,22,5.58,"Web Dev, Python, ML, Cybersecurity",data science,Madurai,5,2,web dev  python  ml  cybersecurity,-1.3712400952618238,0.24105619309574222,0.415246845885335,0.8638570708636665
+127,Ira Singh,22,7.37,"Cybersecurity, ML, Python, Web Dev",data science,Delhi,2,1,cybersecurity  ml  python  web dev,-0.13390832942860906,0.24105619309574222,-0.4682570815302714,-0.8456226208190508
+128,Reyansh Patel,25,9.03,"Cybersecurity, ML, Python, Web Dev",web dev,Mumbai,4,0,cybersecurity  ml  python  web dev,1.013561352852472,1.587738836088718,-1.3517610089458778,0.2940305069694274
+129,Sai Patel,23,7.17,Web Dev,cybersecurity,Chennai,2,1,web dev,-0.27215768873958285,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+130,Krishna Joshi,23,8.18,ML,ai,Mumbai,2,3,ml,0.42600157578083414,0.6899504074267342,1.2987507733009414,-0.8456226208190508
+131,Reyansh Gupta,24,5.08,"Web Dev, Data Analysis, ML",cybersecurity,Bangalore,3,1,web dev  data analysis  ml,-1.716863493539258,1.1388446217577262,-0.4682570815302714,-0.27579605692481174
+132,Krishna Gupta,25,9.28,"ML, Java",web dev,Hyderabad,5,0,ml  java,1.1863730519911893,1.587738836088718,-1.3517610089458778,0.8638570708636665
+133,Aditya Patel,21,8.08,"Data Analysis, Web Dev, Cybersecurity, Python",data science,Mumbai,2,0,data analysis  web dev  cybersecurity  python,0.35687689612534756,-0.2078380212352497,-1.3517610089458778,-0.8456226208190508
+134,Diya Joshi,21,7.93,"Java, ML, Web Dev, Cybersecurity",data science,Delhi,3,3,java  ml  web dev  cybersecurity,0.25318987664211706,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+135,Meera Gupta,25,8.39,"Java, Cybersecurity, ML",web dev,Hyderabad,3,3,java  cybersecurity  ml,0.5711634030573571,1.587738836088718,1.2987507733009414,-0.27579605692481174
+136,Aarohi Sharma,18,7.29,"Cybersecurity, ML, Web Dev",cybersecurity,Mumbai,3,2,cybersecurity  ml  web dev,-0.1892080731529986,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+137,Reyansh Gupta,22,8.13,Java,data science,Hyderabad,1,0,java,0.3914392359530915,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+138,Arjun Joshi,25,9.53,"Python, Web Dev, ML, Cybersecurity",web dev,Bangalore,4,0,python  web dev  ml  cybersecurity,1.3591847511299064,1.587738836088718,-1.3517610089458778,0.2940305069694274
+139,Reyansh Verma,22,6.07,"Data Analysis, Cybersecurity, ML, Web Dev",ai,Hyderabad,6,1,data analysis  cybersecurity  ml  web dev,-1.032529164949938,0.24105619309574222,-0.4682570815302714,1.4336836347579056
+140,Aadhya Joshi,22,5.47,"Data Analysis, ML, Python, Cybersecurity",ai,Coimbatore,3,2,data analysis  ml  python  cybersecurity,-1.4472772428828595,0.24105619309574222,0.415246845885335,-0.27579605692481174
+141,Diya Kumar,18,8.28,ML,ai,Hyderabad,5,1,ml,0.4951262554363208,-1.5545206642282254,-0.4682570815302714,0.8638570708636665
+142,Arjun Gupta,19,5.12,"Cybersecurity, Data Analysis",ai,Chennai,2,2,cybersecurity  data analysis,-1.6892136216770632,-1.1056264498972335,0.415246845885335,-0.8456226208190508
+143,Aadhya Bhat,18,7.48,Data Analysis,data science,Madurai,2,0,data analysis,-0.057871181807573294,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+145,Sai Verma,21,7.09,"Web Dev, Java, ML, Data Analysis",web dev,Coimbatore,5,0,web dev  java  ml  data analysis,-0.3274574324639724,-0.2078380212352497,-1.3517610089458778,0.8638570708636665
+146,Riya Das,21,5.89,"ML, Data Analysis, Python",cybersecurity,Madurai,1,3,ml  data analysis  python,-1.1569535883298148,-0.2078380212352497,1.2987507733009414,-1.41544918471329
+147,Sai Verma,25,7.88,"Data Analysis, Web Dev, Cybersecurity, ML",cybersecurity,Mumbai,3,3,data analysis  web dev  cybersecurity  ml,0.21862753681437375,1.587738836088718,1.2987507733009414,-0.27579605692481174
+149,Meera Nair,22,6.19,"Web Dev, Data Analysis, Cybersecurity",ai,Hyderabad,5,2,web dev  data analysis  cybersecurity,-0.9495795493633536,0.24105619309574222,0.415246845885335,0.8638570708636665
+150,Meera Patel,18,6.19,Web Dev,ai,Delhi,6,0,web dev,-0.9495795493633536,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+151,Kavya Joshi,18,7.53,"Java, Web Dev, Data Analysis",web dev,Mumbai,1,1,java  web dev  data analysis,-0.02330884197982999,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+152,Ishaan Nair,22,9.48,"Cybersecurity, Java, Python",ai,Madurai,1,3,cybersecurity  java  python,1.3246224113021636,0.24105619309574222,1.2987507733009414,-1.41544918471329
+153,Riya Sharma,21,9.79,"Cybersecurity, Java, Python",data science,Madurai,3,3,cybersecurity  java  python,1.538908918234172,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+155,Ira Patel,25,7.41,"Data Analysis, ML",data science,Mumbai,2,2,data analysis  ml,-0.10625845756641429,1.587738836088718,0.415246845885335,-0.8456226208190508
+156,Aadhya Bhat,25,7.24,ML,ai,Coimbatore,3,3,ml,-0.22377041298074188,1.587738836088718,1.2987507733009414,-0.27579605692481174
+158,Arjun Gupta,22,8.96,"Cybersecurity, Data Analysis, ML",data science,Chennai,1,2,cybersecurity  data analysis  ml,0.9651740770936323,0.24105619309574222,0.415246845885335,-1.41544918471329
+159,Krishna Gupta,22,9.65,Web Dev,data science,Delhi,2,2,web dev,1.4421343667164912,0.24105619309574222,0.415246845885335,-0.8456226208190508
+160,Krishna Das,23,7.75,Cybersecurity,cybersecurity,Mumbai,5,2,cybersecurity,0.1287654532622409,0.6899504074267342,0.415246845885335,0.8638570708636665
+161,Diya Das,24,7.73,"Python, Java, Cybersecurity, ML",data science,Bangalore,3,1,python  java  cybersecurity  ml,0.11494051733114383,1.1388446217577262,-0.4682570815302714,-0.27579605692481174
+162,Arjun Verma,24,5.71,"Web Dev, Java",cybersecurity,Bangalore,2,1,web dev  java,-1.281378011709691,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+164,Kavya Nair,23,8.5,"Data Analysis, Python, Cybersecurity, Web Dev",cybersecurity,Bangalore,2,0,data analysis  python  cybersecurity  web dev,0.6472005506783922,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+165,Krishna Joshi,19,9.46,"Python, Data Analysis, Web Dev",ai,Bangalore,2,0,python  data analysis  web dev,1.3107974753710665,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+166,Ananya Kumar,22,5.42,ML,ai,Mumbai,3,3,ml,-1.4818395827106028,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+168,Reyansh Bhat,18,9.74,"Python, Web Dev",web dev,Delhi,1,0,python  web dev,1.5043465784064294,-1.5545206642282254,-1.3517610089458778,-1.41544918471329
+169,Ishaan Joshi,21,6.75,"Data Analysis, Java",ai,Madurai,4,2,data analysis  java,-0.5624813432926276,-0.2078380212352497,0.415246845885335,0.2940305069694274
+171,Saanvi Bhat,20,6.24,"Web Dev, Data Analysis",ai,Coimbatore,3,2,web dev  data analysis,-0.9150172095356104,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+172,Ananya Sharma,23,7.46,"Cybersecurity, ML",ai,Mumbai,5,1,cybersecurity  ml,-0.07169611773867099,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+173,Aditya Gupta,21,7.86,"Data Analysis, Web Dev, Python, Java",web dev,Delhi,4,3,data analysis  web dev  python  java,0.20480260088327665,-0.2078380212352497,1.2987507733009414,0.2940305069694274
+174,Vivaan Chopra,25,5.59,"ML, Python, Web Dev",cybersecurity,Hyderabad,1,2,ml  python  web dev,-1.3643276272962752,1.587738836088718,0.415246845885335,-1.41544918471329
+175,Meera Mehta,18,8.41,ML,cybersecurity,Chennai,4,1,ml,0.5849883389884541,-1.5545206642282254,-0.4682570815302714,0.2940305069694274
+176,Aditya Singh,18,6.87,"Python, Java",data science,Delhi,1,0,python  java,-0.4795317277060433,-1.5545206642282254,-1.3517610089458778,-1.41544918471329
+177,Aadhya Mehta,25,7.64,"ML, Web Dev, Cybersecurity",ai,Hyderabad,5,1,ml  web dev  cybersecurity,0.05272830564120515,1.587738836088718,-0.4682570815302714,0.8638570708636665
+178,Arjun Joshi,19,5.06,"ML, Cybersecurity",web dev,Bangalore,5,0,ml  cybersecurity,-1.7306884294703555,-1.1056264498972335,-1.3517610089458778,0.8638570708636665
+179,Aadhya Joshi,24,9.46,"ML, Cybersecurity, Python, Java",cybersecurity,Madurai,6,0,ml  cybersecurity  python  java,1.3107974753710665,1.1388446217577262,-1.3517610089458778,1.4336836347579056
+180,Ananya Singh,20,9.6,"Cybersecurity, ML",ai,Chennai,4,2,cybersecurity  ml,1.4075720268887473,-0.6567322355662416,0.415246845885335,0.2940305069694274
+181,Aditya Verma,20,9.85,"Python, Data Analysis, Java, Web Dev",ai,Delhi,2,2,python  data analysis  java  web dev,1.5803837260274645,-0.6567322355662416,0.415246845885335,-0.8456226208190508
+182,Aadhya Das,18,6.08,ML,data science,Hyderabad,1,0,ml,-1.0256166969843894,-1.5545206642282254,-1.3517610089458778,-1.41544918471329
+183,Aarohi Joshi,23,7.92,Data Analysis,data science,Madurai,1,2,data analysis,0.2462774086765685,0.6899504074267342,0.415246845885335,-1.41544918471329
+185,Arjun Singh,25,8.1,"Python, Data Analysis, Java",cybersecurity,Hyderabad,2,3,python  data analysis  java,0.37070183205644464,1.587738836088718,1.2987507733009414,-0.8456226208190508
+186,Aarav Nair,21,7.32,"Python, Java, Data Analysis",data science,Madurai,2,3,python  java  data analysis,-0.16847066925635235,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+187,Saanvi Sharma,19,6.33,"Java, Web Dev",cybersecurity,Chennai,5,0,java  web dev,-0.8528049978456723,-1.1056264498972335,-1.3517610089458778,0.8638570708636665
+190,Aditya Sharma,22,8.42,"Java, Web Dev",ai,Mumbai,5,0,java  web dev,0.5919008069540027,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+191,Aditya Patel,23,5.38,"Cybersecurity, ML, Web Dev, Data Analysis",cybersecurity,Bangalore,6,1,cybersecurity  ml  web dev  data analysis,-1.5094894545727975,0.6899504074267342,-0.4682570815302714,1.4336836347579056
+192,Ananya Kumar,20,8.63,Data Analysis,cybersecurity,Chennai,1,1,data analysis,0.7370626342305258,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+193,Diya Das,19,9.66,"Web Dev, Data Analysis, Python, ML",cybersecurity,Delhi,2,2,web dev  data analysis  python  ml,1.4490468346820398,-1.1056264498972335,0.415246845885335,-0.8456226208190508
+194,Vivaan Sharma,22,5.82,"Data Analysis, Java",web dev,Hyderabad,1,1,data analysis  java,-1.2053408640886552,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+195,Ananya Patel,18,7.4,"Python, Cybersecurity, ML",cybersecurity,Coimbatore,1,2,python  cybersecurity  ml,-0.11317092553196283,-1.5545206642282254,0.415246845885335,-1.41544918471329
+196,Reyansh Mehta,22,8.75,"Web Dev, Cybersecurity",data science,Chennai,1,1,web dev  cybersecurity,0.8200122498171094,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+197,Meera Joshi,20,9.21,ML,ai,Bangalore,5,0,ml,1.1379857762323495,-0.6567322355662416,-1.3517610089458778,0.8638570708636665
+198,Aditya Joshi,19,5.18,"Web Dev, ML, Cybersecurity",cybersecurity,Madurai,1,0,web dev  ml  cybersecurity,-1.6477388138837714,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+199,Arjun Mehta,25,5.38,Data Analysis,web dev,Hyderabad,4,0,data analysis,-1.5094894545727975,1.587738836088718,-1.3517610089458778,0.2940305069694274
+201,Meera Iyer,22,7.93,ML,data science,Mumbai,5,0,ml,0.25318987664211706,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+202,Aadhya Kumar,19,9.25,"Java, Python, Web Dev",web dev,Hyderabad,1,0,java  python  web dev,1.1656356480945436,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+203,Saanvi Singh,23,6.03,"Java, Python",web dev,Madurai,1,2,java  python,-1.0601790368121327,0.6899504074267342,0.415246845885335,-1.41544918471329
+204,Ishaan Reddy,22,8.03,"Cybersecurity, Python",web dev,Hyderabad,6,0,cybersecurity  python,0.32231455629760364,0.24105619309574222,-1.3517610089458778,1.4336836347579056
+205,Kavya Gupta,18,8.78,"Cybersecurity, Web Dev, Data Analysis, ML",data science,Coimbatore,2,3,cybersecurity  web dev  data analysis  ml,0.840749653713755,-1.5545206642282254,1.2987507733009414,-0.8456226208190508
+206,Riya Verma,24,5.57,"ML, Data Analysis, Web Dev, Cybersecurity",ai,Madurai,2,1,ml  data analysis  web dev  cybersecurity,-1.3781525632273721,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+207,Ira Verma,19,7.38,"ML, Cybersecurity, Python",ai,Madurai,3,2,ml  cybersecurity  python,-0.12699586146306052,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+209,Vivaan Gupta,22,5.44,"Data Analysis, Web Dev",cybersecurity,Delhi,3,0,data analysis  web dev,-1.468014646779505,0.24105619309574222,-1.3517610089458778,-0.27579605692481174
+210,Reyansh Sharma,18,5.67,"Python, Data Analysis, Cybersecurity, Web Dev",web dev,Chennai,5,0,python  data analysis  cybersecurity  web dev,-1.3090278835718856,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+211,Krishna Chopra,23,8.52,"ML, Web Dev, Java, Cybersecurity",data science,Madurai,3,2,ml  web dev  java  cybersecurity,0.6610254866094893,0.6899504074267342,0.415246845885335,-0.27579605692481174
+212,Meera Mehta,23,8.09,"Cybersecurity, Web Dev, Python",data science,Chennai,2,1,cybersecurity  web dev  python,0.3637893640908961,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+214,Reyansh Singh,20,5.46,"Cybersecurity, ML, Java",ai,Madurai,2,3,cybersecurity  ml  java,-1.4541897108484079,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+215,Meera Das,18,7.57,"Java, Web Dev, Python",cybersecurity,Delhi,4,1,java  web dev  python,0.004341029882364771,-1.5545206642282254,-0.4682570815302714,0.2940305069694274
+216,Saanvi Sharma,24,7.62,"Data Analysis, Java, Web Dev",data science,Hyderabad,1,0,data analysis  java  web dev,0.03890336971010807,1.1388446217577262,-1.3517610089458778,-1.41544918471329
+217,Kavya Kumar,22,5.74,"Java, Cybersecurity",ai,Madurai,1,1,java  cybersecurity,-1.2606406078130445,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+218,Arjun Iyer,18,6.29,Cybersecurity,data science,Hyderabad,5,1,cybersecurity,-0.880454869707867,-1.5545206642282254,-0.4682570815302714,0.8638570708636665
+219,Reyansh Nair,23,7.46,"Java, Cybersecurity, Web Dev, Data Analysis",web dev,Mumbai,5,1,java  cybersecurity  web dev  data analysis,-0.07169611773867099,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+220,Riya Sharma,20,7.9,"Data Analysis, Java, ML, Cybersecurity",data science,Hyderabad,3,2,data analysis  java  ml  cybersecurity,0.23245247274547143,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+221,Riya Kumar,24,5.64,"Data Analysis, ML",web dev,Madurai,3,1,data analysis  ml,-1.3297652874685317,1.1388446217577262,-0.4682570815302714,-0.27579605692481174
+223,Ishaan Bhat,18,9.48,"Data Analysis, Python",cybersecurity,Hyderabad,3,2,data analysis  python,1.3246224113021636,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+224,Saanvi Iyer,22,9.87,Cybersecurity,ai,Madurai,5,1,cybersecurity,1.5942086619585616,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+225,Aditya Bhat,20,5.2,"Data Analysis, ML",web dev,Hyderabad,5,1,data analysis  ml,-1.6339138779526736,-0.6567322355662416,-0.4682570815302714,0.8638570708636665
+226,Aarohi Verma,21,6.74,"ML, Data Analysis",ai,Bangalore,6,0,ml  data analysis,-0.5693938112581761,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+227,Vivaan Mehta,23,5.6,"Java, ML, Python",data science,Coimbatore,1,3,java  ml  python,-1.3574151593307267,0.6899504074267342,1.2987507733009414,-1.41544918471329
+228,Aarav Singh,19,9.47,Cybersecurity,data science,Hyderabad,1,1,cybersecurity,1.317709943336615,-1.1056264498972335,-0.4682570815302714,-1.41544918471329
+229,Reyansh Reddy,19,8.45,Data Analysis,cybersecurity,Mumbai,1,1,data analysis,0.6126382108506484,-1.1056264498972335,-0.4682570815302714,-1.41544918471329
+230,Reyansh Bhat,18,7.41,"ML, Web Dev, Python, Cybersecurity",ai,Madurai,6,2,ml  web dev  python  cybersecurity,-0.10625845756641429,-1.5545206642282254,0.415246845885335,1.4336836347579056
+231,Ishaan Joshi,25,9.37,"Web Dev, Cybersecurity",cybersecurity,Chennai,5,0,web dev  cybersecurity,1.2485852636811272,1.587738836088718,-1.3517610089458778,0.8638570708636665
+232,Diya Kumar,19,9.34,"Python, Cybersecurity, Java",cybersecurity,Mumbai,1,2,python  cybersecurity  java,1.2278478597844817,-1.1056264498972335,0.415246845885335,-1.41544918471329
+236,Aditya Iyer,25,5.67,"Python, Web Dev, Cybersecurity",cybersecurity,Hyderabad,3,2,python  web dev  cybersecurity,-1.3090278835718856,1.587738836088718,0.415246845885335,-0.27579605692481174
+237,Kavya Sharma,24,7.56,"Data Analysis, Cybersecurity, Python, Java",ai,Madurai,4,0,data analysis  cybersecurity  python  java,-0.00257143808318438,1.1388446217577262,-1.3517610089458778,0.2940305069694274
+238,Krishna Chopra,19,7.24,Web Dev,data science,Coimbatore,3,2,web dev,-0.22377041298074188,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+240,Sai Bhat,19,7.82,"Python, ML",ai,Madurai,1,2,python  ml,0.1771527290210819,-1.1056264498972335,0.415246845885335,-1.41544918471329
+241,Ishaan Sharma,23,6.64,"Python, Data Analysis",data science,Delhi,4,0,python  data analysis,-0.6385184909136633,0.6899504074267342,-1.3517610089458778,0.2940305069694274
+242,Meera Joshi,18,6.71,"Data Analysis, Python, Java, ML",data science,Hyderabad,1,3,data analysis  python  java  ml,-0.5901312151548224,-1.5545206642282254,1.2987507733009414,-1.41544918471329
+243,Vivaan Joshi,19,8.95,"Data Analysis, Python, Cybersecurity",cybersecurity,Bangalore,5,1,data analysis  python  cybersecurity,0.9582616091280826,-1.1056264498972335,-0.4682570815302714,0.8638570708636665
+244,Riya Mehta,24,7.92,"Java, ML, Web Dev",data science,Hyderabad,6,1,java  ml  web dev,0.2462774086765685,1.1388446217577262,-0.4682570815302714,1.4336836347579056
+245,Ira Patel,24,8.73,Cybersecurity,cybersecurity,Chennai,1,3,cybersecurity,0.8061873138860123,1.1388446217577262,1.2987507733009414,-1.41544918471329
+246,Aarohi Nair,20,6.89,"Web Dev, Data Analysis",data science,Chennai,5,1,web dev  data analysis,-0.4657067917749462,-0.6567322355662416,-0.4682570815302714,0.8638570708636665
+247,Aditya Singh,21,8.23,"Data Analysis, ML, Web Dev",web dev,Mumbai,2,2,data analysis  ml  web dev,0.46056391560857807,-0.2078380212352497,0.415246845885335,-0.8456226208190508
+248,Riya Singh,25,7.49,"Python, Data Analysis, ML, Java",ai,Chennai,6,0,python  data analysis  ml  java,-0.05095871384202476,1.587738836088718,-1.3517610089458778,1.4336836347579056
+249,Meera Singh,18,6.19,"Python, Java",cybersecurity,Chennai,6,0,python  java,-0.9495795493633536,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+250,Reyansh Verma,23,6.83,"Cybersecurity, Data Analysis",data science,Bangalore,4,1,cybersecurity  data analysis,-0.507181599568238,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+251,Vivaan Nair,20,5.44,"Cybersecurity, ML",data science,Madurai,6,2,cybersecurity  ml,-1.468014646779505,-0.6567322355662416,0.415246845885335,1.4336836347579056
+252,Riya Bhat,25,9.48,Web Dev,web dev,Delhi,3,2,web dev,1.3246224113021636,1.587738836088718,0.415246845885335,-0.27579605692481174
+256,Riya Verma,18,7.45,"Cybersecurity, Data Analysis, Python",data science,Madurai,6,2,cybersecurity  data analysis  python,-0.07860858570421952,-1.5545206642282254,0.415246845885335,1.4336836347579056
+257,Sai Chopra,23,9.65,"Data Analysis, Web Dev",web dev,Chennai,3,3,data analysis  web dev,1.4421343667164912,0.6899504074267342,1.2987507733009414,-0.27579605692481174
+258,Ishaan Bhat,19,6.4,"Java, ML",ai,Madurai,4,0,java  ml,-0.8044177220868313,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+259,Saanvi Gupta,23,9.84,"Web Dev, Python",ai,Madurai,4,2,web dev  python,1.573471258061916,0.6899504074267342,0.415246845885335,0.2940305069694274
+260,Meera Chopra,21,7.54,"Web Dev, ML, Cybersecurity, Data Analysis",ai,Coimbatore,1,3,web dev  ml  cybersecurity  data analysis,-0.016396374014281456,-0.2078380212352497,1.2987507733009414,-1.41544918471329
+262,Ira Singh,23,7.91,"Web Dev, Cybersecurity",web dev,Hyderabad,3,2,web dev  cybersecurity,0.23936494071101996,0.6899504074267342,0.415246845885335,-0.27579605692481174
+263,Reyansh Mehta,21,6.6,Python,web dev,Madurai,3,0,python,-0.6661683627758581,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+264,Sai Reddy,23,6.68,"Cybersecurity, Java, Data Analysis",data science,Hyderabad,2,0,cybersecurity  java  data analysis,-0.6108686190514686,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+265,Aditya Patel,24,7.74,"Cybersecurity, Web Dev",data science,Coimbatore,2,0,cybersecurity  web dev,0.12185298529669236,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+266,Diya Nair,25,9.05,Web Dev,web dev,Delhi,1,2,web dev,1.0273862887835705,1.587738836088718,0.415246845885335,-1.41544918471329
+267,Reyansh Reddy,22,5.01,"Web Dev, Python, Cybersecurity",ai,Chennai,1,2,web dev  python  cybersecurity,-1.765250769298099,0.24105619309574222,0.415246845885335,-1.41544918471329
+268,Ananya Das,24,7.36,"Web Dev, ML",ai,Bangalore,3,1,web dev  ml,-0.1408207973941576,1.1388446217577262,-0.4682570815302714,-0.27579605692481174
+271,Kavya Gupta,20,9.69,"Data Analysis, Web Dev",web dev,Madurai,4,2,data analysis  web dev,1.4697842385786855,-0.6567322355662416,0.415246845885335,0.2940305069694274
+273,Krishna Gupta,25,8.91,Data Analysis,cybersecurity,Coimbatore,3,0,data analysis,0.9306117372658884,1.587738836088718,-1.3517610089458778,-0.27579605692481174
+274,Reyansh Verma,22,6.01,Data Analysis,cybersecurity,Hyderabad,6,2,data analysis,-1.0740039727432305,0.24105619309574222,0.415246845885335,1.4336836347579056
+275,Aarohi Kumar,22,5.93,"Data Analysis, Web Dev",data science,Coimbatore,3,2,data analysis  web dev,-1.1293037164676198,0.24105619309574222,0.415246845885335,-0.27579605692481174
+276,Sai Gupta,23,7.62,"ML, Data Analysis, Cybersecurity, Python",ai,Bangalore,4,0,ml  data analysis  cybersecurity  python,0.03890336971010807,0.6899504074267342,-1.3517610089458778,0.2940305069694274
+277,Ira Gupta,22,7.94,"Java, Web Dev",data science,Chennai,2,3,java  web dev,0.2601023446076662,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+279,Arjun Mehta,20,8.12,"Data Analysis, Cybersecurity",cybersecurity,Madurai,1,2,data analysis  cybersecurity,0.3845267679875417,-0.6567322355662416,0.415246845885335,-1.41544918471329
+280,Vivaan Mehta,24,7.51,Web Dev,web dev,Madurai,1,0,web dev,-0.03713377791092768,1.1388446217577262,-1.3517610089458778,-1.41544918471329
+281,Diya Verma,18,6.96,"Web Dev, ML, Data Analysis, Cybersecurity",ai,Coimbatore,2,1,web dev  ml  data analysis  cybersecurity,-0.41731951601610523,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+282,Arjun Mehta,22,9.53,"Data Analysis, Web Dev, Cybersecurity",web dev,Coimbatore,3,2,data analysis  web dev  cybersecurity,1.3591847511299064,0.24105619309574222,0.415246845885335,-0.27579605692481174
+283,Ira Mehta,20,7.16,Python,ai,Coimbatore,3,2,python,-0.2790701567051314,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+284,Aadhya Bhat,20,6.67,"Web Dev, ML, Java, Data Analysis",web dev,Madurai,4,2,web dev  ml  java  data analysis,-0.6177810870170171,-0.6567322355662416,0.415246845885335,0.2940305069694274
+285,Aadhya Reddy,24,8.1,"Web Dev, Data Analysis, Cybersecurity, ML",cybersecurity,Mumbai,4,1,web dev  data analysis  cybersecurity  ml,0.37070183205644464,1.1388446217577262,-0.4682570815302714,0.2940305069694274
+286,Diya Gupta,24,7.87,Data Analysis,data science,Mumbai,5,1,data analysis,0.21171506884882518,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+287,Arjun Mehta,18,6.56,"Cybersecurity, Python, ML",data science,Mumbai,5,2,cybersecurity  python  ml,-0.6938182346380529,-1.5545206642282254,0.415246845885335,0.8638570708636665
+288,Krishna Chopra,24,5.72,Web Dev,cybersecurity,Coimbatore,4,1,web dev,-1.2744655437441423,1.1388446217577262,-0.4682570815302714,0.2940305069694274
+289,Ira Das,19,8.81,"Java, Cybersecurity, Python, Data Analysis",ai,Coimbatore,3,1,java  cybersecurity  python  data analysis,0.8614870576104019,-1.1056264498972335,-0.4682570815302714,-0.27579605692481174
+290,Aarav Gupta,18,5.51,"ML, Java, Cybersecurity",web dev,Bangalore,5,2,ml  java  cybersecurity,-1.4196273710206646,-1.5545206642282254,0.415246845885335,0.8638570708636665
+292,Aadhya Das,24,8.99,"Web Dev, ML, Data Analysis, Python",cybersecurity,Delhi,5,0,web dev  ml  data analysis  python,0.9859114809902779,1.1388446217577262,-1.3517610089458778,0.8638570708636665
+293,Aadhya Iyer,24,7.04,"Cybersecurity, Data Analysis, ML",web dev,Coimbatore,5,1,cybersecurity  data analysis  ml,-0.3620197722917157,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+294,Ananya Iyer,20,8.21,"Java, Data Analysis, Web Dev",web dev,Mumbai,3,3,java  data analysis  web dev,0.446738979677481,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+295,Kavya Singh,21,8.58,"Data Analysis, Web Dev, Cybersecurity, Java",ai,Delhi,3,0,data analysis  web dev  cybersecurity  java,0.7025002944027818,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+296,Meera Mehta,21,5.91,"Java, Data Analysis, Python",data science,Mumbai,2,3,java  data analysis  python,-1.143128652398717,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+297,Aditya Singh,23,6.14,"Cybersecurity, Data Analysis, ML, Python",web dev,Hyderabad,2,1,cybersecurity  data analysis  ml  python,-0.9841418891910976,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+298,Ananya Iyer,20,5.77,"Java, Python, Cybersecurity",web dev,Chennai,5,3,java  python  cybersecurity,-1.239903203916399,-0.6567322355662416,1.2987507733009414,0.8638570708636665
+299,Ira Kumar,23,5.5,"Python, Cybersecurity",cybersecurity,Madurai,1,2,python  cybersecurity,-1.4265398389862132,0.6899504074267342,0.415246845885335,-1.41544918471329
+302,Vivaan Bhat,22,8.54,Cybersecurity,web dev,Delhi,2,0,cybersecurity,0.6748504225405865,0.24105619309574222,-1.3517610089458778,-0.8456226208190508
+303,Vivaan Reddy,21,6.87,"Java, Python, ML, Cybersecurity",web dev,Mumbai,1,1,java  python  ml  cybersecurity,-0.4795317277060433,-0.2078380212352497,-0.4682570815302714,-1.41544918471329
+304,Diya Sharma,20,8.68,Data Analysis,ai,Madurai,1,1,data analysis,0.7716249740582684,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+305,Diya Gupta,20,7.25,"Java, Web Dev, ML, Cybersecurity",web dev,Hyderabad,6,0,java  web dev  ml  cybersecurity,-0.21685794501519334,-0.6567322355662416,-1.3517610089458778,1.4336836347579056
+306,Arjun Singh,22,5.83,"Cybersecurity, ML",data science,Mumbai,4,1,cybersecurity  ml,-1.1984283961231066,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+309,Reyansh Gupta,18,8.72,"Java, Python, Data Analysis",cybersecurity,Coimbatore,2,3,java  python  data analysis,0.7992748459204638,-1.5545206642282254,1.2987507733009414,-0.8456226208190508
+310,Riya Bhat,18,5.02,"Data Analysis, Cybersecurity, Python",data science,Mumbai,1,2,data analysis  cybersecurity  python,-1.7583383013325504,-1.5545206642282254,0.415246845885335,-1.41544918471329
+311,Saanvi Chopra,24,7.07,"Python, Cybersecurity",cybersecurity,Madurai,2,2,python  cybersecurity,-0.3412823683950695,1.1388446217577262,0.415246845885335,-0.8456226208190508
+312,Sai Mehta,23,6.73,"Cybersecurity, Python, Data Analysis",data science,Delhi,2,2,cybersecurity  python  data analysis,-0.5763062792237247,0.6899504074267342,0.415246845885335,-0.8456226208190508
+313,Krishna Kumar,19,9.59,"ML, Java",cybersecurity,Mumbai,3,2,ml  java,1.400659558923199,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+315,Riya Iyer,18,7.49,"Python, Web Dev, Cybersecurity",ai,Hyderabad,6,0,python  web dev  cybersecurity,-0.05095871384202476,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+316,Ira Kumar,25,6.56,"Java, Data Analysis",cybersecurity,Chennai,5,2,java  data analysis,-0.6938182346380529,1.587738836088718,0.415246845885335,0.8638570708636665
+317,Ishaan Chopra,20,8.16,"Python, Web Dev, ML, Cybersecurity",cybersecurity,Coimbatore,4,1,python  web dev  ml  cybersecurity,0.41217663984973707,-0.6567322355662416,-0.4682570815302714,0.2940305069694274
+318,Ira Mehta,22,7.58,"Web Dev, Python, ML, Data Analysis",data science,Mumbai,1,3,web dev  python  ml  data analysis,0.011253497847913308,0.24105619309574222,1.2987507733009414,-1.41544918471329
+319,Aarav Mehta,18,5.74,"Python, Java, Cybersecurity",ai,Bangalore,6,1,python  java  cybersecurity,-1.2606406078130445,-1.5545206642282254,-0.4682570815302714,1.4336836347579056
+320,Saanvi Chopra,21,7.68,Web Dev,ai,Chennai,1,2,web dev,0.08037817750339991,-0.2078380212352497,0.415246845885335,-1.41544918471329
+321,Kavya Sharma,18,6.55,"ML, Java, Web Dev",cybersecurity,Madurai,6,2,ml  java  web dev,-0.7007307026036014,-1.5545206642282254,0.415246845885335,1.4336836347579056
+322,Meera Gupta,20,6.05,"ML, Python, Java, Data Analysis",data science,Chennai,3,1,ml  python  java  data analysis,-1.0463541008810358,-0.6567322355662416,-0.4682570815302714,-0.27579605692481174
+323,Sai Iyer,25,7.34,"Web Dev, Java, Cybersecurity, Python",ai,Madurai,1,0,web dev  java  cybersecurity  python,-0.15464573332525527,1.587738836088718,-1.3517610089458778,-1.41544918471329
+324,Riya Das,22,7.36,"Web Dev, ML, Java, Python",cybersecurity,Madurai,3,1,web dev  ml  java  python,-0.1408207973941576,0.24105619309574222,-0.4682570815302714,-0.27579605692481174
+325,Reyansh Patel,18,8.88,"Cybersecurity, Python",ai,Hyderabad,2,1,cybersecurity  python,0.9098743333692428,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+326,Aarohi Nair,23,7.2,Java,web dev,Chennai,2,1,java,-0.25142028484293666,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+327,Arjun Nair,23,8.83,ML,ai,Coimbatore,4,0,ml,0.8753119935414989,0.6899504074267342,-1.3517610089458778,0.2940305069694274
+328,Vivaan Mehta,25,9.31,"Java, Web Dev, Cybersecurity, Python",web dev,Delhi,3,3,java  web dev  cybersecurity  python,1.207110455887836,1.587738836088718,1.2987507733009414,-0.27579605692481174
+329,Diya Kumar,19,6.35,"Web Dev, Cybersecurity, Data Analysis",web dev,Madurai,6,1,web dev  cybersecurity  data analysis,-0.8389800619145752,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+331,Sai Das,19,9.33,"Web Dev, ML, Python, Java",cybersecurity,Hyderabad,1,0,web dev  ml  python  java,1.2209353918189332,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+332,Ira Singh,24,6.27,"ML, Java, Data Analysis, Web Dev",web dev,Hyderabad,3,2,ml  java  data analysis  web dev,-0.8942798056389648,1.1388446217577262,0.415246845885335,-0.27579605692481174
+333,Kavya Kumar,22,7.98,"Data Analysis, Java",cybersecurity,Chennai,1,2,data analysis  java,0.28775221646986093,0.24105619309574222,0.415246845885335,-1.41544918471329
+334,Aarohi Mehta,22,5.89,"ML, Java",data science,Coimbatore,1,3,ml  java,-1.1569535883298148,0.24105619309574222,1.2987507733009414,-1.41544918471329
+335,Aadhya Das,24,8.6,ML,data science,Chennai,3,3,ml,0.7163252303338788,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+337,Ishaan Gupta,25,6.99,"Data Analysis, Cybersecurity",ai,Coimbatore,5,1,data analysis  cybersecurity,-0.396582112119459,1.587738836088718,-0.4682570815302714,0.8638570708636665
+338,Ishaan Chopra,22,7.03,Cybersecurity,cybersecurity,Coimbatore,2,2,cybersecurity,-0.36893224025726423,0.24105619309574222,0.415246845885335,-0.8456226208190508
+340,Riya Iyer,25,5.91,"Data Analysis, Cybersecurity, Web Dev",cybersecurity,Bangalore,4,0,data analysis  cybersecurity  web dev,-1.143128652398717,1.587738836088718,-1.3517610089458778,0.2940305069694274
+341,Arjun Bhat,21,8.52,"Data Analysis, Java, Cybersecurity, Web Dev",cybersecurity,Chennai,1,2,data analysis  java  cybersecurity  web dev,0.6610254866094893,-0.2078380212352497,0.415246845885335,-1.41544918471329
+342,Krishna Chopra,22,6.71,"Python, Data Analysis",cybersecurity,Madurai,2,2,python  data analysis,-0.5901312151548224,0.24105619309574222,0.415246845885335,-0.8456226208190508
+343,Reyansh Kumar,19,6.82,"Java, ML, Cybersecurity",cybersecurity,Delhi,4,3,java  ml  cybersecurity,-0.5140940675337866,-1.1056264498972335,1.2987507733009414,0.2940305069694274
+344,Aadhya Patel,22,6.73,"Cybersecurity, ML, Web Dev, Python",data science,Coimbatore,6,0,cybersecurity  ml  web dev  python,-0.5763062792237247,0.24105619309574222,-1.3517610089458778,1.4336836347579056
+346,Aditya Joshi,19,8.82,Python,cybersecurity,Coimbatore,1,1,python,0.8683995255759503,-1.1056264498972335,-0.4682570815302714,-1.41544918471329
+347,Krishna Verma,23,7.44,"Python, Java",cybersecurity,Madurai,6,2,python  java,-0.08552105366976806,0.6899504074267342,0.415246845885335,1.4336836347579056
+348,Vivaan Nair,25,5.91,"Cybersecurity, ML, Python, Web Dev",cybersecurity,Chennai,2,2,cybersecurity  ml  python  web dev,-1.143128652398717,1.587738836088718,0.415246845885335,-0.8456226208190508
+349,Aarav Iyer,18,6.34,"Web Dev, Data Analysis, Python",cybersecurity,Hyderabad,2,0,web dev  data analysis  python,-0.8458925298801238,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+350,Sai Verma,18,6.29,Web Dev,web dev,Coimbatore,6,1,web dev,-0.880454869707867,-1.5545206642282254,-0.4682570815302714,1.4336836347579056
+351,Ishaan Nair,20,7.11,"Data Analysis, Cybersecurity, ML",ai,Madurai,2,1,data analysis  cybersecurity  ml,-0.3136324965328747,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+352,Meera Gupta,22,5.86,"Cybersecurity, Java",data science,Mumbai,5,2,cybersecurity  java,-1.1776909922264602,0.24105619309574222,0.415246845885335,0.8638570708636665
+353,Aditya Das,23,9.57,Python,cybersecurity,Bangalore,5,1,python,1.3868346229921018,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+354,Meera Iyer,21,7.49,"Python, Cybersecurity, Java, Web Dev",cybersecurity,Hyderabad,2,0,python  cybersecurity  java  web dev,-0.05095871384202476,-0.2078380212352497,-1.3517610089458778,-0.8456226208190508
+355,Aarohi Das,22,8.26,"Web Dev, Python, Cybersecurity",web dev,Coimbatore,2,3,web dev  python  cybersecurity,0.4813013195052237,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+356,Kavya Patel,24,5.53,Python,data science,Delhi,6,0,python,-1.405802435089567,1.1388446217577262,-1.3517610089458778,1.4336836347579056
+358,Diya Reddy,25,6.25,"Web Dev, ML",data science,Bangalore,5,0,web dev  ml,-0.9081047415700618,1.587738836088718,-1.3517610089458778,0.8638570708636665
+359,Reyansh Bhat,22,5.88,Web Dev,data science,Chennai,5,0,web dev,-1.1638660562953633,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+360,Arjun Mehta,19,7.02,"Python, Data Analysis",cybersecurity,Hyderabad,6,1,python  data analysis,-0.3758447082228134,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+361,Aadhya Sharma,23,5.23,"ML, Cybersecurity, Java",data science,Delhi,4,1,ml  cybersecurity  java,-1.6131764740560275,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+363,Diya Bhat,20,6.23,"Cybersecurity, Python",ai,Madurai,5,2,cybersecurity  python,-0.921929677501159,-0.6567322355662416,0.415246845885335,0.8638570708636665
+364,Reyansh Mehta,25,7.19,"Cybersecurity, ML",data science,Madurai,4,0,cybersecurity  ml,-0.25833275280848517,1.587738836088718,-1.3517610089458778,0.2940305069694274
+365,Arjun Verma,20,6.49,Data Analysis,cybersecurity,Madurai,3,1,data analysis,-0.7422055103968932,-0.6567322355662416,-0.4682570815302714,-0.27579605692481174
+366,Ananya Verma,19,6.98,"Python, Java",cybersecurity,Bangalore,6,1,python  java,-0.40349458008500755,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+367,Ira Mehta,22,7.42,Python,ai,Madurai,2,3,python,-0.09934598960086574,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+368,Aditya Nair,24,6.31,"ML, Python, Data Analysis",cybersecurity,Bangalore,3,3,ml  python  data analysis,-0.86662993377677,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+369,Aditya Chopra,20,9.23,"Web Dev, Cybersecurity",web dev,Mumbai,3,0,web dev  cybersecurity,1.1518107121634467,-0.6567322355662416,-1.3517610089458778,-0.27579605692481174
+370,Meera Reddy,20,6.67,"Data Analysis, Cybersecurity",data science,Bangalore,2,1,data analysis  cybersecurity,-0.6177810870170171,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+371,Reyansh Verma,22,6.72,"ML, Data Analysis",cybersecurity,Madurai,1,0,ml  data analysis,-0.5832187471892738,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+372,Kavya Bhat,18,8.52,Data Analysis,data science,Coimbatore,2,0,data analysis,0.6610254866094893,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+373,Kavya Nair,24,5.38,"ML, Python",web dev,Madurai,2,0,ml  python,-1.5094894545727975,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+374,Aarav Mehta,21,8.47,"Web Dev, ML, Data Analysis",cybersecurity,Madurai,6,1,web dev  ml  data analysis,0.6264631467817466,-0.2078380212352497,-0.4682570815302714,1.4336836347579056
+376,Aadhya Reddy,20,9.59,"Data Analysis, Cybersecurity, ML, Web Dev",web dev,Madurai,5,0,data analysis  cybersecurity  ml  web dev,1.400659558923199,-0.6567322355662416,-1.3517610089458778,0.8638570708636665
+377,Meera Patel,19,8.45,"Data Analysis, Python, Java, Cybersecurity",web dev,Mumbai,1,2,data analysis  python  java  cybersecurity,0.6126382108506484,-1.1056264498972335,0.415246845885335,-1.41544918471329
+378,Aarav Chopra,21,7.71,"Cybersecurity, Java, ML, Web Dev",ai,Hyderabad,3,3,cybersecurity  java  ml  web dev,0.10111558140004615,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+379,Aarohi Das,24,9.03,"Java, Data Analysis, Cybersecurity, ML",web dev,Mumbai,5,1,java  data analysis  cybersecurity  ml,1.013561352852472,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+380,Aarohi Bhat,25,9.25,"Python, ML, Web Dev, Data Analysis",cybersecurity,Delhi,1,1,python  ml  web dev  data analysis,1.1656356480945436,1.587738836088718,-0.4682570815302714,-1.41544918471329
+381,Ira Joshi,18,8.23,"Web Dev, Python, Data Analysis, ML",ai,Chennai,3,1,web dev  python  data analysis  ml,0.46056391560857807,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+382,Krishna Das,18,9.72,"Java, Web Dev, Python",cybersecurity,Hyderabad,2,3,java  web dev  python,1.4905216424753323,-1.5545206642282254,1.2987507733009414,-0.8456226208190508
+383,Aadhya Bhat,24,10.0,"Python, Cybersecurity, Web Dev, Java",web dev,Delhi,2,0,python  cybersecurity  web dev  java,1.684070745510695,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+385,Ira Reddy,22,8.66,"Python, ML, Cybersecurity",data science,Bangalore,3,3,python  ml  cybersecurity,0.7578000381271713,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+386,Aditya Verma,25,9.86,"Data Analysis, Cybersecurity",data science,Bangalore,5,1,data analysis  cybersecurity,1.587296193993013,1.587738836088718,-0.4682570815302714,0.8638570708636665
+387,Ishaan Iyer,24,9.31,"Data Analysis, ML, Python, Java",cybersecurity,Madurai,3,1,data analysis  ml  python  java,1.207110455887836,1.1388446217577262,-0.4682570815302714,-0.27579605692481174
+388,Aditya Patel,20,9.14,Cybersecurity,ai,Chennai,1,1,cybersecurity,1.0895985004735085,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+389,Aadhya Das,24,6.82,Cybersecurity,web dev,Mumbai,4,3,cybersecurity,-0.5140940675337866,1.1388446217577262,1.2987507733009414,0.2940305069694274
+390,Krishna Iyer,22,5.38,"Web Dev, Java",data science,Delhi,5,2,web dev  java,-1.5094894545727975,0.24105619309574222,0.415246845885335,0.8638570708636665
+391,Aarohi Gupta,25,7.21,"ML, Java",web dev,Mumbai,4,2,ml  java,-0.2445078168773881,1.587738836088718,0.415246845885335,0.2940305069694274
+392,Aarohi Mehta,24,9.02,Cybersecurity,web dev,Bangalore,4,0,cybersecurity,1.0066488848869235,1.1388446217577262,-1.3517610089458778,0.2940305069694274
+393,Aarohi Mehta,23,6.59,Cybersecurity,web dev,Coimbatore,2,0,cybersecurity,-0.6730808307414067,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+394,Ananya Bhat,25,7.13,Web Dev,ai,Hyderabad,4,1,web dev,-0.29980756060177766,1.587738836088718,-0.4682570815302714,0.2940305069694274
+395,Sai Singh,19,5.12,"Java, ML, Python",data science,Mumbai,2,1,java  ml  python,-1.6892136216770632,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+396,Kavya Iyer,23,5.0,"Web Dev, ML, Cybersecurity",ai,Madurai,5,0,web dev  ml  cybersecurity,-1.7721632372636476,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+397,Saanvi Joshi,19,9.7,"Web Dev, Java, Data Analysis, ML",ai,Mumbai,3,2,web dev  java  data analysis  ml,1.476696706544234,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+398,Reyansh Singh,24,5.05,Java,data science,Chennai,5,1,java,-1.737600897435904,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+400,Reyansh Nair,18,7.9,"ML, Java, Cybersecurity, Data Analysis",web dev,Delhi,4,2,ml  java  cybersecurity  data analysis,0.23245247274547143,-1.5545206642282254,0.415246845885335,0.2940305069694274
+401,Sai Gupta,18,8.84,"Java, Cybersecurity, Data Analysis",cybersecurity,Delhi,1,2,java  cybersecurity  data analysis,0.8822244615070475,-1.5545206642282254,0.415246845885335,-1.41544918471329
+402,Vivaan Joshi,24,7.61,"Python, ML, Java",web dev,Hyderabad,1,1,python  ml  java,0.031990901744559534,1.1388446217577262,-0.4682570815302714,-1.41544918471329
+404,Sai Verma,23,9.26,Java,data science,Chennai,2,1,java,1.1725481160600921,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+405,Ananya Kumar,22,5.21,"Java, ML, Web Dev",ai,Delhi,1,0,java  ml  web dev,-1.627001409987125,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+406,Arjun Patel,23,5.23,"Web Dev, Python, ML",web dev,Bangalore,1,0,web dev  python  ml,-1.6131764740560275,0.6899504074267342,-1.3517610089458778,-1.41544918471329
+407,Arjun Chopra,25,5.62,"Data Analysis, Python",cybersecurity,Madurai,3,1,data analysis  python,-1.3435902233996289,1.587738836088718,-0.4682570815302714,-0.27579605692481174
+408,Saanvi Joshi,22,8.93,ML,ai,Hyderabad,3,3,ml,0.9444366731969855,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+410,Reyansh Bhat,20,9.52,"Java, Python",data science,Delhi,2,0,java  python,1.3522722831643579,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+412,Ananya Joshi,21,9.19,Java,cybersecurity,Chennai,6,0,java,1.124160840301251,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+413,Ananya Joshi,20,7.56,"Cybersecurity, Java",web dev,Coimbatore,2,2,cybersecurity  java,-0.00257143808318438,-0.6567322355662416,0.415246845885335,-0.8456226208190508
+414,Aadhya Joshi,19,6.92,"Cybersecurity, ML",cybersecurity,Coimbatore,1,0,cybersecurity  ml,-0.4449693878783,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+415,Ananya Das,19,8.9,"ML, Cybersecurity, Python, Data Analysis",ai,Bangalore,6,0,ml  cybersecurity  python  data analysis,0.92369926930034,-1.1056264498972335,-1.3517610089458778,1.4336836347579056
+416,Ira Chopra,22,8.15,"Cybersecurity, Data Analysis, ML",cybersecurity,Madurai,1,0,cybersecurity  data analysis  ml,0.40526417188418856,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+417,Aarav Joshi,20,7.99,Cybersecurity,cybersecurity,Mumbai,1,0,cybersecurity,0.2946646844354095,-0.6567322355662416,-1.3517610089458778,-1.41544918471329
+418,Saanvi Joshi,20,6.98,Web Dev,cybersecurity,Coimbatore,2,1,web dev,-0.40349458008500755,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+420,Diya Singh,20,6.12,"Web Dev, ML",data science,Mumbai,5,2,web dev  ml,-0.9979668251221947,-0.6567322355662416,0.415246845885335,0.8638570708636665
+421,Vivaan Sharma,18,7.96,Cybersecurity,cybersecurity,Chennai,6,0,cybersecurity,0.27392728053876325,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+422,Arjun Joshi,19,7.29,"ML, Cybersecurity",ai,Bangalore,3,2,ml  cybersecurity,-0.1892080731529986,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+423,Ishaan Chopra,21,7.38,"Cybersecurity, Data Analysis",web dev,Hyderabad,3,0,cybersecurity  data analysis,-0.12699586146306052,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+424,Ananya Verma,19,9.31,"Data Analysis, Python, Cybersecurity",web dev,Chennai,1,2,data analysis  python  cybersecurity,1.207110455887836,-1.1056264498972335,0.415246845885335,-1.41544918471329
+425,Meera Das,25,9.66,"Cybersecurity, Java, ML",ai,Mumbai,3,2,cybersecurity  java  ml,1.4490468346820398,1.587738836088718,0.415246845885335,-0.27579605692481174
+427,Krishna Iyer,20,8.62,"Python, Cybersecurity, Data Analysis, Web Dev",cybersecurity,Mumbai,2,1,python  cybersecurity  data analysis  web dev,0.730150166264976,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+430,Reyansh Das,22,7.4,"Python, Web Dev",ai,Delhi,5,2,python  web dev,-0.11317092553196283,0.24105619309574222,0.415246845885335,0.8638570708636665
+431,Sai Gupta,19,7.86,"Cybersecurity, Java, Web Dev",cybersecurity,Delhi,2,3,cybersecurity  java  web dev,0.20480260088327665,-1.1056264498972335,1.2987507733009414,-0.8456226208190508
+432,Riya Joshi,20,9.32,"Python, Cybersecurity",web dev,Hyderabad,1,1,python  cybersecurity,1.2140229238533846,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+433,Arjun Nair,25,8.99,"Data Analysis, ML, Cybersecurity, Python",web dev,Madurai,4,0,data analysis  ml  cybersecurity  python,0.9859114809902779,1.587738836088718,-1.3517610089458778,0.2940305069694274
+434,Aditya Kumar,20,9.34,"Cybersecurity, Python, Data Analysis",web dev,Delhi,1,0,cybersecurity  python  data analysis,1.2278478597844817,-0.6567322355662416,-1.3517610089458778,-1.41544918471329
+435,Ira Kumar,20,6.19,"Data Analysis, Python, Java, ML",cybersecurity,Chennai,5,1,data analysis  python  java  ml,-0.9495795493633536,-0.6567322355662416,-0.4682570815302714,0.8638570708636665
+437,Aadhya Reddy,24,9.41,"Web Dev, ML, Data Analysis, Cybersecurity",web dev,Hyderabad,5,1,web dev  ml  data analysis  cybersecurity,1.2762351355433228,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+438,Kavya Bhat,18,5.15,Python,ai,Chennai,2,1,python,-1.6684762177804169,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+439,Ananya Kumar,25,6.68,Python,cybersecurity,Delhi,6,2,python,-0.6108686190514686,1.587738836088718,0.415246845885335,1.4336836347579056
+440,Diya Das,24,5.01,"ML, Cybersecurity, Python, Data Analysis",web dev,Madurai,2,1,ml  cybersecurity  python  data analysis,-1.765250769298099,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+441,Aditya Patel,22,7.54,Web Dev,web dev,Hyderabad,2,3,web dev,-0.016396374014281456,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+442,Reyansh Iyer,22,8.08,"ML, Web Dev, Python",data science,Mumbai,1,0,ml  web dev  python,0.35687689612534756,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+443,Aarohi Chopra,18,5.58,"Python, Java",ai,Bangalore,2,3,python  java,-1.3712400952618238,-1.5545206642282254,1.2987507733009414,-0.8456226208190508
+444,Arjun Gupta,25,7.7,Data Analysis,web dev,Chennai,3,3,data analysis,0.0942031134344976,1.587738836088718,1.2987507733009414,-0.27579605692481174
+445,Aarav Chopra,23,6.42,"Cybersecurity, Python",web dev,Bangalore,2,0,cybersecurity  python,-0.7905927861557343,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+447,Arjun Bhat,24,9.66,Data Analysis,cybersecurity,Madurai,5,1,data analysis,1.4490468346820398,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+448,Ira Verma,21,5.87,"Cybersecurity, Web Dev, Python",cybersecurity,Bangalore,4,1,cybersecurity  web dev  python,-1.170778524260912,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+449,Ira Singh,21,6.5,ML,web dev,Madurai,1,3,ml,-0.7352930424313447,-0.2078380212352497,1.2987507733009414,-1.41544918471329
+450,Sai Patel,23,8.54,Web Dev,ai,Coimbatore,6,0,web dev,0.6748504225405865,0.6899504074267342,-1.3517610089458778,1.4336836347579056
+451,Ira Sharma,23,8.1,Python,web dev,Chennai,3,1,python,0.37070183205644464,0.6899504074267342,-0.4682570815302714,-0.27579605692481174
+453,Aadhya Kumar,21,8.24,"Cybersecurity, Data Analysis, Web Dev, Python",data science,Chennai,4,0,cybersecurity  data analysis  web dev  python,0.46747638357412663,-0.2078380212352497,-1.3517610089458778,0.2940305069694274
+454,Ira Das,21,5.12,Java,web dev,Hyderabad,3,0,java,-1.6892136216770632,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+455,Ira Sharma,23,6.86,"Python, ML, Data Analysis, Java",data science,Chennai,3,2,python  ml  data analysis  java,-0.4864441956715918,0.6899504074267342,0.415246845885335,-0.27579605692481174
+456,Riya Sharma,19,5.01,"Java, Data Analysis, Web Dev",web dev,Bangalore,2,1,java  data analysis  web dev,-1.765250769298099,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+457,Saanvi Nair,19,9.99,"Java, Web Dev, Cybersecurity, Python",ai,Bangalore,1,2,java  web dev  cybersecurity  python,1.6771582775451466,-1.1056264498972335,0.415246845885335,-1.41544918471329
+458,Aarav Kumar,22,9.27,"Cybersecurity, Python, Data Analysis",ai,Hyderabad,5,0,cybersecurity  python  data analysis,1.1794605840256407,0.24105619309574222,-1.3517610089458778,0.8638570708636665
+459,Meera Joshi,20,6.1,"Python, Java, Web Dev",cybersecurity,Bangalore,2,2,python  java  web dev,-1.0117917610532923,-0.6567322355662416,0.415246845885335,-0.8456226208190508
+460,Vivaan Reddy,23,6.15,"Python, Cybersecurity, Java",cybersecurity,Mumbai,3,2,python  cybersecurity  java,-0.9772294212255485,0.6899504074267342,0.415246845885335,-0.27579605692481174
+463,Diya Patel,21,6.99,"ML, Data Analysis, Web Dev",cybersecurity,Madurai,1,0,ml  data analysis  web dev,-0.396582112119459,-0.2078380212352497,-1.3517610089458778,-1.41544918471329
+464,Krishna Verma,20,6.56,"Java, Web Dev",ai,Coimbatore,2,3,java  web dev,-0.6938182346380529,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+465,Arjun Reddy,23,6.15,"ML, Data Analysis, Cybersecurity, Python",data science,Hyderabad,5,2,ml  data analysis  cybersecurity  python,-0.9772294212255485,0.6899504074267342,0.415246845885335,0.8638570708636665
+466,Ishaan Gupta,25,9.34,"ML, Data Analysis, Python",ai,Coimbatore,4,1,ml  data analysis  python,1.2278478597844817,1.587738836088718,-0.4682570815302714,0.2940305069694274
+467,Diya Joshi,24,7.36,Java,data science,Coimbatore,3,3,java,-0.1408207973941576,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+468,Aditya Chopra,21,5.93,"Data Analysis, ML",ai,Mumbai,1,0,data analysis  ml,-1.1293037164676198,-0.2078380212352497,-1.3517610089458778,-1.41544918471329
+469,Diya Patel,22,5.77,"Python, ML",cybersecurity,Delhi,3,1,python  ml,-1.239903203916399,0.24105619309574222,-0.4682570815302714,-0.27579605692481174
+470,Krishna Verma,19,8.81,"Python, Java, Cybersecurity, ML",ai,Hyderabad,3,0,python  java  cybersecurity  ml,0.8614870576104019,-1.1056264498972335,-1.3517610089458778,-0.27579605692481174
+471,Krishna Reddy,25,6.47,"ML, Data Analysis",ai,Delhi,4,1,ml  data analysis,-0.7560304463279909,1.587738836088718,-0.4682570815302714,0.2940305069694274
+472,Ananya Joshi,20,5.93,Python,ai,Coimbatore,1,1,python,-1.1293037164676198,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+475,Aarav Mehta,18,5.8,"Java, Data Analysis, Cybersecurity, Python",data science,Madurai,6,1,java  data analysis  cybersecurity  python,-1.2191658000197527,-1.5545206642282254,-0.4682570815302714,1.4336836347579056
+476,Riya Reddy,22,6.34,Web Dev,web dev,Mumbai,3,3,web dev,-0.8458925298801238,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+477,Diya Gupta,22,5.75,"Web Dev, ML, Python, Cybersecurity",data science,Bangalore,5,1,web dev  ml  python  cybersecurity,-1.253728139847496,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+479,Aarav Mehta,24,8.61,"ML, Web Dev, Cybersecurity",data science,Delhi,3,0,ml  web dev  cybersecurity,0.7232376982994274,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+480,Ira Singh,18,9.3,"Data Analysis, Java, Python, Web Dev",web dev,Chennai,6,0,data analysis  java  python  web dev,1.2001979879222875,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+481,Ananya Sharma,25,8.62,"Web Dev, Data Analysis, Java, Python",ai,Coimbatore,3,3,web dev  data analysis  java  python,0.730150166264976,1.587738836088718,1.2987507733009414,-0.27579605692481174
+482,Krishna Patel,18,6.21,Java,cybersecurity,Madurai,1,1,java,-0.9357546134322566,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+483,Sai Reddy,25,5.09,"Web Dev, Data Analysis",data science,Delhi,6,1,web dev  data analysis,-1.7099510255737094,1.587738836088718,-0.4682570815302714,1.4336836347579056
+484,Aarav Chopra,21,8.51,"Web Dev, Cybersecurity, Java",web dev,Hyderabad,2,3,web dev  cybersecurity  java,0.6541130186439408,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+485,Kavya Iyer,25,9.71,"Java, ML, Python",ai,Chennai,1,1,java  ml  python,1.4836091745097837,1.587738836088718,-0.4682570815302714,-1.41544918471329
+486,Krishna Nair,18,5.44,"Python, Web Dev",cybersecurity,Chennai,5,1,python  web dev,-1.468014646779505,-1.5545206642282254,-0.4682570815302714,0.8638570708636665
+487,Aadhya Nair,18,9.12,"Java, Data Analysis",web dev,Hyderabad,2,1,java  data analysis,1.0757735645424102,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+488,Aadhya Sharma,24,5.66,Java,web dev,Hyderabad,2,1,java,-1.3159403515374342,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+489,Arjun Joshi,19,9.0,"Python, Data Analysis, ML",ai,Madurai,2,1,python  data analysis  ml,0.9928239489558265,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+490,Diya Singh,24,8.35,"Java, ML",cybersecurity,Mumbai,3,0,java  ml,0.5435135311951618,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+491,Aadhya Reddy,20,9.48,"Java, Web Dev, Cybersecurity",cybersecurity,Madurai,1,1,java  web dev  cybersecurity,1.3246224113021636,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+492,Diya Reddy,18,5.26,"Cybersecurity, Python",cybersecurity,Hyderabad,1,1,cybersecurity  python,-1.5924390701593818,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+493,Vivaan Reddy,21,9.35,"Web Dev, Java, Python",cybersecurity,Coimbatore,2,3,web dev  java  python,1.2347603277500303,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+494,Aadhya Chopra,23,8.92,Java,data science,Madurai,3,2,java,0.937524205231437,0.6899504074267342,0.415246845885335,-0.27579605692481174
+495,Sai Das,24,8.3,Cybersecurity,data science,Bangalore,4,1,cybersecurity,0.5089511913674191,1.1388446217577262,-0.4682570815302714,0.2940305069694274
+496,Aarav Patel,19,8.92,"Java, Python",data science,Madurai,3,2,java  python,0.937524205231437,-1.1056264498972335,0.415246845885335,-0.27579605692481174
+497,Arjun Chopra,18,5.82,Python,cybersecurity,Bangalore,6,2,python,-1.2053408640886552,-1.5545206642282254,0.415246845885335,1.4336836347579056
+498,Aarohi Reddy,19,5.3,"ML, Cybersecurity, Data Analysis, Web Dev",cybersecurity,Chennai,4,0,ml  cybersecurity  data analysis  web dev,-1.564789198297187,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+499,Kavya Bhat,18,9.36,"Java, ML",ai,Hyderabad,2,2,java  ml,1.2416727957155789,-1.5545206642282254,0.415246845885335,-0.8456226208190508
+501,Aditya Singh,22,8.95,"ML, Java",ai,Delhi,3,3,ml  java,0.9582616091280826,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+502,Aditya Singh,19,5.1,"Cybersecurity, Python, ML, Data Analysis",web dev,Delhi,3,1,cybersecurity  python  ml  data analysis,-1.7030385576081608,-1.1056264498972335,-0.4682570815302714,-0.27579605692481174
+503,Aarohi Reddy,22,9.98,Python,data science,Coimbatore,1,2,python,1.670245809579598,0.24105619309574222,0.415246845885335,-1.41544918471329
+504,Ishaan Mehta,20,5.41,"Cybersecurity, Data Analysis, Web Dev",web dev,Chennai,3,2,cybersecurity  data analysis  web dev,-1.4887520506761514,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+505,Vivaan Mehta,22,5.36,"Java, Python, Data Analysis, Web Dev",cybersecurity,Chennai,1,2,java  python  data analysis  web dev,-1.5233143905038946,0.24105619309574222,0.415246845885335,-1.41544918471329
+506,Diya Joshi,21,5.87,"Java, Python, Web Dev, ML",web dev,Mumbai,5,2,java  python  web dev  ml,-1.170778524260912,-0.2078380212352497,0.415246845885335,0.8638570708636665
+507,Diya Verma,19,8.71,"Python, Data Analysis, ML, Java",cybersecurity,Mumbai,4,0,python  data analysis  ml  java,0.7923623779549153,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+509,Vivaan Patel,21,5.2,"ML, Data Analysis, Java, Cybersecurity",ai,Coimbatore,1,2,ml  data analysis  java  cybersecurity,-1.6339138779526736,-0.2078380212352497,0.415246845885335,-1.41544918471329
+510,Arjun Verma,25,7.94,"Web Dev, ML, Java",ai,Hyderabad,2,0,web dev  ml  java,0.2601023446076662,1.587738836088718,-1.3517610089458778,-0.8456226208190508
+511,Meera Joshi,19,7.43,"Web Dev, ML, Java, Cybersecurity",data science,Chennai,2,2,web dev  ml  java  cybersecurity,-0.0924335216353172,-1.1056264498972335,0.415246845885335,-0.8456226208190508
+512,Meera Joshi,19,8.96,Web Dev,web dev,Chennai,2,2,web dev,0.9651740770936323,-1.1056264498972335,0.415246845885335,-0.8456226208190508
+514,Aarohi Verma,20,8.11,"Java, Cybersecurity, Data Analysis, Web Dev",ai,Chennai,5,2,java  cybersecurity  data analysis  web dev,0.37761430002199314,-0.6567322355662416,0.415246845885335,0.8638570708636665
+516,Aarav Bhat,23,5.9,"Python, ML, Java, Cybersecurity",ai,Chennai,4,1,python  ml  java  cybersecurity,-1.1500411203642655,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+517,Arjun Bhat,23,7.56,"Web Dev, Data Analysis, ML",data science,Bangalore,5,0,web dev  data analysis  ml,-0.00257143808318438,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+518,Kavya Nair,23,7.46,"Python, Java, Data Analysis, Web Dev",web dev,Delhi,6,1,python  java  data analysis  web dev,-0.07169611773867099,0.6899504074267342,-0.4682570815302714,1.4336836347579056
+520,Saanvi Sharma,24,6.8,"Data Analysis, Cybersecurity, Web Dev",cybersecurity,Hyderabad,2,2,data analysis  cybersecurity  web dev,-0.5279190034648843,1.1388446217577262,0.415246845885335,-0.8456226208190508
+521,Arjun Joshi,23,8.26,"Java, Data Analysis",cybersecurity,Hyderabad,1,0,java  data analysis,0.4813013195052237,0.6899504074267342,-1.3517610089458778,-1.41544918471329
+522,Aadhya Patel,21,6.29,"Web Dev, Python, Java, ML",web dev,Hyderabad,5,0,web dev  python  java  ml,-0.880454869707867,-0.2078380212352497,-1.3517610089458778,0.8638570708636665
+523,Aarohi Chopra,24,7.94,"Web Dev, Data Analysis, Python, Cybersecurity",web dev,Chennai,4,3,web dev  data analysis  python  cybersecurity,0.2601023446076662,1.1388446217577262,1.2987507733009414,0.2940305069694274
+524,Diya Chopra,21,9.85,"Java, Web Dev, Python, ML",web dev,Hyderabad,3,1,java  web dev  python  ml,1.5803837260274645,-0.2078380212352497,-0.4682570815302714,-0.27579605692481174
+525,Ishaan Joshi,20,7.21,Java,ai,Bangalore,2,0,java,-0.2445078168773881,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+526,Vivaan Singh,19,8.35,"Data Analysis, Cybersecurity",cybersecurity,Delhi,1,0,data analysis  cybersecurity,0.5435135311951618,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+527,Meera Das,22,6.24,Cybersecurity,ai,Coimbatore,3,3,cybersecurity,-0.9150172095356104,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+529,Ananya Chopra,21,5.18,Data Analysis,ai,Bangalore,5,2,data analysis,-1.6477388138837714,-0.2078380212352497,0.415246845885335,0.8638570708636665
+530,Vivaan Reddy,22,7.67,"Java, Cybersecurity",web dev,Madurai,1,0,java  cybersecurity,0.07346570953785138,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+531,Aarohi Iyer,25,9.03,Cybersecurity,ai,Bangalore,4,2,cybersecurity,1.013561352852472,1.587738836088718,0.415246845885335,0.2940305069694274
+532,Reyansh Das,24,7.79,"Web Dev, Python",web dev,Madurai,3,0,web dev  python,0.15641532512443568,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+533,Diya Chopra,21,6.35,"ML, Cybersecurity, Data Analysis",cybersecurity,Madurai,2,0,ml  cybersecurity  data analysis,-0.8389800619145752,-0.2078380212352497,-1.3517610089458778,-0.8456226208190508
+534,Ishaan Gupta,24,6.16,"Cybersecurity, Web Dev, ML",ai,Chennai,2,0,cybersecurity  web dev  ml,-0.9703169532599999,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+535,Ira Das,18,5.61,"Web Dev, Cybersecurity, Data Analysis",data science,Mumbai,6,0,web dev  cybersecurity  data analysis,-1.3505026913651774,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+536,Arjun Gupta,22,5.44,Data Analysis,data science,Mumbai,1,0,data analysis,-1.468014646779505,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+537,Aadhya Joshi,20,5.21,"Data Analysis, Cybersecurity, Java",web dev,Delhi,2,3,data analysis  cybersecurity  java,-1.627001409987125,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+538,Krishna Sharma,22,7.4,"Cybersecurity, Data Analysis, Java, Web Dev",ai,Mumbai,3,2,cybersecurity  data analysis  java  web dev,-0.11317092553196283,0.24105619309574222,0.415246845885335,-0.27579605692481174
+539,Kavya Patel,23,9.76,"ML, Cybersecurity, Web Dev",ai,Delhi,2,0,ml  cybersecurity  web dev,1.5181715143375265,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+540,Ishaan Singh,18,7.9,"Cybersecurity, Web Dev",cybersecurity,Mumbai,3,1,cybersecurity  web dev,0.23245247274547143,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+541,Saanvi Iyer,24,8.33,"Java, Web Dev, Cybersecurity",data science,Chennai,4,2,java  web dev  cybersecurity,0.5296885952640646,1.1388446217577262,0.415246845885335,0.2940305069694274
+543,Aditya Kumar,19,6.01,"Java, Data Analysis, ML",data science,Madurai,2,0,java  data analysis  ml,-1.0740039727432305,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+546,Diya Mehta,19,8.31,Java,web dev,Coimbatore,2,2,java,0.5158636593329676,-1.1056264498972335,0.415246845885335,-0.8456226208190508
+547,Aadhya Mehta,19,5.09,"Java, Data Analysis, Cybersecurity, Python",cybersecurity,Madurai,2,0,java  data analysis  cybersecurity  python,-1.7099510255737094,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+548,Sai Singh,19,9.34,Python,cybersecurity,Madurai,1,3,python,1.2278478597844817,-1.1056264498972335,1.2987507733009414,-1.41544918471329
+550,Aditya Reddy,18,8.0,"Cybersecurity, ML, Web Dev, Java",cybersecurity,Bangalore,6,0,cybersecurity  ml  web dev  java,0.301577152400958,-1.5545206642282254,-1.3517610089458778,1.4336836347579056
+551,Aarav Sharma,25,8.26,"Cybersecurity, Data Analysis",ai,Madurai,2,1,cybersecurity  data analysis,0.4813013195052237,1.587738836088718,-0.4682570815302714,-0.8456226208190508
+553,Krishna Kumar,18,9.33,"Data Analysis, Java, Python",cybersecurity,Delhi,1,3,data analysis  java  python,1.2209353918189332,-1.5545206642282254,1.2987507733009414,-1.41544918471329
+554,Diya Reddy,22,8.91,Python,data science,Madurai,5,2,python,0.9306117372658884,0.24105619309574222,0.415246845885335,0.8638570708636665
+555,Riya Chopra,18,5.55,"ML, Java, Data Analysis",cybersecurity,Madurai,2,0,ml  java  data analysis,-1.39197749915847,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+557,Aarav Nair,23,9.51,"Python, Data Analysis",ai,Bangalore,5,0,python  data analysis,1.3453598151988093,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+558,Ananya Bhat,24,7.18,Web Dev,ai,Mumbai,3,0,web dev,-0.26524522077403434,1.1388446217577262,-1.3517610089458778,-0.27579605692481174
+559,Arjun Das,25,6.48,Python,ai,Bangalore,1,0,python,-0.7491179783624418,1.587738836088718,-1.3517610089458778,-1.41544918471329
+560,Riya Mehta,24,8.15,Web Dev,data science,Bangalore,2,2,web dev,0.40526417188418856,1.1388446217577262,0.415246845885335,-0.8456226208190508
+561,Reyansh Kumar,24,8.48,Data Analysis,cybersecurity,Mumbai,4,0,data analysis,0.6333756147472952,1.1388446217577262,-1.3517610089458778,0.2940305069694274
+562,Arjun Das,18,7.98,"Web Dev, Cybersecurity, Java",cybersecurity,Hyderabad,1,2,web dev  cybersecurity  java,0.28775221646986093,-1.5545206642282254,0.415246845885335,-1.41544918471329
+563,Arjun Iyer,21,5.07,Data Analysis,ai,Hyderabad,3,2,data analysis,-1.7237759615048065,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+564,Arjun Gupta,25,8.34,"Web Dev, Java",data science,Hyderabad,2,1,web dev  java,0.5366010632296132,1.587738836088718,-0.4682570815302714,-0.8456226208190508
+565,Ira Kumar,23,7.5,"Cybersecurity, ML, Data Analysis",web dev,Chennai,5,1,cybersecurity  ml  data analysis,-0.04404624587647622,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+567,Kavya Reddy,22,9.07,Web Dev,ai,Mumbai,1,3,web dev,1.0412112247146674,0.24105619309574222,1.2987507733009414,-1.41544918471329
+569,Vivaan Verma,21,7.38,"Python, Data Analysis",data science,Hyderabad,3,3,python  data analysis,-0.12699586146306052,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+570,Aadhya Mehta,24,9.06,Python,ai,Chennai,2,3,python,1.0342987567491189,1.1388446217577262,1.2987507733009414,-0.8456226208190508
+571,Reyansh Das,20,7.61,"Data Analysis, Cybersecurity",cybersecurity,Delhi,5,2,data analysis  cybersecurity,0.031990901744559534,-0.6567322355662416,0.415246845885335,0.8638570708636665
+573,Arjun Mehta,24,6.22,"ML, Data Analysis, Cybersecurity, Web Dev",cybersecurity,Hyderabad,3,2,ml  data analysis  cybersecurity  web dev,-0.9288421454667081,1.1388446217577262,0.415246845885335,-0.27579605692481174
+574,Aarohi Das,24,5.99,"Python, Java",ai,Hyderabad,5,1,python  java,-1.0878289086743276,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+576,Saanvi Nair,25,7.62,Cybersecurity,web dev,Bangalore,6,2,cybersecurity,0.03890336971010807,1.587738836088718,0.415246845885335,1.4336836347579056
+577,Kavya Verma,22,9.02,"ML, Python, Web Dev, Java",data science,Chennai,3,3,ml  python  web dev  java,1.0066488848869235,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+578,Ira Bhat,25,5.45,"Cybersecurity, Data Analysis",ai,Bangalore,6,1,cybersecurity  data analysis,-1.4611021788139564,1.587738836088718,-0.4682570815302714,1.4336836347579056
+579,Krishna Gupta,19,6.36,"Cybersecurity, ML, Java",ai,Chennai,4,1,cybersecurity  ml  java,-0.8320675939490261,-1.1056264498972335,-0.4682570815302714,0.2940305069694274
+580,Sai Iyer,18,7.61,"ML, Java, Python, Web Dev",data science,Coimbatore,4,1,ml  java  python  web dev,0.031990901744559534,-1.5545206642282254,-0.4682570815302714,0.2940305069694274
+581,Aadhya Patel,24,7.63,Web Dev,web dev,Delhi,1,1,web dev,0.04581583767565661,1.1388446217577262,-0.4682570815302714,-1.41544918471329
+582,Meera Mehta,22,6.28,"Python, ML",cybersecurity,Hyderabad,4,3,python  ml,-0.8873673376734156,0.24105619309574222,1.2987507733009414,0.2940305069694274
+583,Riya Verma,21,5.44,"ML, Data Analysis, Python, Java",ai,Chennai,6,0,ml  data analysis  python  java,-1.468014646779505,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+584,Meera Mehta,21,5.22,Web Dev,ai,Hyderabad,2,2,web dev,-1.6200889420215765,-0.2078380212352497,0.415246845885335,-0.8456226208190508
+585,Aditya Bhat,20,5.01,"Web Dev, Cybersecurity, Java",cybersecurity,Madurai,6,1,web dev  cybersecurity  java,-1.765250769298099,-0.6567322355662416,-0.4682570815302714,1.4336836347579056
+586,Saanvi Joshi,22,9.42,Java,cybersecurity,Madurai,1,1,java,1.2831476035088711,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+587,Kavya Chopra,18,8.23,"Cybersecurity, ML, Python",ai,Hyderabad,2,0,cybersecurity  ml  python,0.46056391560857807,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+588,Krishna Sharma,22,9.53,"Data Analysis, Cybersecurity, Web Dev",ai,Chennai,1,1,data analysis  cybersecurity  web dev,1.3591847511299064,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+589,Sai Gupta,20,8.9,"Cybersecurity, ML",ai,Madurai,2,3,cybersecurity  ml,0.92369926930034,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+590,Ishaan Kumar,20,9.26,ML,web dev,Bangalore,2,0,ml,1.1725481160600921,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+591,Ishaan Chopra,19,8.83,"Python, ML, Cybersecurity",ai,Hyderabad,2,0,python  ml  cybersecurity,0.8753119935414989,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+592,Riya Gupta,24,7.93,"ML, Python",ai,Delhi,1,2,ml  python,0.25318987664211706,1.1388446217577262,0.415246845885335,-1.41544918471329
+593,Aarohi Joshi,21,9.31,"Web Dev, Java, Cybersecurity, Data Analysis",web dev,Chennai,5,0,web dev  java  cybersecurity  data analysis,1.207110455887836,-0.2078380212352497,-1.3517610089458778,0.8638570708636665
+594,Meera Das,23,5.12,"Web Dev, ML, Cybersecurity",web dev,Madurai,3,3,web dev  ml  cybersecurity,-1.6892136216770632,0.6899504074267342,1.2987507733009414,-0.27579605692481174
+595,Meera Singh,24,7.73,"ML, Java, Web Dev",cybersecurity,Delhi,2,0,ml  java  web dev,0.11494051733114383,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+596,Ira Patel,23,8.16,"Cybersecurity, Web Dev, Java",web dev,Coimbatore,1,1,cybersecurity  web dev  java,0.41217663984973707,0.6899504074267342,-0.4682570815302714,-1.41544918471329
+597,Diya Das,18,9.94,"Cybersecurity, Java, Web Dev",data science,Mumbai,3,2,cybersecurity  java  web dev,1.6425959377174026,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+598,Arjun Bhat,22,8.38,"Web Dev, ML, Cybersecurity",data science,Hyderabad,2,1,web dev  ml  cybersecurity,0.5642509350918086,0.24105619309574222,-0.4682570815302714,-0.8456226208190508
+599,Aarohi Bhat,22,8.59,Web Dev,ai,Chennai,1,2,web dev,0.7094127623683303,0.24105619309574222,0.415246845885335,-1.41544918471329
+600,Meera Reddy,24,6.71,Cybersecurity,ai,Coimbatore,6,2,cybersecurity,-0.5901312151548224,1.1388446217577262,0.415246845885335,1.4336836347579056
+601,Ananya Bhat,21,8.62,"Data Analysis, Cybersecurity",web dev,Hyderabad,2,3,data analysis  cybersecurity,0.730150166264976,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+603,Riya Verma,22,9.47,"Cybersecurity, Web Dev",cybersecurity,Coimbatore,3,0,cybersecurity  web dev,1.317709943336615,0.24105619309574222,-1.3517610089458778,-0.27579605692481174
+604,Ira Bhat,25,6.83,"Cybersecurity, Python, ML",cybersecurity,Bangalore,6,0,cybersecurity  python  ml,-0.507181599568238,1.587738836088718,-1.3517610089458778,1.4336836347579056
+605,Aadhya Iyer,24,5.35,Python,data science,Coimbatore,1,3,python,-1.5302268584694436,1.1388446217577262,1.2987507733009414,-1.41544918471329
+606,Riya Joshi,19,8.35,"Cybersecurity, Data Analysis",web dev,Hyderabad,4,2,cybersecurity  data analysis,0.5435135311951618,-1.1056264498972335,0.415246845885335,0.2940305069694274
+608,Vivaan Mehta,19,8.4,"Web Dev, Data Analysis, Java",web dev,Delhi,4,0,web dev  data analysis  java,0.5780758710229057,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+609,Ananya Sharma,19,6.67,"ML, Java, Python",web dev,Madurai,6,1,ml  java  python,-0.6177810870170171,-1.1056264498972335,-0.4682570815302714,1.4336836347579056
+610,Vivaan Bhat,24,6.89,"ML, Web Dev, Data Analysis",ai,Hyderabad,6,0,ml  web dev  data analysis,-0.4657067917749462,1.1388446217577262,-1.3517610089458778,1.4336836347579056
+612,Ira Reddy,25,7.9,"Web Dev, Cybersecurity, ML, Python",data science,Coimbatore,2,3,web dev  cybersecurity  ml  python,0.23245247274547143,1.587738836088718,1.2987507733009414,-0.8456226208190508
+613,Ishaan Das,22,5.88,"Data Analysis, Cybersecurity, Web Dev",web dev,Hyderabad,1,2,data analysis  cybersecurity  web dev,-1.1638660562953633,0.24105619309574222,0.415246845885335,-1.41544918471329
+614,Ira Gupta,25,7.05,Python,data science,Bangalore,6,0,python,-0.35510730432616716,1.587738836088718,-1.3517610089458778,1.4336836347579056
+615,Krishna Das,24,8.78,"Python, Data Analysis",cybersecurity,Hyderabad,1,3,python  data analysis,0.840749653713755,1.1388446217577262,1.2987507733009414,-1.41544918471329
+617,Ira Gupta,23,6.17,"Python, Data Analysis, Java, ML",ai,Chennai,4,2,python  data analysis  java  ml,-0.9634044852944513,0.6899504074267342,0.415246845885335,0.2940305069694274
+618,Sai Bhat,25,5.1,Cybersecurity,ai,Coimbatore,4,3,cybersecurity,-1.7030385576081608,1.587738836088718,1.2987507733009414,0.2940305069694274
+619,Ishaan Joshi,25,7.7,"Python, Java, ML, Data Analysis",ai,Mumbai,1,1,python  java  ml  data analysis,0.0942031134344976,1.587738836088718,-0.4682570815302714,-1.41544918471329
+620,Reyansh Sharma,22,5.46,"Cybersecurity, Data Analysis, Python, ML",ai,Chennai,6,1,cybersecurity  data analysis  python  ml,-1.4541897108484079,0.24105619309574222,-0.4682570815302714,1.4336836347579056
+621,Sai Bhat,25,8.78,"Web Dev, Python, Java",data science,Bangalore,1,0,web dev  python  java,0.840749653713755,1.587738836088718,-1.3517610089458778,-1.41544918471329
+622,Meera Gupta,25,7.53,"ML, Data Analysis, Python, Java",ai,Delhi,4,1,ml  data analysis  python  java,-0.02330884197982999,1.587738836088718,-0.4682570815302714,0.2940305069694274
+623,Aarav Das,22,5.18,Cybersecurity,ai,Mumbai,1,2,cybersecurity,-1.6477388138837714,0.24105619309574222,0.415246845885335,-1.41544918471329
+624,Aditya Singh,19,6.71,Data Analysis,data science,Delhi,1,0,data analysis,-0.5901312151548224,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+625,Aditya Patel,19,9.68,"ML, Cybersecurity, Python, Java",web dev,Delhi,1,0,ml  cybersecurity  python  java,1.462871770613137,-1.1056264498972335,-1.3517610089458778,-1.41544918471329
+627,Reyansh Verma,19,8.0,Python,cybersecurity,Delhi,6,2,python,0.301577152400958,-1.1056264498972335,0.415246845885335,1.4336836347579056
+629,Ira Reddy,22,6.96,"Java, Cybersecurity",data science,Coimbatore,4,2,java  cybersecurity,-0.41731951601610523,0.24105619309574222,0.415246845885335,0.2940305069694274
+630,Arjun Reddy,18,5.58,Web Dev,cybersecurity,Mumbai,2,0,web dev,-1.3712400952618238,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+631,Aditya Patel,20,8.37,Data Analysis,ai,Coimbatore,2,1,data analysis,0.5573384671262588,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+632,Kavya Singh,23,9.03,"Java, Cybersecurity, Python",data science,Delhi,4,1,java  cybersecurity  python,1.013561352852472,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+633,Aditya Kumar,18,6.61,"ML, Cybersecurity, Data Analysis",data science,Mumbai,3,1,ml  cybersecurity  data analysis,-0.659255894810309,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+634,Reyansh Nair,20,8.47,"Data Analysis, ML, Java",ai,Madurai,2,1,data analysis  ml  java,0.6264631467817466,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+635,Krishna Bhat,21,7.87,"Cybersecurity, ML",data science,Hyderabad,2,0,cybersecurity  ml,0.21171506884882518,-0.2078380212352497,-1.3517610089458778,-0.8456226208190508
+636,Saanvi Reddy,19,5.66,"ML, Cybersecurity, Web Dev",data science,Hyderabad,6,0,ml  cybersecurity  web dev,-1.3159403515374342,-1.1056264498972335,-1.3517610089458778,1.4336836347579056
+637,Diya Gupta,21,8.03,Java,ai,Hyderabad,1,1,java,0.32231455629760364,-0.2078380212352497,-0.4682570815302714,-1.41544918471329
+639,Aditya Chopra,20,9.76,Python,ai,Hyderabad,6,0,python,1.5181715143375265,-0.6567322355662416,-1.3517610089458778,1.4336836347579056
+640,Meera Bhat,22,6.84,"Python, Web Dev",data science,Delhi,5,1,python  web dev,-0.5002691316026895,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+641,Kavya Das,21,5.68,"Data Analysis, ML",web dev,Hyderabad,4,0,data analysis  ml,-1.302115415606337,-0.2078380212352497,-1.3517610089458778,0.2940305069694274
+642,Diya Reddy,21,8.88,"Web Dev, Cybersecurity, Python, Java",data science,Delhi,4,0,web dev  cybersecurity  python  java,0.9098743333692428,-0.2078380212352497,-1.3517610089458778,0.2940305069694274
+643,Aarav Das,24,7.53,"Web Dev, Java",web dev,Bangalore,2,0,web dev  java,-0.02330884197982999,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
+644,Sai Reddy,21,9.26,"Cybersecurity, ML",data science,Chennai,5,2,cybersecurity  ml,1.1725481160600921,-0.2078380212352497,0.415246845885335,0.8638570708636665
+645,Krishna Bhat,23,8.01,"Java, Python, Data Analysis, Cybersecurity",web dev,Chennai,3,2,java  python  data analysis  cybersecurity,0.30848962036650657,0.6899504074267342,0.415246845885335,-0.27579605692481174
+646,Ishaan Iyer,20,7.82,"ML, Cybersecurity, Web Dev",ai,Chennai,2,1,ml  cybersecurity  web dev,0.1771527290210819,-0.6567322355662416,-0.4682570815302714,-0.8456226208190508
+647,Aadhya Verma,18,5.29,"Cybersecurity, Data Analysis, Java",cybersecurity,Mumbai,3,1,cybersecurity  data analysis  java,-1.5717016662627357,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+648,Meera Singh,22,8.1,Web Dev,data science,Bangalore,1,2,web dev,0.37070183205644464,0.24105619309574222,0.415246845885335,-1.41544918471329
+649,Krishna Iyer,20,5.85,"Data Analysis, Cybersecurity, ML, Java",ai,Delhi,5,0,data analysis  cybersecurity  ml  java,-1.1846034601920095,-0.6567322355662416,-1.3517610089458778,0.8638570708636665
+650,Reyansh Gupta,21,6.52,"Java, Python",data science,Coimbatore,3,2,java  python,-0.7214681065002476,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+651,Reyansh Reddy,25,8.46,"Data Analysis, Web Dev",ai,Mumbai,1,3,data analysis  web dev,0.6195506788161981,1.587738836088718,1.2987507733009414,-1.41544918471329
+652,Krishna Mehta,21,9.98,"Cybersecurity, Python, ML",cybersecurity,Bangalore,1,0,cybersecurity  python  ml,1.670245809579598,-0.2078380212352497,-1.3517610089458778,-1.41544918471329
+654,Vivaan Reddy,21,7.64,"Java, Web Dev",ai,Delhi,2,2,java  web dev,0.05272830564120515,-0.2078380212352497,0.415246845885335,-0.8456226208190508
+656,Aarav Chopra,22,6.77,"Python, Java, ML",cybersecurity,Hyderabad,3,3,python  java  ml,-0.5486564073615305,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+657,Kavya Reddy,23,9.14,"ML, Web Dev",web dev,Hyderabad,5,0,ml  web dev,1.0895985004735085,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+658,Sai Nair,23,9.82,"Java, Data Analysis, ML",ai,Coimbatore,2,1,java  data analysis  ml,1.5596463221308188,0.6899504074267342,-0.4682570815302714,-0.8456226208190508
+659,Meera Mehta,20,7.09,"Python, Cybersecurity",web dev,Delhi,6,2,python  cybersecurity,-0.3274574324639724,-0.6567322355662416,0.415246845885335,1.4336836347579056
+660,Ira Das,22,8.8,"Java, Web Dev, Python, ML",cybersecurity,Delhi,2,3,java  web dev  python  ml,0.8545745896448533,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+661,Vivaan Bhat,24,8.09,Python,cybersecurity,Mumbai,5,0,python,0.3637893640908961,1.1388446217577262,-1.3517610089458778,0.8638570708636665
+662,Reyansh Nair,19,6.21,Cybersecurity,cybersecurity,Delhi,5,0,cybersecurity,-0.9357546134322566,-1.1056264498972335,-1.3517610089458778,0.8638570708636665
+663,Aarohi Singh,19,5.32,Cybersecurity,cybersecurity,Coimbatore,4,0,cybersecurity,-1.5509642623660893,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+664,Kavya Bhat,20,6.33,"Data Analysis, Web Dev, Python, Java",web dev,Madurai,3,2,data analysis  web dev  python  java,-0.8528049978456723,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+665,Kavya Bhat,22,9.22,"Python, Data Analysis",cybersecurity,Madurai,5,1,python  data analysis,1.144898244197898,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+666,Ishaan Sharma,23,5.75,Web Dev,ai,Delhi,4,3,web dev,-1.253728139847496,0.6899504074267342,1.2987507733009414,0.2940305069694274
+667,Aarav Mehta,21,8.26,"Cybersecurity, Data Analysis",cybersecurity,Madurai,3,0,cybersecurity  data analysis,0.4813013195052237,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+668,Arjun Reddy,22,6.97,"Cybersecurity, Web Dev, Data Analysis, Java",cybersecurity,Delhi,6,1,cybersecurity  web dev  data analysis  java,-0.41040704805055667,0.24105619309574222,-0.4682570815302714,1.4336836347579056
+669,Saanvi Nair,22,9.78,"Cybersecurity, ML, Java",cybersecurity,Delhi,1,0,cybersecurity  ml  java,1.5319964502686234,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+670,Kavya Reddy,25,8.93,"Web Dev, Cybersecurity, ML",data science,Madurai,1,0,web dev  cybersecurity  ml,0.9444366731969855,1.587738836088718,-1.3517610089458778,-1.41544918471329
+671,Saanvi Bhat,18,9.04,"Cybersecurity, Java, Python, Data Analysis",web dev,Bangalore,5,0,cybersecurity  java  python  data analysis,1.0204738208180206,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+673,Vivaan Reddy,22,9.13,"Cybersecurity, Python, Web Dev, ML",cybersecurity,Delhi,2,3,cybersecurity  python  web dev  ml,1.08268603250796,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+674,Aarohi Verma,20,7.25,Data Analysis,web dev,Madurai,1,2,data analysis,-0.21685794501519334,-0.6567322355662416,0.415246845885335,-1.41544918471329
+675,Aditya Nair,18,5.33,Cybersecurity,cybersecurity,Bangalore,5,2,cybersecurity,-1.5440517944005407,-1.5545206642282254,0.415246845885335,0.8638570708636665
+676,Ira Patel,22,8.69,Java,cybersecurity,Bangalore,1,2,java,0.7785374420238169,0.24105619309574222,0.415246845885335,-1.41544918471329
+677,Aarav Kumar,22,5.24,"Java, Python, Cybersecurity",web dev,Mumbai,1,2,java  python  cybersecurity,-1.606264006090479,0.24105619309574222,0.415246845885335,-1.41544918471329
+678,Vivaan Singh,20,8.3,"Cybersecurity, Python",web dev,Chennai,3,3,cybersecurity  python,0.5089511913674191,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+681,Saanvi Singh,20,9.85,"Java, Web Dev, Cybersecurity",cybersecurity,Bangalore,3,2,java  web dev  cybersecurity,1.5803837260274645,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+682,Aarav Patel,20,5.93,"ML, Web Dev",ai,Delhi,3,1,ml  web dev,-1.1293037164676198,-0.6567322355662416,-0.4682570815302714,-0.27579605692481174
+685,Aarav Gupta,25,7.57,Data Analysis,ai,Bangalore,1,2,data analysis,0.004341029882364771,1.587738836088718,0.415246845885335,-1.41544918471329
+686,Krishna Das,25,8.85,"Data Analysis, ML",data science,Delhi,1,0,data analysis  ml,0.889136929472596,1.587738836088718,-1.3517610089458778,-1.41544918471329
+687,Aarav Chopra,19,8.34,"Java, Data Analysis, Python",cybersecurity,Mumbai,3,0,java  data analysis  python,0.5366010632296132,-1.1056264498972335,-1.3517610089458778,-0.27579605692481174
+688,Aadhya Verma,21,8.08,"ML, Data Analysis",data science,Coimbatore,6,0,ml  data analysis,0.35687689612534756,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+691,Saanvi Reddy,20,9.9,Python,ai,Mumbai,6,0,python,1.6149460658552084,-0.6567322355662416,-1.3517610089458778,1.4336836347579056
+692,Kavya Nair,22,9.6,Web Dev,ai,Hyderabad,4,1,web dev,1.4075720268887473,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+693,Kavya Singh,20,5.22,"ML, Web Dev, Data Analysis",cybersecurity,Coimbatore,1,3,ml  web dev  data analysis,-1.6200889420215765,-0.6567322355662416,1.2987507733009414,-1.41544918471329
+694,Ira Patel,19,6.12,"Java, Web Dev, Cybersecurity, Python",cybersecurity,Bangalore,1,3,java  web dev  cybersecurity  python,-0.9979668251221947,-1.1056264498972335,1.2987507733009414,-1.41544918471329
+695,Vivaan Iyer,20,7.75,"ML, Java, Cybersecurity",ai,Mumbai,2,0,ml  java  cybersecurity,0.1287654532622409,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+697,Arjun Singh,22,8.38,"Web Dev, Data Analysis, Java",data science,Coimbatore,3,1,web dev  data analysis  java,0.5642509350918086,0.24105619309574222,-0.4682570815302714,-0.27579605692481174
+698,Ananya Gupta,18,8.23,"Data Analysis, Java, ML",cybersecurity,Coimbatore,3,1,data analysis  java  ml,0.46056391560857807,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+699,Aarohi Chopra,25,6.58,"Data Analysis, ML, Cybersecurity",cybersecurity,Coimbatore,1,3,data analysis  ml  cybersecurity,-0.6799932987069551,1.587738836088718,1.2987507733009414,-1.41544918471329
+700,Reyansh Nair,18,7.72,"Python, Data Analysis",web dev,Delhi,5,0,python  data analysis,0.10802804936559468,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+703,Kavya Patel,20,6.6,"Web Dev, Cybersecurity, Python",cybersecurity,Chennai,6,2,web dev  cybersecurity  python,-0.6661683627758581,-0.6567322355662416,0.415246845885335,1.4336836347579056
+704,Sai Sharma,18,9.69,"Data Analysis, ML",ai,Bangalore,5,0,data analysis  ml,1.4697842385786855,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+705,Aadhya Patel,19,5.54,"Data Analysis, Web Dev, Cybersecurity",data science,Chennai,5,2,data analysis  web dev  cybersecurity,-1.3988899671240185,-1.1056264498972335,0.415246845885335,0.8638570708636665
+706,Aarohi Verma,21,9.09,"Cybersecurity, Web Dev, Java",web dev,Hyderabad,3,2,cybersecurity  web dev  java,1.0550361606457646,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+707,Diya Singh,25,6.71,"Cybersecurity, Web Dev, ML",cybersecurity,Chennai,6,2,cybersecurity  web dev  ml,-0.5901312151548224,1.587738836088718,0.415246845885335,1.4336836347579056
+708,Meera Nair,22,7.95,"ML, Java, Web Dev",data science,Bangalore,3,2,ml  java  web dev,0.26701481257321474,0.24105619309574222,0.415246845885335,-0.27579605692481174
+709,Meera Joshi,23,7.83,Python,web dev,Madurai,5,1,python,0.18406519698663043,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+710,Krishna Singh,24,7.89,"Cybersecurity, Data Analysis, Web Dev",cybersecurity,Madurai,1,3,cybersecurity  data analysis  web dev,0.22554000477992228,1.1388446217577262,1.2987507733009414,-1.41544918471329
+711,Riya Bhat,22,5.8,"Cybersecurity, Web Dev, ML",cybersecurity,Coimbatore,2,1,cybersecurity  web dev  ml,-1.2191658000197527,0.24105619309574222,-0.4682570815302714,-0.8456226208190508
+712,Sai Joshi,25,9.06,Java,web dev,Mumbai,4,0,java,1.0342987567491189,1.587738836088718,-1.3517610089458778,0.2940305069694274
+713,Ananya Chopra,20,9.96,Java,web dev,Bangalore,3,3,java,1.6564208736485009,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+714,Arjun Verma,25,9.0,ML,ai,Chennai,3,0,ml,0.9928239489558265,1.587738836088718,-1.3517610089458778,-0.27579605692481174
+715,Meera Iyer,19,8.71,Python,data science,Delhi,6,2,python,0.7923623779549153,-1.1056264498972335,0.415246845885335,1.4336836347579056
+716,Reyansh Verma,20,5.94,"Data Analysis, Java, Web Dev, Cybersecurity",data science,Bangalore,1,3,data analysis  java  web dev  cybersecurity,-1.1223912485020708,-0.6567322355662416,1.2987507733009414,-1.41544918471329
+717,Reyansh Reddy,22,7.69,"Python, Cybersecurity",data science,Hyderabad,4,1,python  cybersecurity,0.08729064546894906,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+719,Sai Nair,18,5.06,"Cybersecurity, Web Dev, ML, Data Analysis",data science,Madurai,1,1,cybersecurity  web dev  ml  data analysis,-1.7306884294703555,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+720,Kavya Iyer,22,6.84,"Python, ML",data science,Madurai,3,3,python  ml,-0.5002691316026895,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+723,Kavya Patel,22,8.22,ML,data science,Delhi,2,3,ml,0.45365144764302956,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+724,Krishna Bhat,23,7.97,Web Dev,data science,Coimbatore,5,1,web dev,0.2808397485043118,0.6899504074267342,-0.4682570815302714,0.8638570708636665
+725,Aarohi Iyer,22,5.01,"ML, Java, Web Dev, Data Analysis",cybersecurity,Hyderabad,5,1,ml  java  web dev  data analysis,-1.765250769298099,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+726,Meera Kumar,23,5.83,"Python, ML, Java",data science,Madurai,4,0,python  ml  java,-1.1984283961231066,0.6899504074267342,-1.3517610089458778,0.2940305069694274
+727,Ananya Mehta,22,5.46,"Python, Java",web dev,Madurai,4,0,python  java,-1.4541897108484079,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+729,Aadhya Sharma,19,7.81,"Python, Web Dev",ai,Coimbatore,4,3,python  web dev,0.17024026105553275,-1.1056264498972335,1.2987507733009414,0.2940305069694274
+730,Arjun Patel,23,7.43,"Java, ML, Python",web dev,Chennai,6,1,java  ml  python,-0.0924335216353172,0.6899504074267342,-0.4682570815302714,1.4336836347579056
+731,Reyansh Sharma,20,6.35,"Java, Data Analysis, ML, Cybersecurity",cybersecurity,Madurai,4,2,java  data analysis  ml  cybersecurity,-0.8389800619145752,-0.6567322355662416,0.415246845885335,0.2940305069694274
+732,Riya Chopra,18,8.18,Data Analysis,ai,Hyderabad,3,1,data analysis,0.42600157578083414,-1.5545206642282254,-0.4682570815302714,-0.27579605692481174
+733,Reyansh Sharma,25,6.67,"ML, Python, Cybersecurity",web dev,Coimbatore,6,1,ml  python  cybersecurity,-0.6177810870170171,1.587738836088718,-0.4682570815302714,1.4336836347579056
+734,Ananya Joshi,23,6.05,"Python, Cybersecurity, Java, ML",cybersecurity,Coimbatore,4,3,python  cybersecurity  java  ml,-1.0463541008810358,0.6899504074267342,1.2987507733009414,0.2940305069694274
+735,Vivaan Kumar,20,7.2,"Cybersecurity, Python, Java, ML",cybersecurity,Mumbai,4,1,cybersecurity  python  java  ml,-0.25142028484293666,-0.6567322355662416,-0.4682570815302714,0.2940305069694274
+736,Diya Singh,24,8.68,"Cybersecurity, Python",ai,Madurai,1,1,cybersecurity  python,0.7716249740582684,1.1388446217577262,-0.4682570815302714,-1.41544918471329
+737,Kavya Das,24,6.1,"Java, Data Analysis, Python",web dev,Chennai,3,3,java  data analysis  python,-1.0117917610532923,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+738,Krishna Das,20,8.83,"Data Analysis, Python, Java, ML",ai,Bangalore,1,3,data analysis  python  java  ml,0.8753119935414989,-0.6567322355662416,1.2987507733009414,-1.41544918471329
+739,Krishna Sharma,23,8.21,Web Dev,cybersecurity,Mumbai,1,1,web dev,0.446738979677481,0.6899504074267342,-0.4682570815302714,-1.41544918471329
+740,Reyansh Singh,21,7.48,Java,web dev,Bangalore,3,2,java,-0.057871181807573294,-0.2078380212352497,0.415246845885335,-0.27579605692481174
+742,Reyansh Chopra,24,7.86,Java,cybersecurity,Coimbatore,5,0,java,0.20480260088327665,1.1388446217577262,-1.3517610089458778,0.8638570708636665
+743,Aadhya Iyer,21,6.81,"ML, Java, Python",cybersecurity,Madurai,2,2,ml  java  python,-0.5210065354993357,-0.2078380212352497,0.415246845885335,-0.8456226208190508
+744,Reyansh Patel,22,8.5,ML,cybersecurity,Delhi,6,1,ml,0.6472005506783922,0.24105619309574222,-0.4682570815302714,1.4336836347579056
+745,Diya Iyer,23,6.37,"Java, Web Dev, Cybersecurity, Data Analysis",data science,Madurai,1,2,java  web dev  cybersecurity  data analysis,-0.8251551259834775,0.6899504074267342,0.415246845885335,-1.41544918471329
+746,Riya Patel,22,8.91,"Python, Web Dev",web dev,Bangalore,3,1,python  web dev,0.9306117372658884,0.24105619309574222,-0.4682570815302714,-0.27579605692481174
+747,Diya Joshi,20,7.15,"Web Dev, Data Analysis, ML",ai,Hyderabad,3,0,web dev  data analysis  ml,-0.2859826246706799,-0.6567322355662416,-1.3517610089458778,-0.27579605692481174
+748,Ira Mehta,22,7.31,"Python, Web Dev",data science,Hyderabad,4,0,python  web dev,-0.1753831372219015,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+751,Aadhya Verma,24,7.48,Web Dev,ai,Chennai,1,3,web dev,-0.057871181807573294,1.1388446217577262,1.2987507733009414,-1.41544918471329
+752,Reyansh Reddy,18,5.04,Java,ai,Bangalore,1,1,java,-1.7445133654014526,-1.5545206642282254,-0.4682570815302714,-1.41544918471329
+753,Ishaan Verma,23,8.05,Web Dev,cybersecurity,Mumbai,4,0,web dev,0.33613949222870193,0.6899504074267342,-1.3517610089458778,0.2940305069694274
+754,Kavya Iyer,24,9.61,"Python, Data Analysis, Java",ai,Chennai,1,3,python  data analysis  java,1.4144844948542958,1.1388446217577262,1.2987507733009414,-1.41544918471329
+755,Ishaan Das,22,5.34,"Python, ML, Cybersecurity, Java",cybersecurity,Hyderabad,4,1,python  ml  cybersecurity  java,-1.5371393264349922,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+756,Saanvi Bhat,23,5.18,Web Dev,data science,Delhi,3,2,web dev,-1.6477388138837714,0.6899504074267342,0.415246845885335,-0.27579605692481174
+757,Vivaan Chopra,21,8.94,Data Analysis,ai,Coimbatore,2,3,data analysis,0.9513491411625341,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+758,Ira Verma,25,8.8,Cybersecurity,web dev,Delhi,2,0,cybersecurity,0.8545745896448533,1.587738836088718,-1.3517610089458778,-0.8456226208190508
+759,Meera Kumar,22,6.34,"Web Dev, Java",web dev,Delhi,1,0,web dev  java,-0.8458925298801238,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+760,Aarohi Chopra,21,5.17,Cybersecurity,data science,Mumbai,4,1,cybersecurity,-1.6546512818493198,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+762,Aadhya Das,19,7.06,"Web Dev, Cybersecurity",cybersecurity,Madurai,6,2,web dev  cybersecurity,-0.3481948363606186,-1.1056264498972335,0.415246845885335,1.4336836347579056
+763,Aadhya Iyer,24,5.11,"Data Analysis, ML, Web Dev",data science,Delhi,3,3,data analysis  ml  web dev,-1.6961260896426116,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+764,Krishna Nair,25,7.8,"ML, Web Dev",data science,Madurai,5,1,ml  web dev,0.1633277930899842,1.587738836088718,-0.4682570815302714,0.8638570708636665
+765,Riya Gupta,19,7.09,"Python, Cybersecurity, Data Analysis, ML",ai,Delhi,6,0,python  cybersecurity  data analysis  ml,-0.3274574324639724,-1.1056264498972335,-1.3517610089458778,1.4336836347579056
+766,Reyansh Patel,22,9.91,Data Analysis,web dev,Coimbatore,2,0,data analysis,1.621858533820757,0.24105619309574222,-1.3517610089458778,-0.8456226208190508
+768,Riya Singh,18,7.32,"Java, Data Analysis",data science,Delhi,1,0,java  data analysis,-0.16847066925635235,-1.5545206642282254,-1.3517610089458778,-1.41544918471329
+769,Krishna Kumar,25,9.84,"Data Analysis, Python, ML",web dev,Mumbai,5,0,data analysis  python  ml,1.573471258061916,1.587738836088718,-1.3517610089458778,0.8638570708636665
+770,Aditya Chopra,18,5.76,"ML, Java, Cybersecurity",ai,Delhi,4,2,ml  java  cybersecurity,-1.2468156718819476,-1.5545206642282254,0.415246845885335,0.2940305069694274
+772,Arjun Joshi,18,7.62,"Cybersecurity, Web Dev",ai,Mumbai,5,0,cybersecurity  web dev,0.03890336971010807,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+773,Meera Sharma,19,7.02,"Web Dev, Python, Data Analysis",web dev,Madurai,3,0,web dev  python  data analysis,-0.3758447082228134,-1.1056264498972335,-1.3517610089458778,-0.27579605692481174
+774,Ira Chopra,24,8.54,"Java, Python",cybersecurity,Bangalore,1,1,java  python,0.6748504225405865,1.1388446217577262,-0.4682570815302714,-1.41544918471329
+775,Ira Verma,23,6.13,"ML, Data Analysis",cybersecurity,Coimbatore,2,0,ml  data analysis,-0.9910543571566461,0.6899504074267342,-1.3517610089458778,-0.8456226208190508
+776,Reyansh Singh,19,5.83,ML,ai,Delhi,2,1,ml,-1.1984283961231066,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+777,Meera Patel,25,6.08,ML,cybersecurity,Hyderabad,2,1,ml,-1.0256166969843894,1.587738836088718,-0.4682570815302714,-0.8456226208190508
+778,Reyansh Bhat,25,7.06,"ML, Web Dev",web dev,Bangalore,5,2,ml  web dev,-0.3481948363606186,1.587738836088718,0.415246845885335,0.8638570708636665
+780,Aditya Patel,20,7.3,"Data Analysis, Web Dev, Python, ML",cybersecurity,Bangalore,3,2,data analysis  web dev  python  ml,-0.18229560518745003,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+783,Krishna Kumar,23,5.09,"Java, Python, Web Dev",ai,Coimbatore,5,2,java  python  web dev,-1.7099510255737094,0.6899504074267342,0.415246845885335,0.8638570708636665
+785,Kavya Sharma,22,7.26,"Java, Web Dev, Cybersecurity",web dev,Delhi,2,3,java  web dev  cybersecurity,-0.2099454770496448,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+786,Ira Bhat,19,7.79,"Web Dev, ML, Java",ai,Bangalore,2,0,web dev  ml  java,0.15641532512443568,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+787,Ira Sharma,25,7.32,"Java, Python, Data Analysis",web dev,Hyderabad,4,0,java  python  data analysis,-0.16847066925635235,1.587738836088718,-1.3517610089458778,0.2940305069694274
+789,Saanvi Joshi,21,7.26,Python,data science,Hyderabad,3,1,python,-0.2099454770496448,-0.2078380212352497,-0.4682570815302714,-0.27579605692481174
+790,Meera Kumar,20,8.88,"Web Dev, Python, Data Analysis, Java",ai,Coimbatore,3,2,web dev  python  data analysis  java,0.9098743333692428,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+791,Ishaan Iyer,25,5.93,"Web Dev, Python, Cybersecurity, ML",data science,Madurai,4,3,web dev  python  cybersecurity  ml,-1.1293037164676198,1.587738836088718,1.2987507733009414,0.2940305069694274
+794,Ananya Kumar,19,5.79,"Data Analysis, ML",web dev,Chennai,4,1,data analysis  ml,-1.2260782679853013,-1.1056264498972335,-0.4682570815302714,0.2940305069694274
+795,Meera Iyer,21,5.83,"ML, Java",web dev,Bangalore,3,0,ml  java,-1.1984283961231066,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+796,Diya Nair,20,9.49,"ML, Web Dev, Java",web dev,Mumbai,3,3,ml  web dev  java,1.3315348792677122,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+797,Reyansh Nair,23,5.7,"Java, Data Analysis",web dev,Bangalore,1,2,java  data analysis,-1.2882904796752395,0.6899504074267342,0.415246845885335,-1.41544918471329
+798,Reyansh Das,25,6.82,"Data Analysis, Python",ai,Coimbatore,4,3,data analysis  python,-0.5140940675337866,1.587738836088718,1.2987507733009414,0.2940305069694274
+799,Aadhya Joshi,20,6.57,"Cybersecurity, Python",data science,Bangalore,6,1,cybersecurity  python,-0.6869057666725037,-0.6567322355662416,-0.4682570815302714,1.4336836347579056
+800,Aarohi Patel,23,5.42,"Cybersecurity, Data Analysis, Java, Python",ai,Coimbatore,1,3,cybersecurity  data analysis  java  python,-1.4818395827106028,0.6899504074267342,1.2987507733009414,-1.41544918471329
+801,Sai Sharma,20,7.53,"Web Dev, Cybersecurity, Java",web dev,Coimbatore,1,2,web dev  cybersecurity  java,-0.02330884197982999,-0.6567322355662416,0.415246845885335,-1.41544918471329
+802,Aarav Singh,22,9.92,Cybersecurity,cybersecurity,Coimbatore,5,1,cybersecurity,1.6287710017863055,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+803,Ira Joshi,22,6.62,"Cybersecurity, Data Analysis, Java, ML",cybersecurity,Bangalore,4,1,cybersecurity  data analysis  java  ml,-0.6523434268447604,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+804,Reyansh Reddy,19,7.14,"Java, Python",cybersecurity,Hyderabad,3,0,java  python,-0.2928950926362291,-1.1056264498972335,-1.3517610089458778,-0.27579605692481174
+805,Aarav Patel,18,5.47,"Java, Cybersecurity, Web Dev, Python",web dev,Bangalore,4,0,java  cybersecurity  web dev  python,-1.4472772428828595,-1.5545206642282254,-1.3517610089458778,0.2940305069694274
+807,Vivaan Nair,22,9.87,"Cybersecurity, Data Analysis, ML, Web Dev",ai,Delhi,4,0,cybersecurity  data analysis  ml  web dev,1.5942086619585616,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+808,Arjun Gupta,18,9.1,"Python, Java, ML, Data Analysis",ai,Delhi,2,1,python  java  ml  data analysis,1.0619486286113131,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+809,Meera Iyer,20,8.8,Java,data science,Bangalore,1,2,java,0.8545745896448533,-0.6567322355662416,0.415246845885335,-1.41544918471329
+810,Meera Patel,19,9.11,"ML, Java, Cybersecurity",data science,Delhi,4,0,ml  java  cybersecurity,1.0688610965768617,-1.1056264498972335,-1.3517610089458778,0.2940305069694274
+812,Ira Verma,21,6.68,"Web Dev, Cybersecurity",web dev,Bangalore,2,3,web dev  cybersecurity,-0.6108686190514686,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+813,Aarohi Singh,22,5.56,"Python, Java, ML, Data Analysis",web dev,Bangalore,2,1,python  java  ml  data analysis,-1.3850650311929213,0.24105619309574222,-0.4682570815302714,-0.8456226208190508
+814,Aditya Patel,18,6.2,"Cybersecurity, Java, Python",ai,Chennai,4,1,cybersecurity  java  python,-0.9426670813978051,-1.5545206642282254,-0.4682570815302714,0.2940305069694274
+815,Riya Das,18,8.7,"Python, Web Dev, ML",web dev,Bangalore,2,1,python  web dev  ml,0.7854499099893655,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+816,Meera Sharma,20,8.26,"Data Analysis, Web Dev",web dev,Coimbatore,6,0,data analysis  web dev,0.4813013195052237,-0.6567322355662416,-1.3517610089458778,1.4336836347579056
+817,Reyansh Reddy,22,9.03,ML,data science,Madurai,6,2,ml,1.013561352852472,0.24105619309574222,0.415246845885335,1.4336836347579056
+818,Riya Patel,20,8.17,"Python, Java",web dev,Chennai,4,0,python  java,0.41908910781528563,-0.6567322355662416,-1.3517610089458778,0.2940305069694274
+819,Ananya Sharma,25,5.53,"ML, Cybersecurity, Python, Data Analysis",cybersecurity,Coimbatore,3,3,ml  cybersecurity  python  data analysis,-1.405802435089567,1.587738836088718,1.2987507733009414,-0.27579605692481174
+820,Ishaan Nair,25,5.35,"ML, Cybersecurity, Web Dev, Python",ai,Coimbatore,6,0,ml  cybersecurity  web dev  python,-1.5302268584694436,1.587738836088718,-1.3517610089458778,1.4336836347579056
+821,Ananya Nair,21,6.14,"Python, Java",web dev,Chennai,3,3,python  java,-0.9841418891910976,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+822,Saanvi Sharma,19,7.56,"Python, Web Dev",data science,Madurai,6,2,python  web dev,-0.00257143808318438,-1.1056264498972335,0.415246845885335,1.4336836347579056
+823,Aditya Sharma,24,5.34,ML,web dev,Coimbatore,1,0,ml,-1.5371393264349922,1.1388446217577262,-1.3517610089458778,-1.41544918471329
+825,Aditya Bhat,21,6.16,"Data Analysis, Cybersecurity, ML",ai,Hyderabad,1,2,data analysis  cybersecurity  ml,-0.9703169532599999,-0.2078380212352497,0.415246845885335,-1.41544918471329
+826,Aarohi Joshi,21,8.32,Data Analysis,cybersecurity,Coimbatore,2,2,data analysis,0.5227761272985162,-0.2078380212352497,0.415246845885335,-0.8456226208190508
+827,Arjun Chopra,18,9.37,"Data Analysis, Web Dev, ML",web dev,Mumbai,3,2,data analysis  web dev  ml,1.2485852636811272,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+828,Ishaan Nair,20,5.55,Python,ai,Bangalore,6,1,python,-1.39197749915847,-0.6567322355662416,-0.4682570815302714,1.4336836347579056
+831,Aarav Verma,21,5.09,ML,ai,Mumbai,6,1,ml,-1.7099510255737094,-0.2078380212352497,-0.4682570815302714,1.4336836347579056
+832,Ishaan Bhat,23,6.4,"ML, Python, Data Analysis, Java",web dev,Chennai,1,2,ml  python  data analysis  java,-0.8044177220868313,0.6899504074267342,0.415246845885335,-1.41544918471329
+833,Ishaan Chopra,23,9.55,"Data Analysis, Python, Cybersecurity",data science,Delhi,2,2,data analysis  python  cybersecurity,1.3730096870610047,0.6899504074267342,0.415246845885335,-0.8456226208190508
+834,Aadhya Bhat,18,9.2,Python,data science,Madurai,5,2,python,1.1310733082667996,-1.5545206642282254,0.415246845885335,0.8638570708636665
+835,Meera Chopra,23,8.63,Java,web dev,Madurai,3,3,java,0.7370626342305258,0.6899504074267342,1.2987507733009414,-0.27579605692481174
+836,Aadhya Das,24,7.66,"ML, Python, Java, Cybersecurity",web dev,Mumbai,3,2,ml  python  java  cybersecurity,0.06655324157230284,1.1388446217577262,0.415246845885335,-0.27579605692481174
+837,Riya Joshi,21,5.56,"ML, Cybersecurity, Python",data science,Delhi,6,0,ml  cybersecurity  python,-1.3850650311929213,-0.2078380212352497,-1.3517610089458778,1.4336836347579056
+838,Aadhya Iyer,22,5.34,Java,data science,Hyderabad,1,1,java,-1.5371393264349922,0.24105619309574222,-0.4682570815302714,-1.41544918471329
+839,Saanvi Verma,18,5.06,"Data Analysis, Python",data science,Bangalore,4,0,data analysis  python,-1.7306884294703555,-1.5545206642282254,-1.3517610089458778,0.2940305069694274
+840,Sai Nair,23,7.99,"Java, Web Dev, Python, Cybersecurity",data science,Mumbai,3,0,java  web dev  python  cybersecurity,0.2946646844354095,0.6899504074267342,-1.3517610089458778,-0.27579605692481174
+841,Vivaan Patel,20,8.65,"Python, ML, Java, Web Dev",cybersecurity,Hyderabad,1,3,python  ml  java  web dev,0.7508875701616228,-0.6567322355662416,1.2987507733009414,-1.41544918471329
+842,Diya Kumar,20,9.51,"Java, Python, Data Analysis",ai,Hyderabad,2,0,java  python  data analysis,1.3453598151988093,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+843,Ishaan Verma,22,7.97,"Web Dev, Python, ML, Data Analysis",web dev,Coimbatore,1,3,web dev  python  ml  data analysis,0.2808397485043118,0.24105619309574222,1.2987507733009414,-1.41544918471329
+844,Aadhya Gupta,24,8.13,"Data Analysis, Java, Python",web dev,Coimbatore,5,1,data analysis  java  python,0.3914392359530915,1.1388446217577262,-0.4682570815302714,0.8638570708636665
+845,Vivaan Gupta,18,6.43,"Cybersecurity, Web Dev, Python, ML",data science,Chennai,4,2,cybersecurity  web dev  python  ml,-0.7836803181901857,-1.5545206642282254,0.415246845885335,0.2940305069694274
+846,Aditya Singh,20,9.98,"Python, Cybersecurity, Data Analysis, Web Dev",data science,Mumbai,2,0,python  cybersecurity  data analysis  web dev,1.670245809579598,-0.6567322355662416,-1.3517610089458778,-0.8456226208190508
+847,Ishaan Singh,24,8.29,"Java, Data Analysis",data science,Delhi,4,0,java  data analysis,0.5020387234018693,1.1388446217577262,-1.3517610089458778,0.2940305069694274
+848,Aadhya Bhat,20,7.44,"Cybersecurity, Python, Data Analysis, Web Dev",web dev,Madurai,5,0,cybersecurity  python  data analysis  web dev,-0.08552105366976806,-0.6567322355662416,-1.3517610089458778,0.8638570708636665
+849,Arjun Sharma,18,9.55,Java,data science,Delhi,4,2,java,1.3730096870610047,-1.5545206642282254,0.415246845885335,0.2940305069694274
+850,Aadhya Patel,18,5.32,"Cybersecurity, Data Analysis",web dev,Coimbatore,1,3,cybersecurity  data analysis,-1.5509642623660893,-1.5545206642282254,1.2987507733009414,-1.41544918471329
+851,Aditya Patel,22,8.47,"Web Dev, ML, Python",web dev,Chennai,4,1,web dev  ml  python,0.6264631467817466,0.24105619309574222,-0.4682570815302714,0.2940305069694274
+852,Kavya Das,21,7.32,Python,cybersecurity,Chennai,1,2,python,-0.16847066925635235,-0.2078380212352497,0.415246845885335,-1.41544918471329
+854,Aadhya Joshi,22,8.16,"Cybersecurity, Web Dev",ai,Hyderabad,4,0,cybersecurity  web dev,0.41217663984973707,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+855,Riya Nair,22,8.2,"Python, ML",ai,Bangalore,4,3,python  ml,0.4398265117119312,0.24105619309574222,1.2987507733009414,0.2940305069694274
+856,Diya Das,21,6.92,"ML, Java, Web Dev, Python",data science,Madurai,5,2,ml  java  web dev  python,-0.4449693878783,-0.2078380212352497,0.415246845885335,0.8638570708636665
+857,Meera Reddy,23,6.31,"Data Analysis, ML, Web Dev",ai,Chennai,2,2,data analysis  ml  web dev,-0.86662993377677,0.6899504074267342,0.415246845885335,-0.8456226208190508
+859,Saanvi Nair,23,6.27,"Web Dev, Python",cybersecurity,Hyderabad,1,0,web dev  python,-0.8942798056389648,0.6899504074267342,-1.3517610089458778,-1.41544918471329
+860,Arjun Singh,21,8.02,Data Analysis,cybersecurity,Bangalore,3,3,data analysis,0.3154020883320551,-0.2078380212352497,1.2987507733009414,-0.27579605692481174
+861,Aarohi Kumar,20,6.38,"Web Dev, Java",cybersecurity,Bangalore,1,0,web dev  java,-0.818242658017929,-0.6567322355662416,-1.3517610089458778,-1.41544918471329
+862,Aditya Singh,22,7.36,"Cybersecurity, Web Dev",cybersecurity,Hyderabad,3,3,cybersecurity  web dev,-0.1408207973941576,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+864,Kavya Verma,25,7.95,"Data Analysis, Web Dev, Python, Java",web dev,Madurai,5,1,data analysis  web dev  python  java,0.26701481257321474,1.587738836088718,-0.4682570815302714,0.8638570708636665
+866,Kavya Das,20,9.22,Python,web dev,Hyderabad,1,1,python,1.144898244197898,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+867,Reyansh Nair,24,9.01,Java,web dev,Bangalore,1,3,java,0.999736416921375,1.1388446217577262,1.2987507733009414,-1.41544918471329
+868,Diya Mehta,23,6.98,"Java, Cybersecurity, Data Analysis, Web Dev",data science,Bangalore,6,1,java  cybersecurity  data analysis  web dev,-0.40349458008500755,0.6899504074267342,-0.4682570815302714,1.4336836347579056
+869,Saanvi Verma,18,6.99,Web Dev,cybersecurity,Hyderabad,5,0,web dev,-0.396582112119459,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+871,Saanvi Verma,20,7.54,"Python, Java, ML",cybersecurity,Mumbai,1,2,python  java  ml,-0.016396374014281456,-0.6567322355662416,0.415246845885335,-1.41544918471329
+873,Sai Gupta,20,5.66,"Java, Web Dev",cybersecurity,Hyderabad,6,0,java  web dev,-1.3159403515374342,-0.6567322355662416,-1.3517610089458778,1.4336836347579056
+874,Saanvi Joshi,18,6.95,"Java, Data Analysis, Cybersecurity, Python",ai,Chennai,3,3,java  data analysis  cybersecurity  python,-0.4242319839816538,-1.5545206642282254,1.2987507733009414,-0.27579605692481174
+875,Aarav Reddy,25,9.54,"Cybersecurity, ML, Java, Python",web dev,Mumbai,5,0,cybersecurity  ml  java  python,1.366097219095455,1.587738836088718,-1.3517610089458778,0.8638570708636665
+876,Aarohi Joshi,21,8.37,"Cybersecurity, Web Dev, ML, Data Analysis",web dev,Bangalore,1,0,cybersecurity  web dev  ml  data analysis,0.5573384671262588,-0.2078380212352497,-1.3517610089458778,-1.41544918471329
+877,Ira Mehta,19,9.78,"ML, Data Analysis, Java, Python",cybersecurity,Delhi,2,0,ml  data analysis  java  python,1.5319964502686234,-1.1056264498972335,-1.3517610089458778,-0.8456226208190508
+879,Vivaan Nair,23,6.29,"Cybersecurity, Data Analysis, Python, Web Dev",cybersecurity,Mumbai,1,2,cybersecurity  data analysis  python  web dev,-0.880454869707867,0.6899504074267342,0.415246845885335,-1.41544918471329
+880,Aditya Reddy,21,8.43,"ML, Web Dev, Python",ai,Coimbatore,2,3,ml  web dev  python,0.5988132749195513,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+881,Kavya Das,23,9.0,Cybersecurity,data science,Delhi,4,1,cybersecurity,0.9928239489558265,0.6899504074267342,-0.4682570815302714,0.2940305069694274
+882,Vivaan Singh,22,5.61,ML,cybersecurity,Delhi,4,3,ml,-1.3505026913651774,0.24105619309574222,1.2987507733009414,0.2940305069694274
+883,Kavya Nair,21,9.5,"ML, Data Analysis, Web Dev",data science,Coimbatore,4,1,ml  data analysis  web dev,1.3384473472332608,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+884,Vivaan Chopra,20,6.77,"Cybersecurity, Web Dev, Data Analysis",ai,Mumbai,2,2,cybersecurity  web dev  data analysis,-0.5486564073615305,-0.6567322355662416,0.415246845885335,-0.8456226208190508
+885,Kavya Nair,22,8.39,"Web Dev, Python",data science,Hyderabad,2,2,web dev  python,0.5711634030573571,0.24105619309574222,0.415246845885335,-0.8456226208190508
+886,Aarav Patel,20,7.99,"Python, Java, Cybersecurity, Web Dev",data science,Coimbatore,6,1,python  java  cybersecurity  web dev,0.2946646844354095,-0.6567322355662416,-0.4682570815302714,1.4336836347579056
+887,Ananya Patel,20,9.57,"Python, Cybersecurity, Java",web dev,Mumbai,1,2,python  cybersecurity  java,1.3868346229921018,-0.6567322355662416,0.415246845885335,-1.41544918471329
+890,Reyansh Joshi,25,9.96,"ML, Cybersecurity, Java, Data Analysis",cybersecurity,Mumbai,2,0,ml  cybersecurity  java  data analysis,1.6564208736485009,1.587738836088718,-1.3517610089458778,-0.8456226208190508
+891,Sai Kumar,18,7.11,"Python, Data Analysis, Cybersecurity",ai,Coimbatore,3,2,python  data analysis  cybersecurity,-0.3136324965328747,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+892,Riya Mehta,18,5.42,"Data Analysis, ML, Java, Web Dev",cybersecurity,Bangalore,2,0,data analysis  ml  java  web dev,-1.4818395827106028,-1.5545206642282254,-1.3517610089458778,-0.8456226208190508
+893,Ananya Reddy,22,9.04,"Python, Data Analysis, ML, Java",data science,Delhi,1,2,python  data analysis  ml  java,1.0204738208180206,0.24105619309574222,0.415246845885335,-1.41544918471329
+894,Vivaan Verma,25,8.26,"ML, Web Dev, Data Analysis",data science,Madurai,4,0,ml  web dev  data analysis,0.4813013195052237,1.587738836088718,-1.3517610089458778,0.2940305069694274
+895,Ananya Bhat,23,9.26,Data Analysis,cybersecurity,Bangalore,4,2,data analysis,1.1725481160600921,0.6899504074267342,0.415246845885335,0.2940305069694274
+896,Krishna Chopra,22,6.38,"Web Dev, Data Analysis",web dev,Madurai,5,1,web dev  data analysis,-0.818242658017929,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+897,Aarav Das,19,7.95,Python,ai,Bangalore,4,1,python,0.26701481257321474,-1.1056264498972335,-0.4682570815302714,0.2940305069694274
+898,Arjun Iyer,25,9.11,Cybersecurity,cybersecurity,Madurai,4,3,cybersecurity,1.0688610965768617,1.587738836088718,1.2987507733009414,0.2940305069694274
+899,Krishna Chopra,24,8.8,"Data Analysis, Java, Python",ai,Delhi,3,3,data analysis  java  python,0.8545745896448533,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+900,Aditya Sharma,25,6.86,"Web Dev, Python",ai,Chennai,1,1,web dev  python,-0.4864441956715918,1.587738836088718,-0.4682570815302714,-1.41544918471329
+901,Reyansh Mehta,21,6.96,"Python, Java",data science,Madurai,2,3,python  java,-0.41731951601610523,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+902,Riya Das,21,7.15,Cybersecurity,cybersecurity,Madurai,4,0,cybersecurity,-0.2859826246706799,-0.2078380212352497,-1.3517610089458778,0.2940305069694274
+903,Aarohi Chopra,25,8.81,"Data Analysis, Java, Python",data science,Hyderabad,4,2,data analysis  java  python,0.8614870576104019,1.587738836088718,0.415246845885335,0.2940305069694274
+904,Vivaan Mehta,22,7.59,"Data Analysis, Python, Cybersecurity, Java",web dev,Bangalore,2,3,data analysis  python  cybersecurity  java,0.018165965813461846,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+905,Aditya Gupta,20,6.7,"Web Dev, ML",web dev,Mumbai,3,1,web dev  ml,-0.5970436831203709,-0.6567322355662416,-0.4682570815302714,-0.27579605692481174
+907,Arjun Gupta,22,7.66,"Python, Cybersecurity, Web Dev",ai,Delhi,4,3,python  cybersecurity  web dev,0.06655324157230284,0.24105619309574222,1.2987507733009414,0.2940305069694274
+908,Ananya Bhat,21,7.8,"Python, ML, Java, Data Analysis",ai,Chennai,4,0,python  ml  java  data analysis,0.1633277930899842,-0.2078380212352497,-1.3517610089458778,0.2940305069694274
+910,Aarav Iyer,25,7.53,"ML, Cybersecurity, Web Dev, Data Analysis",ai,Delhi,3,0,ml  cybersecurity  web dev  data analysis,-0.02330884197982999,1.587738836088718,-1.3517610089458778,-0.27579605692481174
+911,Krishna Sharma,21,5.5,"Cybersecurity, ML, Python, Data Analysis",data science,Madurai,6,1,cybersecurity  ml  python  data analysis,-1.4265398389862132,-0.2078380212352497,-0.4682570815302714,1.4336836347579056
+912,Diya Mehta,20,6.94,Cybersecurity,ai,Madurai,2,2,cybersecurity,-0.4311444519472023,-0.6567322355662416,0.415246845885335,-0.8456226208190508
+914,Ishaan Patel,22,6.45,"Python, Data Analysis, ML, Cybersecurity",cybersecurity,Mumbai,5,1,python  data analysis  ml  cybersecurity,-0.769855382259088,0.24105619309574222,-0.4682570815302714,0.8638570708636665
+915,Ishaan Reddy,22,6.85,Java,ai,Mumbai,4,0,java,-0.493356663637141,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+916,Krishna Gupta,20,9.44,"Python, Web Dev, Data Analysis, Java",cybersecurity,Chennai,4,1,python  web dev  data analysis  java,1.2969725394399683,-0.6567322355662416,-0.4682570815302714,0.2940305069694274
+917,Vivaan Singh,21,7.73,Data Analysis,ai,Bangalore,5,0,data analysis,0.11494051733114383,-0.2078380212352497,-1.3517610089458778,0.8638570708636665
+918,Arjun Kumar,20,9.81,"Cybersecurity, Web Dev, Java, Data Analysis",web dev,Chennai,4,0,cybersecurity  web dev  java  data analysis,1.5527338541652704,-0.6567322355662416,-1.3517610089458778,0.2940305069694274
+920,Vivaan Kumar,22,5.77,"Python, Java",ai,Madurai,1,0,python  java,-1.239903203916399,0.24105619309574222,-1.3517610089458778,-1.41544918471329
+921,Arjun Gupta,19,5.84,"Web Dev, Python",ai,Chennai,5,2,web dev  python,-1.191515928157558,-1.1056264498972335,0.415246845885335,0.8638570708636665
+922,Kavya Nair,24,7.2,"Python, Java",cybersecurity,Madurai,2,1,python  java,-0.25142028484293666,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+923,Meera Singh,25,8.55,Cybersecurity,web dev,Madurai,2,0,cybersecurity,0.6817628905061361,1.587738836088718,-1.3517610089458778,-0.8456226208190508
+924,Ishaan Bhat,22,6.71,Web Dev,web dev,Madurai,4,0,web dev,-0.5901312151548224,0.24105619309574222,-1.3517610089458778,0.2940305069694274
+925,Aditya Verma,21,9.15,"Java, ML, Cybersecurity",data science,Delhi,4,2,java  ml  cybersecurity,1.096510968439057,-0.2078380212352497,0.415246845885335,0.2940305069694274
+926,Sai Gupta,18,7.9,"Web Dev, Python",web dev,Chennai,5,2,web dev  python,0.23245247274547143,-1.5545206642282254,0.415246845885335,0.8638570708636665
+927,Meera Bhat,22,8.13,"Python, ML",ai,Chennai,3,3,python  ml,0.3914392359530915,0.24105619309574222,1.2987507733009414,-0.27579605692481174
+928,Aarav Reddy,20,8.91,Cybersecurity,data science,Bangalore,3,3,cybersecurity,0.9306117372658884,-0.6567322355662416,1.2987507733009414,-0.27579605692481174
+929,Kavya Chopra,19,8.12,"Java, Cybersecurity",data science,Delhi,1,3,java  cybersecurity,0.3845267679875417,-1.1056264498972335,1.2987507733009414,-1.41544918471329
+932,Krishna Kumar,23,6.14,Web Dev,ai,Delhi,3,0,web dev,-0.9841418891910976,0.6899504074267342,-1.3517610089458778,-0.27579605692481174
+933,Saanvi Joshi,19,8.61,"ML, Java",data science,Chennai,5,2,ml  java,0.7232376982994274,-1.1056264498972335,0.415246845885335,0.8638570708636665
+934,Ishaan Verma,21,5.19,"Cybersecurity, ML",cybersecurity,Coimbatore,6,2,cybersecurity  ml,-1.6408263459182222,-0.2078380212352497,0.415246845885335,1.4336836347579056
+935,Sai Das,24,5.62,Python,data science,Madurai,1,3,python,-1.3435902233996289,1.1388446217577262,1.2987507733009414,-1.41544918471329
+936,Ishaan Mehta,21,7.33,"Data Analysis, Web Dev, ML",ai,Chennai,2,3,data analysis  web dev  ml,-0.1615582012908038,-0.2078380212352497,1.2987507733009414,-0.8456226208190508
+937,Vivaan Iyer,23,5.74,"Java, Python",cybersecurity,Delhi,3,1,java  python,-1.2606406078130445,0.6899504074267342,-0.4682570815302714,-0.27579605692481174
+938,Arjun Verma,25,5.47,"Cybersecurity, ML",data science,Bangalore,4,3,cybersecurity  ml,-1.4472772428828595,1.587738836088718,1.2987507733009414,0.2940305069694274
+939,Ishaan Chopra,23,7.94,"Java, Python, Data Analysis",web dev,Chennai,2,3,java  python  data analysis,0.2601023446076662,0.6899504074267342,1.2987507733009414,-0.8456226208190508
+941,Kavya Sharma,24,6.93,"Java, Cybersecurity, ML, Python",cybersecurity,Madurai,3,3,java  cybersecurity  ml  python,-0.4380569199127515,1.1388446217577262,1.2987507733009414,-0.27579605692481174
+942,Reyansh Gupta,18,6.81,"Cybersecurity, Data Analysis",data science,Coimbatore,1,2,cybersecurity  data analysis,-0.5210065354993357,-1.5545206642282254,0.415246845885335,-1.41544918471329
+943,Aadhya Reddy,22,9.9,Cybersecurity,ai,Madurai,2,3,cybersecurity,1.6149460658552084,0.24105619309574222,1.2987507733009414,-0.8456226208190508
+944,Reyansh Verma,20,8.01,"ML, Cybersecurity, Java, Web Dev",web dev,Madurai,4,2,ml  cybersecurity  java  web dev,0.30848962036650657,-0.6567322355662416,0.415246845885335,0.2940305069694274
+945,Sai Bhat,22,7.38,"Web Dev, Cybersecurity",web dev,Chennai,1,3,web dev  cybersecurity,-0.12699586146306052,0.24105619309574222,1.2987507733009414,-1.41544918471329
+946,Aarohi Joshi,21,5.02,"Java, Web Dev, ML, Cybersecurity",data science,Chennai,1,0,java  web dev  ml  cybersecurity,-1.7583383013325504,-0.2078380212352497,-1.3517610089458778,-1.41544918471329
+947,Aarohi Chopra,18,9.47,"Java, Data Analysis",cybersecurity,Delhi,3,2,java  data analysis,1.317709943336615,-1.5545206642282254,0.415246845885335,-0.27579605692481174
+948,Krishna Nair,23,6.28,"Web Dev, Python",cybersecurity,Chennai,5,0,web dev  python,-0.8873673376734156,0.6899504074267342,-1.3517610089458778,0.8638570708636665
+949,Vivaan Gupta,24,8.13,ML,cybersecurity,Bangalore,2,3,ml,0.3914392359530915,1.1388446217577262,1.2987507733009414,-0.8456226208190508
+950,Arjun Gupta,23,8.44,"Java, Python, Web Dev, Data Analysis",cybersecurity,Coimbatore,3,2,java  python  web dev  data analysis,0.6057257428850998,0.6899504074267342,0.415246845885335,-0.27579605692481174
+951,Reyansh Singh,23,7.64,"Java, Python, Web Dev",cybersecurity,Mumbai,6,0,java  python  web dev,0.05272830564120515,0.6899504074267342,-1.3517610089458778,1.4336836347579056
+952,Diya Reddy,25,9.1,"Web Dev, Cybersecurity, Python, Java",cybersecurity,Hyderabad,1,3,web dev  cybersecurity  python  java,1.0619486286113131,1.587738836088718,1.2987507733009414,-1.41544918471329
+953,Reyansh Joshi,20,6.05,"Java, Data Analysis, ML, Web Dev",ai,Hyderabad,1,1,java  data analysis  ml  web dev,-1.0463541008810358,-0.6567322355662416,-0.4682570815302714,-1.41544918471329
+956,Vivaan Iyer,20,8.69,"Python, Cybersecurity, ML",data science,Bangalore,1,0,python  cybersecurity  ml,0.7785374420238169,-0.6567322355662416,-1.3517610089458778,-1.41544918471329
+958,Aadhya Kumar,25,8.84,Cybersecurity,cybersecurity,Mumbai,1,2,cybersecurity,0.8822244615070475,1.587738836088718,0.415246845885335,-1.41544918471329
+959,Ishaan Bhat,18,9.23,"Data Analysis, Cybersecurity",data science,Delhi,2,2,data analysis  cybersecurity,1.1518107121634467,-1.5545206642282254,0.415246845885335,-0.8456226208190508
+960,Aarohi Patel,25,7.0,Python,data science,Madurai,2,1,python,-0.3896696441539105,1.587738836088718,-0.4682570815302714,-0.8456226208190508
+962,Saanvi Bhat,23,6.53,Java,cybersecurity,Chennai,3,1,java,-0.7145556385346985,0.6899504074267342,-0.4682570815302714,-0.27579605692481174
+963,Aditya Mehta,21,7.89,"Data Analysis, Python",ai,Coimbatore,2,0,data analysis  python,0.22554000477992228,-0.2078380212352497,-1.3517610089458778,-0.8456226208190508
+965,Aarav Patel,19,5.38,"Cybersecurity, Web Dev, Java, ML",data science,Bangalore,2,1,cybersecurity  web dev  java  ml,-1.5094894545727975,-1.1056264498972335,-0.4682570815302714,-0.8456226208190508
+966,Riya Chopra,21,8.54,Data Analysis,web dev,Chennai,4,1,data analysis,0.6748504225405865,-0.2078380212352497,-0.4682570815302714,0.2940305069694274
+967,Aarav Joshi,19,8.55,"Web Dev, Data Analysis",cybersecurity,Delhi,4,1,web dev  data analysis,0.6817628905061361,-1.1056264498972335,-0.4682570815302714,0.2940305069694274
+969,Reyansh Bhat,23,6.33,"Java, Data Analysis, Cybersecurity",cybersecurity,Madurai,6,0,java  data analysis  cybersecurity,-0.8528049978456723,0.6899504074267342,-1.3517610089458778,1.4336836347579056
+970,Diya Bhat,24,7.38,Java,data science,Madurai,1,0,java,-0.12699586146306052,1.1388446217577262,-1.3517610089458778,-1.41544918471329
+971,Riya Reddy,18,6.1,"Cybersecurity, Web Dev",data science,Coimbatore,5,0,cybersecurity  web dev,-1.0117917610532923,-1.5545206642282254,-1.3517610089458778,0.8638570708636665
+972,Sai Joshi,20,6.79,"Java, Cybersecurity",ai,Chennai,1,0,java  cybersecurity,-0.5348314714304329,-0.6567322355662416,-1.3517610089458778,-1.41544918471329
+973,Aadhya Nair,23,5.94,"ML, Data Analysis",data science,Coimbatore,6,1,ml  data analysis,-1.1223912485020708,0.6899504074267342,-0.4682570815302714,1.4336836347579056
+975,Reyansh Singh,21,8.41,"Web Dev, Java, Data Analysis, Python",ai,Bangalore,6,1,web dev  java  data analysis  python,0.5849883389884541,-0.2078380212352497,-0.4682570815302714,1.4336836347579056
+977,Ira Singh,24,7.76,"ML, Data Analysis, Java",cybersecurity,Madurai,4,0,ml  data analysis  java,0.13567792122778943,1.1388446217577262,-1.3517610089458778,0.2940305069694274
+978,Arjun Chopra,20,8.88,"Python, Java, Cybersecurity, Web Dev",ai,Bangalore,2,3,python  java  cybersecurity  web dev,0.9098743333692428,-0.6567322355662416,1.2987507733009414,-0.8456226208190508
+979,Krishna Gupta,24,5.79,"Python, Data Analysis, Cybersecurity",web dev,Delhi,2,1,python  data analysis  cybersecurity,-1.2260782679853013,1.1388446217577262,-0.4682570815302714,-0.8456226208190508
+980,Ira Kumar,25,8.15,"Java, Python, Web Dev",cybersecurity,Mumbai,3,0,java  python  web dev,0.40526417188418856,1.587738836088718,-1.3517610089458778,-0.27579605692481174
+981,Aditya Iyer,21,7.01,"Java, ML, Data Analysis, Web Dev",ai,Mumbai,1,2,java  ml  data analysis  web dev,-0.3827571761883619,-0.2078380212352497,0.415246845885335,-1.41544918471329
+982,Saanvi Mehta,18,7.56,"Cybersecurity, ML",data science,Bangalore,2,1,cybersecurity  ml,-0.00257143808318438,-1.5545206642282254,-0.4682570815302714,-0.8456226208190508
+983,Saanvi Sharma,25,7.97,"Data Analysis, Cybersecurity, Web Dev",cybersecurity,Hyderabad,1,2,data analysis  cybersecurity  web dev,0.2808397485043118,1.587738836088718,0.415246845885335,-1.41544918471329
+984,Aditya Kumar,25,9.2,"Cybersecurity, ML, Web Dev, Java",web dev,Hyderabad,1,1,cybersecurity  ml  web dev  java,1.1310733082667996,1.587738836088718,-0.4682570815302714,-1.41544918471329
+986,Kavya Joshi,20,9.13,"Python, Web Dev, ML",ai,Chennai,3,2,python  web dev  ml,1.08268603250796,-0.6567322355662416,0.415246845885335,-0.27579605692481174
+988,Sai Joshi,21,9.54,"Data Analysis, Web Dev, ML, Python",data science,Hyderabad,3,0,data analysis  web dev  ml  python,1.366097219095455,-0.2078380212352497,-1.3517610089458778,-0.27579605692481174
+989,Diya Gupta,20,9.55,"Java, Python, Web Dev, ML",data science,Madurai,4,2,java  python  web dev  ml,1.3730096870610047,-0.6567322355662416,0.415246845885335,0.2940305069694274
+990,Kavya Verma,22,5.58,"ML, Java, Cybersecurity",web dev,Chennai,2,0,ml  java  cybersecurity,-1.3712400952618238,0.24105619309574222,-1.3517610089458778,-0.8456226208190508
+991,Arjun Bhat,18,9.65,"ML, Python, Data Analysis",cybersecurity,Delhi,1,3,ml  python  data analysis,1.4421343667164912,-1.5545206642282254,1.2987507733009414,-1.41544918471329
+992,Aarohi Joshi,24,5.02,"Cybersecurity, ML, Python",data science,Delhi,5,0,cybersecurity  ml  python,-1.7583383013325504,1.1388446217577262,-1.3517610089458778,0.8638570708636665
+993,Aarav Joshi,20,8.33,"Java, Web Dev, Python",web dev,Madurai,1,3,java  web dev  python,0.5296885952640646,-0.6567322355662416,1.2987507733009414,-1.41544918471329
+994,Riya Chopra,21,5.65,"Data Analysis, Java",ai,Madurai,4,2,data analysis  java,-1.3228528195029827,-0.2078380212352497,0.415246845885335,0.2940305069694274
+996,Ishaan Bhat,20,8.17,"Python, Web Dev",web dev,Delhi,5,1,python  web dev,0.41908910781528563,-0.6567322355662416,-0.4682570815302714,0.8638570708636665
+997,Aadhya Joshi,18,6.8,"Cybersecurity, Data Analysis, Web Dev",data science,Chennai,4,3,cybersecurity  data analysis  web dev,-0.5279190034648843,-1.5545206642282254,1.2987507733009414,0.2940305069694274
+998,Saanvi Joshi,18,7.38,"Python, Java",data science,Madurai,2,3,python  java,-0.12699586146306052,-1.5545206642282254,1.2987507733009414,-0.8456226208190508
+999,Kavya Mehta,23,8.85,"Java, Python, Cybersecurity",web dev,Delhi,1,3,java  python  cybersecurity,0.889136929472596,0.6899504074267342,1.2987507733009414,-1.41544918471329
+1000,Krishna Joshi,24,8.84,"Web Dev, Cybersecurity",ai,Bangalore,2,0,web dev  cybersecurity,0.8822244615070475,1.1388446217577262,-1.3517610089458778,-0.8456226208190508
